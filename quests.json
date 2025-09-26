@@ -246,15 +246,15 @@
       23
     ],
     "application": {
-      "link": "https://bit.ly/32Discordplayquest",
+      "link": "https://bit.ly/32STPlayquest2",
       "id": "1191652130323431514",
       "name": "Snowbreak: Containment Zone"
     },
     "assets": {
       "hero": "1420180737738674186.jpg",
-      "hero_video": "1420179317400408216.mp4",
+      "hero_video": null,
       "quest_bar_hero": "1420180937102065786.jpg",
-      "quest_bar_hero_video": "1420179317400408216.mp4",
+      "quest_bar_hero_video": null,
       "game_tile": "d4718a8d-4af4-4eb1-985c-a3c42e95265e.jpg",
       "logotype": "d3e87b6e-9145-44ba-9828-3a7bb60eed03.png",
       "game_tile_light": "1417602319532556408.jpg",
@@ -748,8 +748,8 @@
           "target": 900,
           "external_ids": [
             "PPSA21669_00",
-            "CUSA55048_00",
-            "PPSA21668_00"
+            "PPSA21668_00",
+            "CUSA55048_00"
           ]
         }
       }
@@ -778,8 +778,8 @@
           "target": 900,
           "external_ids": [
             "PPSA21669_00",
-            "CUSA55048_00",
-            "PPSA21668_00"
+            "PPSA21668_00",
+            "CUSA55048_00"
           ]
         }
       },
@@ -867,16 +867,16 @@
           "event_name": "PLAY_ON_XBOX",
           "target": 900,
           "external_ids": [
-            "2106683993",
-            "883004381"
+            "883004381",
+            "2106683993"
           ]
         },
         "PLAY_ON_PLAYSTATION": {
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "CUSA37423_00",
-            "PPSA10793_00"
+            "PPSA10793_00",
+            "CUSA37423_00"
           ]
         }
       }
@@ -896,16 +896,16 @@
           "type": "PLAY_ON_XBOX",
           "target": 900,
           "external_ids": [
-            "2106683993",
-            "883004381"
+            "883004381",
+            "2106683993"
           ]
         },
         "PLAY_ON_PLAYSTATION": {
           "type": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "CUSA37423_00",
-            "PPSA10793_00"
+            "PPSA10793_00",
+            "CUSA37423_00"
           ]
         }
       },
@@ -1420,9 +1420,9 @@
           "event_name": "PLAY_ON_XBOX",
           "target": 900,
           "external_ids": [
+            "2139967680",
             "2111887267",
-            "2075142437",
-            "2139967680"
+            "2075142437"
           ]
         },
         "PLAY_ON_PLAYSTATION": {
@@ -1452,9 +1452,9 @@
           "type": "PLAY_ON_XBOX",
           "target": 900,
           "external_ids": [
+            "2139967680",
             "2111887267",
-            "2075142437",
-            "2139967680"
+            "2075142437"
           ]
         },
         "PLAY_ON_PLAYSTATION": {
@@ -1814,9 +1814,9 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA23974_00",
             "PPSA22040_00",
             "PPSA23975_00",
+            "PPSA23974_00",
             "PPSA22041_00"
           ]
         }
@@ -1844,9 +1844,9 @@
           "type": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA23974_00",
             "PPSA22040_00",
             "PPSA23975_00",
+            "PPSA23974_00",
             "PPSA22041_00"
           ]
         }
@@ -2179,9 +2179,9 @@
     },
     "assets": {
       "hero": "1419732314677842123.jpg",
-      "hero_video": "1419732183630872576.mp4",
+      "hero_video": null,
       "quest_bar_hero": "1419732110733738186.jpg",
-      "quest_bar_hero_video": "1419732183630872576.mp4",
+      "quest_bar_hero_video": null,
       "game_tile": "1419740576298959022.png",
       "logotype": "1419738687817781270.png",
       "game_tile_light": "1419740552357871657.png",
@@ -2359,9 +2359,9 @@
           "target": 900,
           "external_ids": [
             "PPSA28883_00",
-            "PPSA28884_00",
             "PPSA28882_00",
-            "PPSA28881_00"
+            "PPSA28881_00",
+            "PPSA28884_00"
           ]
         }
       }
@@ -2389,9 +2389,9 @@
           "target": 900,
           "external_ids": [
             "PPSA28883_00",
-            "PPSA28884_00",
             "PPSA28882_00",
-            "PPSA28881_00"
+            "PPSA28881_00",
+            "PPSA28884_00"
           ]
         }
       },
@@ -3583,11 +3583,11 @@
           "target": 900,
           "external_ids": [
             "PPSA15518_00",
-            "PPSA23923_00",
             "PPSA16194_00",
-            "PPSA15517_00",
+            "PPSA23922_00",
+            "PPSA23923_00",
             "PPSA23921_00",
-            "PPSA23922_00"
+            "PPSA15517_00"
           ]
         }
       }
@@ -3615,11 +3615,11 @@
           "target": 900,
           "external_ids": [
             "PPSA15518_00",
-            "PPSA23923_00",
             "PPSA16194_00",
-            "PPSA15517_00",
+            "PPSA23922_00",
+            "PPSA23923_00",
             "PPSA23921_00",
-            "PPSA23922_00"
+            "PPSA15517_00"
           ]
         }
       },
