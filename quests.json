@@ -739,17 +739,17 @@
           "event_name": "PLAY_ON_XBOX",
           "target": 900,
           "external_ids": [
-            "1794906646",
-            "1758492876"
+            "1758492876",
+            "1794906646"
           ]
         },
         "PLAY_ON_PLAYSTATION": {
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
+            "PPSA21669_00",
             "PPSA21668_00",
-            "CUSA55048_00",
-            "PPSA21669_00"
+            "CUSA55048_00"
           ]
         }
       }
@@ -769,17 +769,17 @@
           "type": "PLAY_ON_XBOX",
           "target": 900,
           "external_ids": [
-            "1794906646",
-            "1758492876"
+            "1758492876",
+            "1794906646"
           ]
         },
         "PLAY_ON_PLAYSTATION": {
           "type": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
+            "PPSA21669_00",
             "PPSA21668_00",
-            "CUSA55048_00",
-            "PPSA21669_00"
+            "CUSA55048_00"
           ]
         }
       },
@@ -1420,9 +1420,9 @@
           "event_name": "PLAY_ON_XBOX",
           "target": 900,
           "external_ids": [
-            "2111887267",
             "2139967680",
-            "2075142437"
+            "2075142437",
+            "2111887267"
           ]
         },
         "PLAY_ON_PLAYSTATION": {
@@ -1430,8 +1430,8 @@
           "target": 900,
           "external_ids": [
             "PPSA08804_00",
-            "PPSA30943_00",
             "PPSA30664_00",
+            "PPSA30943_00",
             "CUSA35016_00"
           ]
         }
@@ -1452,9 +1452,9 @@
           "type": "PLAY_ON_XBOX",
           "target": 900,
           "external_ids": [
-            "2111887267",
             "2139967680",
-            "2075142437"
+            "2075142437",
+            "2111887267"
           ]
         },
         "PLAY_ON_PLAYSTATION": {
@@ -1462,8 +1462,8 @@
           "target": 900,
           "external_ids": [
             "PPSA08804_00",
-            "PPSA30943_00",
             "PPSA30664_00",
+            "PPSA30943_00",
             "CUSA35016_00"
           ]
         }
@@ -1814,9 +1814,9 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
+            "PPSA22041_00",
             "PPSA23975_00",
             "PPSA23974_00",
-            "PPSA22041_00",
             "PPSA22040_00"
           ]
         }
@@ -1844,9 +1844,9 @@
           "type": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
+            "PPSA22041_00",
             "PPSA23975_00",
             "PPSA23974_00",
-            "PPSA22041_00",
             "PPSA22040_00"
           ]
         }
@@ -2204,7 +2204,7 @@
       "tasks": {
         "WATCH_VIDEO": {
           "event_name": "WATCH_VIDEO",
-          "target": 14,
+          "target": 29,
           "external_ids": []
         }
       }
@@ -2213,7 +2213,7 @@
       "tasks": {
         "WATCH_VIDEO": {
           "type": "WATCH_VIDEO",
-          "target": 14,
+          "target": 29,
           "assets": {
             "video": {
               "url": "1419741302089711716_1080.mp4",
@@ -3582,12 +3582,12 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA15517_00",
-            "PPSA23921_00",
-            "PPSA23922_00",
             "PPSA23923_00",
+            "PPSA23922_00",
+            "PPSA15518_00",
             "PPSA16194_00",
-            "PPSA15518_00"
+            "PPSA15517_00",
+            "PPSA23921_00"
           ]
         }
       }
@@ -3614,12 +3614,12 @@
           "type": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA15517_00",
-            "PPSA23921_00",
-            "PPSA23922_00",
             "PPSA23923_00",
+            "PPSA23922_00",
+            "PPSA15518_00",
             "PPSA16194_00",
-            "PPSA15518_00"
+            "PPSA15517_00",
+            "PPSA23921_00"
           ]
         }
       },
@@ -3655,7 +3655,7 @@
     "id": "1415444527229042769",
     "config_version": 2,
     "starts_at": "2025-09-16T17:00:12+00:00",
-    "expires_at": "2025-09-29T23:00:12+00:00",
+    "expires_at": "2025-10-01T00:00:12+00:00",
     "features": [
       3,
       9,
@@ -3734,7 +3734,7 @@
           "orb_quantity": 700
         }
       ],
-      "rewards_expire_at": "2025-10-29T23:00:12+00:00",
+      "rewards_expire_at": "2025-10-31T00:00:12+00:00",
       "platforms": [
         0
       ]
@@ -4069,8 +4069,8 @@
           "event_name": "PLAY_ON_XBOX",
           "target": 900,
           "external_ids": [
-            "1852068331",
-            "1909324253"
+            "1909324253",
+            "1852068331"
           ]
         },
         "PLAY_ON_PLAYSTATION": {
@@ -4078,9 +4078,9 @@
           "target": 900,
           "external_ids": [
             "CUSA52334_00",
+            "PPSA27360_00",
             "PPSA27353_00",
-            "CUSA52342_00",
-            "PPSA27360_00"
+            "CUSA52342_00"
           ]
         }
       }
@@ -4100,8 +4100,8 @@
           "type": "PLAY_ON_XBOX",
           "target": 900,
           "external_ids": [
-            "1852068331",
-            "1909324253"
+            "1909324253",
+            "1852068331"
           ]
         },
         "PLAY_ON_PLAYSTATION": {
@@ -4109,9 +4109,9 @@
           "target": 900,
           "external_ids": [
             "CUSA52334_00",
+            "PPSA27360_00",
             "PPSA27353_00",
-            "CUSA52342_00",
-            "PPSA27360_00"
+            "CUSA52342_00"
           ]
         }
       },
@@ -4141,6 +4141,141 @@
       "platforms": [
         0
       ]
+    },
+    "share_policy": "shareable_everywhere"
+  },
+  "1413610443729145966": {
+    "config_version": 2,
+    "starts_at": "2025-09-08T17:00:13+00:00",
+    "expires_at": "2025-09-21T23:00:13+00:00",
+    "features": [
+      3,
+      9,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19,
+      23
+    ],
+    "application": {
+      "link": "https://www.himmovie.ca/",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "21b8ce7f-175d-4bc1-ac8b-8eda39ab4f60.jpeg",
+      "hero_video": "9e1baf74-4396-4302-a307-802267bb9836.mp4",
+      "quest_bar_hero": "4893ecef-40e5-4867-a4bf-55438ca2a824.jpg",
+      "quest_bar_hero_video": "9a491898-bf55-40e5-882a-aa59e48fe800.mp4",
+      "game_tile": "7fc0e2b8-cb18-4045-b6a7-acde682fd14a.png",
+      "logotype": "50209d2e-0b5e-4b89-a6d2-7e220e40dff0.png",
+      "game_tile_light": "1417602364248035408.png",
+      "game_tile_dark": "1417602365015589035.png",
+      "logotype_light": "1417602365711974460.png",
+      "logotype_dark": "1417602366391324752.png"
+    },
+    "colors": {
+      "primary": "#D62315",
+      "secondary": "#FFFFFF"
+    },
+    "messages": {
+      "quest_name": "HIM",
+      "game_title": "Only in Theatres September 19",
+      "game_publisher": "Universal Pictures"
+    },
+    "task_config": {
+      "type": 1,
+      "join_operator": "or",
+      "tasks": {
+        "WATCH_VIDEO": {
+          "event_name": "WATCH_VIDEO",
+          "target": 100,
+          "external_ids": []
+        }
+      }
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 100,
+          "assets": {
+            "video": {
+              "url": "1413612125246460035_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "1413612409662476359.jpg",
+              "caption": "1413612446375219410.vtt",
+              "transcript": "1413612478474096833.txt"
+            },
+            "video_low_res": {
+              "url": "1413612125246460035_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "1413612409662476359.jpg",
+              "caption": "1413612446375219410.vtt",
+              "transcript": "1413612478474096833.txt"
+            },
+            "video_hls": {
+              "url": "1413612125246460035.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "1413612409662476359.jpg",
+              "caption": "1413612446375219410.vtt",
+              "transcript": "1413612478474096833.txt"
+            }
+          },
+          "messages": {
+            "video_title": "HIM BTS",
+            "video_end_cta_title": "HIM",
+            "video_end_cta_subtitle": "Only in Theatres September 19",
+            "video_end_cta_button_label": "Learn More"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "700 orbs",
+            "name_with_article": "700 orbs",
+            "redemption_instructions_by_platform": {
+              "0": "Default"
+            }
+          },
+          "orb_quantity": 700
+        }
+      ],
+      "rewards_expire_at": "2025-10-21T23:00:13+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "video_metadata": {
+      "messages": {
+        "video_title": "HIM BTS",
+        "video_end_cta_title": "HIM",
+        "video_end_cta_subtitle": "Only in Theatres September 19",
+        "video_end_cta_button_label": "Learn More"
+      },
+      "assets": {
+        "video_player_video_hls": "1413612125246460035.m3u8",
+        "video_player_video": "1413612125246460035_1080.mp4",
+        "video_player_thumbnail": "1413612409662476359.jpg",
+        "video_player_video_low_res": "1413612125246460035_720.mp4",
+        "video_player_caption": "1413612446375219410.vtt",
+        "video_player_transcript": "1413612478474096833.txt",
+        "quest_bar_preview_video": null,
+        "quest_bar_preview_thumbnail": null,
+        "quest_home_video": null
+      }
     },
     "share_policy": "shareable_everywhere"
   }
