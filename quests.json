@@ -1,0 +1,4017 @@
+{
+  "1412856057944084480": {
+    "id": "1412856057944084480",
+    "config_version": 2,
+    "starts_at": "2025-09-24T17:00:33+00:00",
+    "expires_at": "2025-09-30T23:00:33+00:00",
+    "features": [
+      3,
+      9,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19,
+      23
+    ],
+    "application": {
+      "link": "https://store.steampowered.com/app/3201010/Starlight_ReVolver/",
+      "id": "1380591738238013440",
+      "name": "Starlight Re:Volver"
+    },
+    "assets": {
+      "hero": "e157cb58-962e-4614-a193-1af80a1f2e18.jpg",
+      "hero_video": "518a85cd-43ee-4e58-84bd-dca5602e77f7.mp4",
+      "quest_bar_hero": "ea655082-a378-4113-9afe-b555cfe7613a.jpg",
+      "quest_bar_hero_video": "74cbe524-e77f-4fe9-a8ce-4081c635e48c.mp4",
+      "game_tile": "dd363bbf-bbc2-4a11-aa9d-418a7acb7cb1.png",
+      "logotype": "a2dd0850-3689-410c-aa9f-012eacdc2ecd.png",
+      "game_tile_light": "1417602390198190101.png",
+      "game_tile_dark": "1417602390970073138.png",
+      "logotype_light": "1417602391603286168.png",
+      "logotype_dark": "1417602392517640383.png"
+    },
+    "colors": {
+      "primary": "#E95DD6",
+      "secondary": "#2B0FB4"
+    },
+    "messages": {
+      "quest_name": "Early Access",
+      "game_title": "Starlight Re:Volver",
+      "game_publisher": "Pahdo Labs"
+    },
+    "task_config": {
+      "type": 1,
+      "join_operator": "or",
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "event_name": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "external_ids": []
+        }
+      }
+    },
+    "task_config_v2": {
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "type": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1380591738238013440"
+            }
+          ]
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 3,
+          "sku_id": "1413239353219612796",
+          "asset": "1420757131937841193.mp4",
+          "asset_video": null,
+          "messages": {
+            "name": "Dream Dive Stars Avatar Decoration",
+            "name_with_article": "a Dream Dive Stars Avatar Decoration",
+            "redemption_instructions_by_platform": {
+              "0": "Default"
+            }
+          },
+          "expires_at": "2025-11-14T00:00:00+00:00",
+          "expires_at_premium": null,
+          "expiration_mode": 3
+        }
+      ],
+      "rewards_expire_at": "2025-10-30T23:00:33+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere"
+  },
+  "1416148745472442369": {
+    "id": "1416148745472442369",
+    "config_version": 2,
+    "starts_at": "2025-09-17T17:00:31+00:00",
+    "expires_at": "2025-09-23T23:00:31+00:00",
+    "features": [
+      3,
+      9,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19,
+      23
+    ],
+    "application": {
+      "link": "https://store.steampowered.com/app/3333850",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "1416156220586201089.jpg",
+      "hero_video": "1416156263133478992.mp4",
+      "quest_bar_hero": "1416156196703961168.jpg",
+      "quest_bar_hero_video": "1416156263133478992.mp4",
+      "game_tile": "4ade9fac-4df9-4815-b595-7d8fe945d568.png",
+      "logotype": "faadc45b-c7a7-424b-b47b-c5de418b0038.png",
+      "game_tile_light": "1417602333478617179.png",
+      "game_tile_dark": "1417602334187327528.png",
+      "logotype_light": "1417602334824992889.png",
+      "logotype_dark": "1417602335454003330.png"
+    },
+    "colors": {
+      "primary": "#2C5C56",
+      "secondary": "#14282D"
+    },
+    "messages": {
+      "quest_name": "Arkheron Reveal",
+      "game_title": "Arkheron",
+      "game_publisher": "Bonfire Studios"
+    },
+    "task_config": {
+      "type": 1,
+      "join_operator": "or",
+      "tasks": {
+        "WATCH_VIDEO": {
+          "event_name": "WATCH_VIDEO",
+          "target": 111,
+          "external_ids": []
+        }
+      }
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 111,
+          "assets": {
+            "video": {
+              "url": "1416156877233852548_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "1416157057144324207.jpg",
+              "caption": "1417889252997337319.vtt",
+              "transcript": "1417889319636701416.txt"
+            },
+            "video_low_res": {
+              "url": "1416156877233852548_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "1416157057144324207.jpg",
+              "caption": "1417889252997337319.vtt",
+              "transcript": "1417889319636701416.txt"
+            },
+            "video_hls": {
+              "url": "1416156877233852548.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "1416157057144324207.jpg",
+              "caption": "1417889252997337319.vtt",
+              "transcript": "1417889319636701416.txt"
+            }
+          },
+          "messages": {
+            "video_title": "Arkheron - Official Reveal Trailer",
+            "video_end_cta_title": "Arkheron",
+            "video_end_cta_subtitle": "The Tower Awaits",
+            "video_end_cta_button_label": "Wishlist Now"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "700 orbs",
+            "name_with_article": "700 orbs",
+            "redemption_instructions_by_platform": {
+              "0": "Default"
+            }
+          },
+          "orb_quantity": 700
+        }
+      ],
+      "rewards_expire_at": "2025-10-23T23:00:31+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "video_metadata": {
+      "messages": {
+        "video_title": "Arkheron - Official Reveal Trailer",
+        "video_end_cta_title": "Arkheron",
+        "video_end_cta_subtitle": "The Tower Awaits",
+        "video_end_cta_button_label": "Wishlist Now"
+      },
+      "assets": {
+        "video_player_video_hls": "1416156877233852548.m3u8",
+        "video_player_video": "1416156877233852548_1080.mp4",
+        "video_player_thumbnail": "1416157057144324207.jpg",
+        "video_player_video_low_res": "1416156877233852548_720.mp4",
+        "video_player_caption": "1417889252997337319.vtt",
+        "video_player_transcript": "1417889319636701416.txt",
+        "quest_bar_preview_video": null,
+        "quest_bar_preview_thumbnail": null,
+        "quest_home_video": null
+      }
+    },
+    "share_policy": "shareable_everywhere"
+  },
+  "1416175237439160450": {
+    "id": "1416175237439160450",
+    "config_version": 2,
+    "starts_at": "2025-09-25T17:00:47+00:00",
+    "expires_at": "2025-10-01T23:00:47+00:00",
+    "features": [
+      3,
+      9,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19,
+      23
+    ],
+    "application": {
+      "link": "https://bit.ly/32Discordplayquest",
+      "id": "1191652130323431514",
+      "name": "Snowbreak: Containment Zone"
+    },
+    "assets": {
+      "hero": "1420180737738674186.jpg",
+      "hero_video": "1420179317400408216.mp4",
+      "quest_bar_hero": "1420180937102065786.jpg",
+      "quest_bar_hero_video": "1420179317400408216.mp4",
+      "game_tile": "d4718a8d-4af4-4eb1-985c-a3c42e95265e.jpg",
+      "logotype": "d3e87b6e-9145-44ba-9828-3a7bb60eed03.png",
+      "game_tile_light": "1417602319532556408.jpg",
+      "game_tile_dark": "1417602320346382487.jpg",
+      "logotype_light": "1417602320992178397.png",
+      "logotype_dark": "1417602321885561004.png"
+    },
+    "colors": {
+      "primary": "#6C94B3",
+      "secondary": "#196590"
+    },
+    "messages": {
+      "quest_name": "Snowbreak Big Update",
+      "game_title": "Snowbreak: Containment Zone",
+      "game_publisher": "Amazing Seasun Games"
+    },
+    "task_config": {
+      "type": 1,
+      "join_operator": "or",
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "event_name": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "external_ids": []
+        }
+      }
+    },
+    "task_config_v2": {
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "type": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1191652130323431514"
+            }
+          ]
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "700 orbs",
+            "name_with_article": "700 orbs",
+            "redemption_instructions_by_platform": {
+              "0": "Default"
+            }
+          },
+          "orb_quantity": 700
+        }
+      ],
+      "rewards_expire_at": "2025-10-31T23:00:47+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere"
+  },
+  "1413652491198922883": {
+    "id": "1413652491198922883",
+    "config_version": 2,
+    "starts_at": "2025-09-08T18:05:18+00:00",
+    "expires_at": "2025-09-14T23:00:18+00:00",
+    "features": [
+      3,
+      9,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19,
+      23
+    ],
+    "application": {
+      "link": "https://store.steampowered.com/app/1924600/March_of_Giants?utm_source=Discord",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "ba845725-4a57-4e38-8d3b-733c96cf3daf.jpg",
+      "hero_video": "5347e0f7-c486-44aa-836e-88215bb675d3.mp4",
+      "quest_bar_hero": "ffb6993d-1451-4aee-83b0-0b3c25cb42c9.jpg",
+      "quest_bar_hero_video": "bd9df4cb-55e7-41e8-b89f-c2a24ace69d7.mp4",
+      "game_tile": "368a9f3e-07c8-4c52-9faf-4855b28977c6.png",
+      "logotype": "10776a7c-a6c8-4067-8368-b7510d02c765.png",
+      "game_tile_light": "1417602355460964515.png",
+      "game_tile_dark": "1417602356421591290.png",
+      "logotype_light": "1417602357058998453.png",
+      "logotype_dark": "1417602358136930314.png"
+    },
+    "colors": {
+      "primary": "#FF6B35",
+      "secondary": "#FFB700"
+    },
+    "messages": {
+      "quest_name": "March of Giants",
+      "game_title": "Closed Alpha Trailer",
+      "game_publisher": "Amazon Games"
+    },
+    "task_config": {
+      "type": 1,
+      "join_operator": "or",
+      "tasks": {
+        "WATCH_VIDEO": {
+          "event_name": "WATCH_VIDEO",
+          "target": 91,
+          "external_ids": []
+        }
+      }
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 91,
+          "assets": {
+            "video": {
+              "url": "1414637439041142864_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "1414637662836494447.png",
+              "caption": "1414650437776314470.vtt",
+              "transcript": "1414650461817933987.txt"
+            },
+            "video_low_res": {
+              "url": "1414637439041142864_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "1414637662836494447.png",
+              "caption": "1414650437776314470.vtt",
+              "transcript": "1414650461817933987.txt"
+            },
+            "video_hls": {
+              "url": "1414637439041142864.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "1414637662836494447.png",
+              "caption": "1414650437776314470.vtt",
+              "transcript": "1414650461817933987.txt"
+            }
+          },
+          "messages": {
+            "video_title": "Closed Alpha Trailer",
+            "video_end_cta_title": "March of Giants",
+            "video_end_cta_subtitle": "Closed Alpha Live Until September 14",
+            "video_end_cta_button_label": "Get Access"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "700 orbs",
+            "name_with_article": "700 orbs",
+            "redemption_instructions_by_platform": {
+              "0": "Default"
+            }
+          },
+          "orb_quantity": 700
+        }
+      ],
+      "rewards_expire_at": "2025-10-14T23:00:18+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "video_metadata": {
+      "messages": {
+        "video_title": "Closed Alpha Trailer",
+        "video_end_cta_title": "March of Giants",
+        "video_end_cta_subtitle": "Closed Alpha Live Until September 14",
+        "video_end_cta_button_label": "Get Access"
+      },
+      "assets": {
+        "video_player_video_hls": "1414637439041142864.m3u8",
+        "video_player_video": "1414637439041142864_1080.mp4",
+        "video_player_thumbnail": "1414637662836494447.png",
+        "video_player_video_low_res": "1414637439041142864_720.mp4",
+        "video_player_caption": "1414650437776314470.vtt",
+        "video_player_transcript": "1414650461817933987.txt",
+        "quest_bar_preview_video": null,
+        "quest_bar_preview_thumbnail": null,
+        "quest_home_video": null
+      }
+    },
+    "share_policy": "shareable_everywhere"
+  },
+  "1410007885919813764": {
+    "id": "1410007885919813764",
+    "config_version": 2,
+    "starts_at": "2025-08-29T17:00:56+00:00",
+    "expires_at": "2025-09-04T23:00:56+00:00",
+    "features": [
+      3,
+      9,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19,
+      23
+    ],
+    "application": {
+      "link": "https://store.steampowered.com/app/2456740/?utm_source=us&utm_campaign=ads&utm_medium=discord_play&utm_term=cahaya_0827",
+      "id": "1275695911804338277",
+      "name": "inZOI"
+    },
+    "assets": {
+      "hero": "5e1ab008-be01-4af7-bdd7-a2f50d43f18f.jpeg",
+      "hero_video": "b77afe1c-d352-4c47-9006-b8a4eecd1490.mp4",
+      "quest_bar_hero": "26a9c9b2-323c-43a2-95d8-d1c80b16cea7.jpeg",
+      "quest_bar_hero_video": "43ed0e1c-4d98-485b-bb7e-d13532f0fa99.mp4",
+      "game_tile": "c70032a2-2fe0-49fc-9796-9a4ddc01919a.png",
+      "logotype": "72a13d7a-25b4-42ed-b8bf-524679a31d54.png",
+      "game_tile_light": "1417602431386259676.png",
+      "game_tile_dark": "1417602431927320787.png",
+      "logotype_light": "1417602432594088158.png",
+      "logotype_dark": "1417602433437274192.png"
+    },
+    "colors": {
+      "primary": "#83BBFF",
+      "secondary": "#6969EE"
+    },
+    "messages": {
+      "quest_name": "inZOI Play",
+      "game_title": "inZOI",
+      "game_publisher": "KRAFTON"
+    },
+    "task_config": {
+      "type": 1,
+      "join_operator": "or",
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "event_name": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "external_ids": []
+        }
+      }
+    },
+    "task_config_v2": {
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "type": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1275695911804338277"
+            }
+          ]
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 1,
+          "sku_id": "1410007885919813765",
+          "asset": "e68911d8-c332-4dd5-9ba9-ebddad9f69d7.png",
+          "asset_video": null,
+          "messages": {
+            "name": "Summer Swimsuit",
+            "name_with_article": "a Summer Swimsuit",
+            "redemption_instructions_by_platform": {
+              "0": "You will receive an item code. Enter the code and your in-game UID at https://playinzoi.com/events/redeem to redeem it by 30 September, 23:59 UTC."
+            }
+          },
+          "approximate_count": null,
+          "redemption_link": null
+        }
+      ],
+      "rewards_expire_at": "2025-10-04T23:00:56+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere"
+  },
+  "1412571090240278528": {
+    "id": "1412571090240278528",
+    "config_version": 2,
+    "starts_at": "2025-09-04T17:00:12+00:00",
+    "expires_at": "2025-09-10T23:00:12+00:00",
+    "features": [
+      3,
+      9,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19,
+      23
+    ],
+    "application": {
+      "link": "https://www.blackphonemovie.com/",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "8dfd86cd-a6a1-4608-a281-b17b70bf7256.jpg",
+      "hero_video": "e4e2fa77-ee55-4e05-b2e6-3aed5d1419bc.mp4",
+      "quest_bar_hero": "d666db0f-d38a-4203-ae56-3220f6ada6af.jpeg",
+      "quest_bar_hero_video": "cbb61e16-5a9d-45bd-847d-873d0c6ee65d.mp4",
+      "game_tile": "a5af7565-83aa-48c8-bca4-df39401051f0.png",
+      "logotype": "49b1d468-8e0a-4947-ab72-02f355789360.png",
+      "game_tile_light": "1417602395210514513.png",
+      "game_tile_dark": "1417602395894059181.png",
+      "logotype_light": "1417602396506423467.png",
+      "logotype_dark": "1417602397168996443.png"
+    },
+    "colors": {
+      "primary": "#97281B",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Black Phone 2 Trailer",
+      "game_title": "In Theaters October 17",
+      "game_publisher": "Universal Pictures"
+    },
+    "task_config": {
+      "type": 1,
+      "join_operator": "or",
+      "tasks": {
+        "WATCH_VIDEO": {
+          "event_name": "WATCH_VIDEO",
+          "target": 131,
+          "external_ids": []
+        }
+      }
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 131,
+          "assets": {
+            "video": {
+              "url": "1413196612389572698_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "1413187840187302039.jpg",
+              "caption": "1413195738669650131.vtt",
+              "transcript": "1413195769992970421.txt"
+            },
+            "video_low_res": {
+              "url": "1413196612389572698_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "1413187840187302039.jpg",
+              "caption": "1413195738669650131.vtt",
+              "transcript": "1413195769992970421.txt"
+            },
+            "video_hls": {
+              "url": "1413196612389572698.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "1413187840187302039.jpg",
+              "caption": "1413195738669650131.vtt",
+              "transcript": "1413195769992970421.txt"
+            }
+          },
+          "messages": {
+            "video_title": "Black Phone 2 Trailer",
+            "video_end_cta_title": "Black Phone 2",
+            "video_end_cta_subtitle": "Black Phone 2 in Theaters October 17",
+            "video_end_cta_button_label": "Learn More"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "700 orbs",
+            "name_with_article": "700 orbs",
+            "redemption_instructions_by_platform": {
+              "0": "Default"
+            }
+          },
+          "orb_quantity": 700
+        }
+      ],
+      "rewards_expire_at": "2025-10-10T23:00:12+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "video_metadata": {
+      "messages": {
+        "video_title": "Black Phone 2 Trailer",
+        "video_end_cta_title": "Black Phone 2",
+        "video_end_cta_subtitle": "Black Phone 2 in Theaters October 17",
+        "video_end_cta_button_label": "Learn More"
+      },
+      "assets": {
+        "video_player_video_hls": "1413196612389572698.m3u8",
+        "video_player_video": "1413196612389572698_1080.mp4",
+        "video_player_thumbnail": "1413187840187302039.jpg",
+        "video_player_video_low_res": "1413196612389572698_720.mp4",
+        "video_player_caption": "1413195738669650131.vtt",
+        "video_player_transcript": "1413195769992970421.txt",
+        "quest_bar_preview_video": null,
+        "quest_bar_preview_thumbnail": null,
+        "quest_home_video": null
+      }
+    },
+    "share_policy": "shareable_everywhere"
+  },
+  "1415447811088060426": {
+    "id": "1415447811088060426",
+    "config_version": 2,
+    "starts_at": "2025-09-12T17:00:15+00:00",
+    "expires_at": "2025-09-19T23:00:15+00:00",
+    "features": [
+      3,
+      9,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19,
+      23
+    ],
+    "application": {
+      "link": "https://www.marvelrivals.com/",
+      "id": "1314395942253756416",
+      "name": "Marvel Rivals"
+    },
+    "assets": {
+      "hero": "1415763750027526184.jpeg",
+      "hero_video": "1415851875512750120.mp4",
+      "quest_bar_hero": "1415763920269869076.jpeg",
+      "quest_bar_hero_video": "1416071340187717723.mp4",
+      "game_tile": "e86d0a28-6be8-4160-99a3-69299a0015a8.png",
+      "logotype": "5bf5ef8a-230a-4412-8a66-1a550b7b65a3.png",
+      "game_tile_light": "1417602336930660414.png",
+      "game_tile_dark": "1417602337706479696.png",
+      "logotype_light": "1417602338377564303.png",
+      "logotype_dark": "1417602339107504339.png"
+    },
+    "colors": {
+      "primary": "#2D2F44",
+      "secondary": "#01227F"
+    },
+    "messages": {
+      "quest_name": "Marvel Rivals S4.0",
+      "game_title": "Marvel Rivals",
+      "game_publisher": "NetEase Games"
+    },
+    "task_config": {
+      "type": 1,
+      "join_operator": "or",
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "event_name": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "external_ids": []
+        },
+        "PLAY_ON_XBOX": {
+          "event_name": "PLAY_ON_XBOX",
+          "target": 900,
+          "external_ids": [
+            "1794906646",
+            "1758492876"
+          ]
+        },
+        "PLAY_ON_PLAYSTATION": {
+          "event_name": "PLAY_ON_PLAYSTATION",
+          "target": 900,
+          "external_ids": [
+            "PPSA21668_00",
+            "PPSA21669_00",
+            "CUSA55048_00"
+          ]
+        }
+      }
+    },
+    "task_config_v2": {
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "type": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1314395942253756416"
+            }
+          ]
+        },
+        "PLAY_ON_XBOX": {
+          "type": "PLAY_ON_XBOX",
+          "target": 900,
+          "external_ids": [
+            "1794906646",
+            "1758492876"
+          ]
+        },
+        "PLAY_ON_PLAYSTATION": {
+          "type": "PLAY_ON_PLAYSTATION",
+          "target": 900,
+          "external_ids": [
+            "PPSA21668_00",
+            "PPSA21669_00",
+            "CUSA55048_00"
+          ]
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 3,
+          "sku_id": "1416071145068957747",
+          "asset": "1416071217026306289.mp4",
+          "asset_video": null,
+          "messages": {
+            "name": "Angela Avatar Decoration",
+            "name_with_article": "an Angela Avatar Decoration",
+            "redemption_instructions_by_platform": {
+              "0": "Default"
+            }
+          },
+          "expires_at": "2025-11-19T00:00:00+00:00",
+          "expires_at_premium": null,
+          "expiration_mode": 3
+        }
+      ],
+      "rewards_expire_at": "2025-10-19T23:00:15+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere"
+  },
+  "1416172187542622218": {
+    "id": "1416172187542622218",
+    "config_version": 2,
+    "starts_at": "2025-09-16T18:00:40+00:00",
+    "expires_at": "2025-09-28T23:00:40+00:00",
+    "features": [
+      3,
+      9,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19,
+      23
+    ],
+    "application": {
+      "link": "https://ad.doubleclick.net/ddm/trackclk/N7657.3866164DISCORD.COM/B34092608.429328329;dc_trk_aid=622103112;dc_trk_cid=241813761;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+      "id": "1416171554890580152",
+      "name": "skate."
+    },
+    "assets": {
+      "hero": "1416173403320225963.jpg",
+      "hero_video": null,
+      "quest_bar_hero": "1416172849739071602.jpg",
+      "quest_bar_hero_video": null,
+      "game_tile": "1417880653927809105.png",
+      "logotype": "1417881461167489125.png",
+      "game_tile_light": "1417602327132766319.png",
+      "game_tile_dark": "1417602327724036296.png",
+      "logotype_light": "1417602328474812516.png",
+      "logotype_dark": "1417602329213141073.png"
+    },
+    "colors": {
+      "primary": "#B36F00",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "skate.",
+      "game_title": "skate.",
+      "game_publisher": "EA"
+    },
+    "task_config": {
+      "type": 1,
+      "join_operator": "or",
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "event_name": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "external_ids": []
+        },
+        "PLAY_ON_XBOX": {
+          "event_name": "PLAY_ON_XBOX",
+          "target": 900,
+          "external_ids": [
+            "883004381",
+            "2106683993"
+          ]
+        },
+        "PLAY_ON_PLAYSTATION": {
+          "event_name": "PLAY_ON_PLAYSTATION",
+          "target": 900,
+          "external_ids": [
+            "CUSA37423_00",
+            "PPSA10793_00"
+          ]
+        }
+      }
+    },
+    "task_config_v2": {
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "type": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1416171554890580152"
+            }
+          ]
+        },
+        "PLAY_ON_XBOX": {
+          "type": "PLAY_ON_XBOX",
+          "target": 900,
+          "external_ids": [
+            "883004381",
+            "2106683993"
+          ]
+        },
+        "PLAY_ON_PLAYSTATION": {
+          "type": "PLAY_ON_PLAYSTATION",
+          "target": 900,
+          "external_ids": [
+            "CUSA37423_00",
+            "PPSA10793_00"
+          ]
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "700 orbs",
+            "name_with_article": "700 orbs",
+            "redemption_instructions_by_platform": {
+              "0": "Default"
+            }
+          },
+          "orb_quantity": 700
+        }
+      ],
+      "rewards_expire_at": "2025-10-28T23:00:40+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere"
+  },
+  "1407146649637359628": {
+    "id": "1407146649637359628",
+    "config_version": 2,
+    "starts_at": "2025-08-25T17:00:24+00:00",
+    "expires_at": "2025-09-13T06:59:24+00:00",
+    "features": [
+      3,
+      9,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19,
+      23
+    ],
+    "application": {
+      "link": "https://www.demonslayer-movie.com/?utm_source=discord&utm_medium=core",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "0170b6c8-aa5a-48ec-afc6-41420ba6c814.jpg",
+      "hero_video": "f640ddb5-ab33-48fe-9e0c-09fe963c4c0c.mp4",
+      "quest_bar_hero": "29a6999f-2130-47fe-93e3-6f8bfceac7af.jpg",
+      "quest_bar_hero_video": "8a947b90-cfb3-4d8c-bd88-dc6d3ee3f392.mp4",
+      "game_tile": "5298b349-986f-4b4f-bf85-b56291578da0.png",
+      "logotype": "e394ab98-f056-4989-8e85-7d0ede050efa.png",
+      "game_tile_light": "1417602478685421652.png",
+      "game_tile_dark": "1417602479369224192.png",
+      "logotype_light": "1417602480040185936.png",
+      "logotype_dark": "1417602480644161626.png"
+    },
+    "colors": {
+      "primary": "#E21A13",
+      "secondary": "#E21A13"
+    },
+    "messages": {
+      "quest_name": "Demon Slayer: Infinity Castle",
+      "game_title": "Exclusively in Movie Theatres",
+      "game_publisher": "Demon Slayer: Infinity Castle"
+    },
+    "task_config": {
+      "type": 1,
+      "join_operator": "or",
+      "tasks": {
+        "WATCH_VIDEO": {
+          "event_name": "WATCH_VIDEO",
+          "target": 86,
+          "external_ids": []
+        }
+      }
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 86,
+          "assets": {
+            "video": {
+              "url": "4d30e9f0-6d92-4517-8a76-f8d243754ff3.mp4",
+              "width": 1280,
+              "height": 720,
+              "thumbnail": "1415778657137594388.jpg"
+            },
+            "video_low_res": {
+              "url": "87f63c0a-6201-4aff-88bc-3e94711f4737.mp4",
+              "width": 1280,
+              "height": 720,
+              "thumbnail": "1415778657137594388.jpg"
+            }
+          },
+          "messages": {
+            "video_title": "Demon Slayer: Infinity Castle Trailer",
+            "video_end_cta_title": "Demon Slayer",
+            "video_end_cta_subtitle": "Now Playing Exclusively In Movie Theatres",
+            "video_end_cta_button_label": "Get Tickets"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "700 orbs",
+            "name_with_article": "700 orbs",
+            "redemption_instructions_by_platform": {
+              "0": "Default"
+            }
+          },
+          "orb_quantity": 700
+        }
+      ],
+      "rewards_expire_at": "2025-10-13T06:59:24+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "video_metadata": {
+      "messages": {
+        "video_title": "Demon Slayer: Infinity Castle Trailer",
+        "video_end_cta_title": "Demon Slayer",
+        "video_end_cta_subtitle": "Now Playing Exclusively In Movie Theatres",
+        "video_end_cta_button_label": "Get Tickets"
+      },
+      "assets": {
+        "video_player_video_hls": null,
+        "video_player_video": "4d30e9f0-6d92-4517-8a76-f8d243754ff3.mp4",
+        "video_player_thumbnail": "1415778657137594388.jpg",
+        "video_player_video_low_res": "87f63c0a-6201-4aff-88bc-3e94711f4737.mp4",
+        "video_player_caption": null,
+        "video_player_transcript": null,
+        "quest_bar_preview_video": null,
+        "quest_bar_preview_thumbnail": null,
+        "quest_home_video": null
+      }
+    },
+    "share_policy": "shareable_everywhere"
+  },
+  "1410331802383683594": {
+    "id": "1410331802383683594",
+    "config_version": 2,
+    "starts_at": "2025-08-29T18:50:04+00:00",
+    "expires_at": "2025-09-07T23:00:04+00:00",
+    "features": [
+      3,
+      9,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19,
+      23
+    ],
+    "application": {
+      "link": "https://www.fandango.com/the-conjuring-last-rites-2025-240617/movie-overview",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "7dfcbe18-e7f1-4a3c-b843-6418ec662101.jpg",
+      "hero_video": "001fc79e-deec-4463-b8b1-914350247a67.mp4",
+      "quest_bar_hero": "1bb10780-1487-4394-9ebf-550d4e10b10f.jpeg",
+      "quest_bar_hero_video": "80e204cc-ae1c-41ce-9687-d943ba171f9b.mp4",
+      "game_tile": "afb9b9fd-74b7-4f6e-9a3b-632356d5342d.png",
+      "logotype": "d03203bc-4465-444b-9510-90e115e26d84.png",
+      "game_tile_light": "1417602420908888194.png",
+      "game_tile_dark": "1417602421605138462.png",
+      "logotype_light": "1417602422078967929.png",
+      "logotype_dark": "1417602422636941542.png"
+    },
+    "colors": {
+      "primary": "#E31B14",
+      "secondary": "#000005"
+    },
+    "messages": {
+      "quest_name": "The Conjuring",
+      "game_title": "In Theaters September 5",
+      "game_publisher": "Warner Bros Pictures"
+    },
+    "task_config": {
+      "type": 1,
+      "join_operator": "or",
+      "tasks": {
+        "WATCH_VIDEO": {
+          "event_name": "WATCH_VIDEO",
+          "target": 59,
+          "external_ids": []
+        }
+      }
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 59,
+          "assets": {
+            "video": {
+              "url": "1410335135135436940_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "1410725387457007737.jpg",
+              "caption": "1410335800360570880.vtt",
+              "transcript": "1410335822640844850.txt"
+            },
+            "video_low_res": {
+              "url": "1410335135135436940_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "1410725387457007737.jpg",
+              "caption": "1410335800360570880.vtt",
+              "transcript": "1410335822640844850.txt"
+            },
+            "video_hls": {
+              "url": "1410335135135436940.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "1410725387457007737.jpg",
+              "caption": "1410335800360570880.vtt",
+              "transcript": "1410335822640844850.txt"
+            }
+          },
+          "messages": {
+            "video_title": "The Conjuring: Last Rites",
+            "video_end_cta_title": "The Conjuring: Last Rites",
+            "video_end_cta_subtitle": "The Conjuring: Last Rites in Theaters September 5",
+            "video_end_cta_button_label": "Get Tickets"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 3,
+          "sku_id": "1410334317439090845",
+          "asset": "34c0d368-218f-40b3-b5bb-7913ebf572eb.mp4",
+          "asset_video": null,
+          "messages": {
+            "name": "The Conjuring: Last Rites Avatar Decoration",
+            "name_with_article": "The Conjuring: Last Rites Avatar Decoration",
+            "redemption_instructions_by_platform": {
+              "0": "Default"
+            }
+          },
+          "expires_at": "2025-11-07T00:00:00+00:00",
+          "expires_at_premium": null,
+          "expiration_mode": 3
+        }
+      ],
+      "rewards_expire_at": "2025-10-07T23:00:04+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "video_metadata": {
+      "messages": {
+        "video_title": "The Conjuring: Last Rites",
+        "video_end_cta_title": "The Conjuring: Last Rites",
+        "video_end_cta_subtitle": "The Conjuring: Last Rites in Theaters September 5",
+        "video_end_cta_button_label": "Get Tickets"
+      },
+      "assets": {
+        "video_player_video_hls": "1410335135135436940.m3u8",
+        "video_player_video": "1410335135135436940_1080.mp4",
+        "video_player_thumbnail": "1410725387457007737.jpg",
+        "video_player_video_low_res": "1410335135135436940_720.mp4",
+        "video_player_caption": "1410335800360570880.vtt",
+        "video_player_transcript": "1410335822640844850.txt",
+        "quest_bar_preview_video": null,
+        "quest_bar_preview_thumbnail": null,
+        "quest_home_video": null
+      }
+    },
+    "share_policy": "shareable_everywhere"
+  },
+  "1417895756270141590": {
+    "id": "1417895756270141590",
+    "config_version": 2,
+    "starts_at": "2025-09-19T17:00:31+00:00",
+    "expires_at": "2025-09-25T23:00:31+00:00",
+    "features": [
+      3,
+      9,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19
+    ],
+    "application": {
+      "link": "https://destiny.onelink.me/pHa5/zfryco1r",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "1417947960620093501.jpeg",
+      "hero_video": "1417947829564997682.mp4",
+      "quest_bar_hero": "1417947914818424964.jpg",
+      "quest_bar_hero_video": "1417947829564997682.mp4",
+      "game_tile": "1417948340003405924.png",
+      "logotype": "1418320625419944149.png",
+      "game_tile_light": "1417948303034945597.png",
+      "game_tile_dark": "1417948303034945597.png",
+      "logotype_light": "1418320502463926282.png",
+      "logotype_dark": "1418320546604781693.png"
+    },
+    "colors": {
+      "primary": "#CABA61",
+      "secondary": "#9EB0B0"
+    },
+    "messages": {
+      "quest_name": "World Race",
+      "game_title": "Destiny: Rising",
+      "game_publisher": "NetEase Games"
+    },
+    "task_config": {
+      "type": 1,
+      "join_operator": "or",
+      "tasks": {
+        "WATCH_VIDEO": {
+          "event_name": "WATCH_VIDEO",
+          "target": 82,
+          "external_ids": []
+        },
+        "WATCH_VIDEO_ON_MOBILE": {
+          "event_name": "WATCH_VIDEO_ON_MOBILE",
+          "target": 82,
+          "external_ids": []
+        }
+      }
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 82,
+          "assets": {
+            "video": {
+              "url": "1417947781905256589_1080.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "1417948868842098718.jpeg"
+            },
+            "video_low_res": {
+              "url": "1417947781905256589_720.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "1417948868842098718.jpeg"
+            },
+            "video_hls": {
+              "url": "1417947781905256589.m3u8",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "1417948868842098718.jpeg"
+            }
+          },
+          "messages": {
+            "video_title": "Gameplay Trailer",
+            "video_end_cta_title": "Destiny: Rising",
+            "video_end_cta_subtitle": "Play Free Cross-Platform",
+            "video_end_cta_button_label": "Download"
+          }
+        },
+        "WATCH_VIDEO_ON_MOBILE": {
+          "type": "WATCH_VIDEO_ON_MOBILE",
+          "target": 82,
+          "assets": {
+            "video": {
+              "url": "1417947781905256589_1080.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "1417948868842098718.jpeg"
+            },
+            "video_low_res": {
+              "url": "1417947781905256589_720.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "1417948868842098718.jpeg"
+            },
+            "video_hls": {
+              "url": "1417947781905256589.m3u8",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "1417948868842098718.jpeg"
+            }
+          },
+          "messages": {
+            "video_title": "Gameplay Trailer",
+            "video_end_cta_title": "Destiny: Rising",
+            "video_end_cta_subtitle": "Play Free Cross-Platform",
+            "video_end_cta_button_label": "Download"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 1,
+          "sku_id": "1417895756270141591",
+          "asset": "1417949187345223861.jpg",
+          "asset_video": null,
+          "messages": {
+            "name": "Weapon Choice Engram",
+            "name_with_article": "a Weapon Choice Engram",
+            "redemption_instructions_by_platform": {
+              "0": "Enter Game>Settings>Redemption Code>REDEEM"
+            }
+          },
+          "approximate_count": null,
+          "redemption_link": null
+        }
+      ],
+      "rewards_expire_at": "2025-10-25T23:00:31+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "video_metadata": {
+      "messages": {
+        "video_title": "Gameplay Trailer",
+        "video_end_cta_title": "Destiny: Rising",
+        "video_end_cta_subtitle": "Play Free Cross-Platform",
+        "video_end_cta_button_label": "Download"
+      },
+      "assets": {
+        "video_player_video_hls": "1417947781905256589.m3u8",
+        "video_player_video": "1417947781905256589_1080.mp4",
+        "video_player_thumbnail": "1417948868842098718.jpeg",
+        "video_player_video_low_res": "1417947781905256589_720.mp4",
+        "video_player_caption": null,
+        "video_player_transcript": null,
+        "quest_bar_preview_video": null,
+        "quest_bar_preview_thumbnail": null,
+        "quest_home_video": null
+      }
+    },
+    "share_policy": "shareable_everywhere"
+  },
+  "1420472784584179863": {
+    "id": "1420472784584179863",
+    "config_version": 2,
+    "starts_at": "2025-09-25T17:00:42+00:00",
+    "expires_at": "2025-10-01T23:00:42+00:00",
+    "features": [
+      3,
+      9,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19,
+      23
+    ],
+    "application": {
+      "link": "https://www.sega.com/sonic-the-hedgehog/sonic-racing-crossworlds",
+      "id": "1420198108306079785",
+      "name": "Sonic Racing: CrossWorlds"
+    },
+    "assets": {
+      "hero": "1420473483363881100.jpg",
+      "hero_video": null,
+      "quest_bar_hero": "1420473447452119113.jpg",
+      "quest_bar_hero_video": null,
+      "game_tile": "1420815646714757232.png",
+      "logotype": "1420473690315030568.png",
+      "game_tile_light": "1420478650167463936.png",
+      "game_tile_dark": "1420473662116724856.png",
+      "logotype_light": "1420473528041341009.png",
+      "logotype_dark": "1420473528041341009.png"
+    },
+    "colors": {
+      "primary": "#0076FF",
+      "secondary": "#FF6600"
+    },
+    "messages": {
+      "quest_name": "Sonic Racing",
+      "game_title": "Sonic Racing: CrossWorlds",
+      "game_publisher": "Sega"
+    },
+    "task_config": {
+      "type": 1,
+      "join_operator": "or",
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "event_name": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "external_ids": []
+        },
+        "PLAY_ON_XBOX": {
+          "event_name": "PLAY_ON_XBOX",
+          "target": 900,
+          "external_ids": [
+            "2111887267",
+            "2139967680",
+            "2075142437"
+          ]
+        },
+        "PLAY_ON_PLAYSTATION": {
+          "event_name": "PLAY_ON_PLAYSTATION",
+          "target": 900,
+          "external_ids": [
+            "CUSA35016_00",
+            "PPSA30943_00",
+            "PPSA08804_00",
+            "PPSA30664_00"
+          ]
+        }
+      }
+    },
+    "task_config_v2": {
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "type": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1420198108306079785"
+            }
+          ]
+        },
+        "PLAY_ON_XBOX": {
+          "type": "PLAY_ON_XBOX",
+          "target": 900,
+          "external_ids": [
+            "2111887267",
+            "2139967680",
+            "2075142437"
+          ]
+        },
+        "PLAY_ON_PLAYSTATION": {
+          "type": "PLAY_ON_PLAYSTATION",
+          "target": 900,
+          "external_ids": [
+            "CUSA35016_00",
+            "PPSA30943_00",
+            "PPSA08804_00",
+            "PPSA30664_00"
+          ]
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 3,
+          "sku_id": "1420603707141394483",
+          "asset": "1420479189206700192.mp4",
+          "asset_video": null,
+          "messages": {
+            "name": "Travel Ring Avatar Decoration",
+            "name_with_article": "a Travel Ring Avatar Decoration",
+            "redemption_instructions_by_platform": {
+              "0": "Default"
+            }
+          },
+          "expires_at": "2025-12-01T00:00:00+00:00",
+          "expires_at_premium": null,
+          "expiration_mode": 3
+        }
+      ],
+      "rewards_expire_at": "2025-10-31T23:00:42+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere"
+  },
+  "1405308829612114071": {
+    "id": "1405308829612114071",
+    "config_version": 2,
+    "starts_at": "2025-08-21T17:25:34+00:00",
+    "expires_at": "2025-08-27T23:00:34+00:00",
+    "features": [
+      3,
+      9,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19,
+      23
+    ],
+    "application": {
+      "link": "https://store.steampowered.com/app/2456740/?utm_source=us&utm_campaign=ads&utm_medium=discord_video&utm_term=cahaya_0820",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "401f15f8-c346-4d74-9278-cc5da73d24ae.jpg",
+      "hero_video": "81dc5232-7901-417d-8a6f-7ba031220c9c.mp4",
+      "quest_bar_hero": "605c7c27-2e5b-4357-b822-c7f6488b5a48.jpg",
+      "quest_bar_hero_video": "8f7f3afa-c926-4103-a5ac-b7c5aadcf2eb.mp4",
+      "game_tile": "d1886aec-414e-4847-b4c5-42336ab230c1.png",
+      "logotype": "e0b66f7f-6126-4bfd-8f89-9c04e837af4d.png",
+      "game_tile_light": "1417602492216246425.png",
+      "game_tile_dark": "1417602492774219806.png",
+      "logotype_light": "1417602493214494752.png",
+      "logotype_dark": "1417602494011408554.png"
+    },
+    "colors": {
+      "primary": "#83BBFF",
+      "secondary": "#6969EE"
+    },
+    "messages": {
+      "quest_name": "inZOI Update",
+      "game_title": "inZOI",
+      "game_publisher": "KRAFTON"
+    },
+    "task_config": {
+      "type": 1,
+      "join_operator": "or",
+      "tasks": {
+        "WATCH_VIDEO": {
+          "event_name": "WATCH_VIDEO",
+          "target": 64,
+          "external_ids": []
+        }
+      }
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 64,
+          "assets": {
+            "video": {
+              "url": "1405312350256369684.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "1405312439972528249.png"
+            },
+            "video_low_res": {
+              "url": "1405312385236992061.mp4",
+              "width": 1280,
+              "height": 720,
+              "thumbnail": "1405312439972528249.png"
+            }
+          },
+          "messages": {
+            "video_title": "inZOI: Island Getaway Trailer",
+            "video_end_cta_title": "inZOI: Island Getaway",
+            "video_end_cta_subtitle": "inZOI: Island Getaway",
+            "video_end_cta_button_label": "Play Now"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 3,
+          "sku_id": "1407510667489185793",
+          "asset": "1442f4dc-24d8-4776-b294-addbafe0390b.mp4",
+          "asset_video": null,
+          "messages": {
+            "name": "inZOI Psycat Avatar Decoration",
+            "name_with_article": "an inZOI Psycat Avatar Decoration",
+            "redemption_instructions_by_platform": {
+              "0": "Default"
+            }
+          },
+          "expires_at": "2025-10-25T23:00:00+00:00",
+          "expires_at_premium": null,
+          "expiration_mode": 3
+        }
+      ],
+      "rewards_expire_at": "2025-09-26T23:00:34+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "video_metadata": {
+      "messages": {
+        "video_title": "inZOI: Island Getaway Trailer",
+        "video_end_cta_title": "inZOI: Island Getaway",
+        "video_end_cta_subtitle": "inZOI: Island Getaway",
+        "video_end_cta_button_label": "Play Now"
+      },
+      "assets": {
+        "video_player_video_hls": null,
+        "video_player_video": "1405312350256369684.mp4",
+        "video_player_thumbnail": "1405312439972528249.png",
+        "video_player_video_low_res": "1405312385236992061.mp4",
+        "video_player_caption": null,
+        "video_player_transcript": null,
+        "quest_bar_preview_video": null,
+        "quest_bar_preview_thumbnail": null,
+        "quest_home_video": null
+      }
+    },
+    "share_policy": "shareable_everywhere"
+  },
+  "1407401199359098910": {
+    "id": "1407401199359098910",
+    "config_version": 2,
+    "starts_at": "2025-08-22T21:00:54+00:00",
+    "expires_at": "2025-09-04T23:00:54+00:00",
+    "features": [
+      3,
+      9,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19,
+      23
+    ],
+    "application": {
+      "link": "https://www.himmovie.com",
+      "id": "111111111111111111",
+      "name": "PLACEHOLDER"
+    },
+    "assets": {
+      "hero": "3e9eefbb-d1e1-44df-a989-e463e2bb61c1.jpeg",
+      "hero_video": "227412d9-461d-4d6c-b62a-5c64223cebae.mp4",
+      "quest_bar_hero": "6626c771-f57e-4d1d-9642-312de92e2f15.jpg",
+      "quest_bar_hero_video": "ff1876ac-9c1a-4070-8567-94504caa7254.mp4",
+      "game_tile": "e6a678b4-e35a-4361-baf2-341a6a99ad6f.png",
+      "logotype": "744d6200-4850-4fc4-b687-8f5dc4e4ce17.png",
+      "game_tile_light": "1417602475468394627.png",
+      "game_tile_dark": "1417602476076564731.png",
+      "logotype_light": "1417602476726812714.png",
+      "logotype_dark": "1417602477330665684.png"
+    },
+    "colors": {
+      "primary": "#D62315",
+      "secondary": "#FFFFFF"
+    },
+    "messages": {
+      "quest_name": "HIM",
+      "game_title": "Only in theaters September 19",
+      "game_publisher": "Universal Pictures"
+    },
+    "task_config": {
+      "type": 1,
+      "join_operator": "or",
+      "tasks": {
+        "WATCH_VIDEO": {
+          "event_name": "WATCH_VIDEO",
+          "target": 100,
+          "external_ids": []
+        }
+      }
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 100,
+          "assets": {
+            "video": {
+              "url": "2aa8fcf1-ec4d-4470-af5e-6b748a8ad3f7.mp4",
+              "width": 1280,
+              "height": 720,
+              "thumbnail": "endcard.jpg",
+              "caption": "cc.vtt",
+              "transcript": "ts.txt"
+            },
+            "video_low_res": {
+              "url": "85eef19c-e76c-4bd0-81a6-beeba2bc24a1.mp4",
+              "width": 1280,
+              "height": 720,
+              "thumbnail": "endcard.jpg",
+              "caption": "cc.vtt",
+              "transcript": "ts.txt"
+            }
+          },
+          "messages": {
+            "video_title": "HIM BTS",
+            "video_end_cta_title": "HIM",
+            "video_end_cta_subtitle": "Only in theaters September 19",
+            "video_end_cta_button_label": "Learn More"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "700 orbs",
+            "name_with_article": "700 orbs",
+            "redemption_instructions_by_platform": {
+              "0": "Default"
+            }
+          },
+          "orb_quantity": 700
+        }
+      ],
+      "rewards_expire_at": "2025-10-04T23:00:54+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "video_metadata": {
+      "messages": {
+        "video_title": "HIM BTS",
+        "video_end_cta_title": "HIM",
+        "video_end_cta_subtitle": "Only in theaters September 19",
+        "video_end_cta_button_label": "Learn More"
+      },
+      "assets": {
+        "video_player_video_hls": null,
+        "video_player_video": "2aa8fcf1-ec4d-4470-af5e-6b748a8ad3f7.mp4",
+        "video_player_thumbnail": "endcard.jpg",
+        "video_player_video_low_res": "85eef19c-e76c-4bd0-81a6-beeba2bc24a1.mp4",
+        "video_player_caption": "cc.vtt",
+        "video_player_transcript": "ts.txt",
+        "quest_bar_preview_video": null,
+        "quest_bar_preview_thumbnail": null,
+        "quest_home_video": null
+      }
+    },
+    "share_policy": "shareable_everywhere"
+  },
+  "1399861649074159777": {
+    "id": "1399861649074159777",
+    "config_version": 2,
+    "starts_at": "2025-08-29T20:00:25+00:00",
+    "expires_at": "2025-09-05T23:00:25+00:00",
+    "features": [
+      3,
+      9,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19
+    ],
+    "application": {
+      "link": "https://pathofexile2.com/",
+      "id": "1328876348361412619",
+      "name": "Path of Exile 2"
+    },
+    "assets": {
+      "hero": "a9f14281-7f4a-43f4-8206-393aa6e3fd58.png",
+      "hero_video": null,
+      "quest_bar_hero": "02e10ef4-88af-477e-aaf3-a67f215ac1ba.jpg",
+      "quest_bar_hero_video": null,
+      "game_tile": "2eecb081-0188-477a-aa24-603d234e801e.png",
+      "logotype": "576adb3f-54dc-4c65-9f07-6329048a495e.png",
+      "game_tile_light": "1417602534046175262.png",
+      "game_tile_dark": "1417602534654214187.png",
+      "logotype_light": "1417602535325433947.png",
+      "logotype_dark": "1417602535942000841.png"
+    },
+    "colors": {
+      "primary": "#3E6C40",
+      "secondary": "#340106"
+    },
+    "messages": {
+      "quest_name": "Path of Exile 2",
+      "game_title": "Path of Exile 2 ",
+      "game_publisher": "Grinding Gear Games Limited"
+    },
+    "task_config": {
+      "type": 1,
+      "join_operator": "or",
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "event_name": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "external_ids": []
+        },
+        "PLAY_ON_XBOX": {
+          "event_name": "PLAY_ON_XBOX",
+          "target": 900,
+          "external_ids": [
+            "1651188120"
+          ]
+        },
+        "PLAY_ON_PLAYSTATION": {
+          "event_name": "PLAY_ON_PLAYSTATION",
+          "target": 900,
+          "external_ids": [
+            "PPSA22040_00",
+            "PPSA23975_00",
+            "PPSA22041_00",
+            "PPSA23974_00"
+          ]
+        }
+      }
+    },
+    "task_config_v2": {
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "type": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1328876348361412619"
+            }
+          ]
+        },
+        "PLAY_ON_XBOX": {
+          "type": "PLAY_ON_XBOX",
+          "target": 900,
+          "external_ids": [
+            "1651188120"
+          ]
+        },
+        "PLAY_ON_PLAYSTATION": {
+          "type": "PLAY_ON_PLAYSTATION",
+          "target": 900,
+          "external_ids": [
+            "PPSA22040_00",
+            "PPSA23975_00",
+            "PPSA22041_00",
+            "PPSA23974_00"
+          ]
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 3,
+          "sku_id": "1409657271184785490",
+          "asset": "ffca2d45-1ef6-4837-a681-299849d260ba.mp4",
+          "asset_video": null,
+          "messages": {
+            "name": "Eye of Prophecy Avatar Decoration",
+            "name_with_article": "an Eye of Prophecy Avatar Decoration",
+            "redemption_instructions_by_platform": {
+              "0": "Default"
+            }
+          },
+          "expires_at": "2025-11-04T00:00:00+00:00",
+          "expires_at_premium": null,
+          "expiration_mode": 3
+        }
+      ],
+      "rewards_expire_at": "2025-10-05T23:00:25+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere"
+  },
+  "1419735216490021025": {
+    "id": "1419735216490021025",
+    "config_version": 2,
+    "starts_at": "2025-09-25T17:00:53+00:00",
+    "expires_at": "2025-10-01T23:00:53+00:00",
+    "features": [
+      3,
+      9,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19,
+      23
+    ],
+    "application": {
+      "link": "https://pplx.ai/discord-waitlist",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "1419737252396797952.jpg",
+      "hero_video": "1419736965133369475.mp4",
+      "quest_bar_hero": "1419736817975951581.jpg",
+      "quest_bar_hero_video": "1419736965133369475.mp4",
+      "game_tile": "1419738024270495775.png",
+      "logotype": "1419738023033180240.png",
+      "game_tile_light": "1419737676159914155.png",
+      "game_tile_dark": "1419737728152768522.png",
+      "logotype_light": "1419737516956979311.png",
+      "logotype_dark": "1419737571688448131.png"
+    },
+    "colors": {
+      "primary": "#20808D",
+      "secondary": "#091717"
+    },
+    "messages": {
+      "quest_name": "Comet AI Browser Video",
+      "game_title": "Comet AI Browser",
+      "game_publisher": "Perplexity"
+    },
+    "task_config": {
+      "type": 1,
+      "join_operator": "or",
+      "tasks": {
+        "WATCH_VIDEO": {
+          "event_name": "WATCH_VIDEO",
+          "target": 75,
+          "external_ids": []
+        }
+      }
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 75,
+          "assets": {
+            "video": {
+              "url": "1420474149561958431_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "1420173904084730029.png",
+              "caption": "1420507689183739945.vtt",
+              "transcript": "1420533003725045810.txt"
+            },
+            "video_low_res": {
+              "url": "1420474149561958431_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "1420173904084730029.png",
+              "caption": "1420507689183739945.vtt",
+              "transcript": "1420533003725045810.txt"
+            },
+            "video_hls": {
+              "url": "1420474149561958431.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "1420173904084730029.png",
+              "caption": "1420507689183739945.vtt",
+              "transcript": "1420533003725045810.txt"
+            }
+          },
+          "messages": {
+            "video_title": "Comet AI Browser Video",
+            "video_end_cta_title": "Comet AI Browser Video",
+            "video_end_cta_subtitle": "Join the waitlist",
+            "video_end_cta_button_label": "Learn More"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "700 Orbs",
+            "name_with_article": "700 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "Default"
+            }
+          },
+          "orb_quantity": 700
+        }
+      ],
+      "rewards_expire_at": "2025-10-31T23:00:53+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "video_metadata": {
+      "messages": {
+        "video_title": "Comet AI Browser Video",
+        "video_end_cta_title": "Comet AI Browser Video",
+        "video_end_cta_subtitle": "Join the waitlist",
+        "video_end_cta_button_label": "Learn More"
+      },
+      "assets": {
+        "video_player_video_hls": "1420474149561958431.m3u8",
+        "video_player_video": "1420474149561958431_1080.mp4",
+        "video_player_thumbnail": "1420173904084730029.png",
+        "video_player_video_low_res": "1420474149561958431_720.mp4",
+        "video_player_caption": "1420507689183739945.vtt",
+        "video_player_transcript": "1420533003725045810.txt",
+        "quest_bar_preview_video": null,
+        "quest_bar_preview_thumbnail": null,
+        "quest_home_video": null
+      }
+    },
+    "share_policy": "shareable_everywhere"
+  },
+  "1410726043807125666": {
+    "id": "1410726043807125666",
+    "config_version": 2,
+    "starts_at": "2025-08-29T17:00:38+00:00",
+    "expires_at": "2025-09-04T23:00:38+00:00",
+    "features": [
+      3,
+      9,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19,
+      23
+    ],
+    "application": {
+      "link": "https://2kgam.es/47KoSFo",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "de094d4e-5d23-4496-84fc-3945d7afbd41.jpeg",
+      "hero_video": "308bb53a-5f4a-4e5a-be1f-555d6e721f36.mp4",
+      "quest_bar_hero": "4d31364f-5bc8-4c1a-85b0-49e61ae21c08.jpg",
+      "quest_bar_hero_video": "38757a19-5cb1-4ed9-9efb-d51b6939c27c.mp4",
+      "game_tile": "9fb8c8de-7542-497f-a1be-74d37dac388f.jpg",
+      "logotype": "b95ec689-9e7a-4326-94b4-3034c764b935.png",
+      "game_tile_light": "1417602404240719963.jpg",
+      "game_tile_dark": "1417602404962271325.jpg",
+      "logotype_light": "1417602405851336805.png",
+      "logotype_dark": "1417602406404980918.png"
+    },
+    "colors": {
+      "primary": "#1D4289",
+      "secondary": "#454545"
+    },
+    "messages": {
+      "quest_name": "NBA 2K26",
+      "game_title": "NBA 2K",
+      "game_publisher": "NBA 2K26"
+    },
+    "task_config": {
+      "type": 1,
+      "join_operator": "or",
+      "tasks": {
+        "WATCH_VIDEO": {
+          "event_name": "WATCH_VIDEO",
+          "target": 101,
+          "external_ids": []
+        }
+      }
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 101,
+          "assets": {
+            "video": {
+              "url": "1410740312833523843_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "1410740467779371091.jpg",
+              "caption": "1410744302791032973.vtt",
+              "transcript": "1410744356616405173.txt"
+            },
+            "video_low_res": {
+              "url": "1410740312833523843_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "1410740467779371091.jpg",
+              "caption": "1410744302791032973.vtt",
+              "transcript": "1410744356616405173.txt"
+            },
+            "video_hls": {
+              "url": "1410740312833523843.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "1410740467779371091.jpg",
+              "caption": "1410744302791032973.vtt",
+              "transcript": "1410744356616405173.txt"
+            }
+          },
+          "messages": {
+            "video_title": "World of 2K Trailer",
+            "video_end_cta_title": "NBA 2K26",
+            "video_end_cta_subtitle": "World of 2K Trailer",
+            "video_end_cta_button_label": "Play Now"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 3,
+          "sku_id": "1410742621374251160",
+          "asset": "0c3d0648-e209-4287-9b63-2cc001705f5c.mp4",
+          "asset_video": null,
+          "messages": {
+            "name": "NBA 2K26 Avatar Decoration",
+            "name_with_article": "a NBA 2K26 Avatar Decoration",
+            "redemption_instructions_by_platform": {
+              "0": "Default"
+            }
+          },
+          "expires_at": "2025-11-04T00:00:00+00:00",
+          "expires_at_premium": null,
+          "expiration_mode": 3
+        }
+      ],
+      "rewards_expire_at": "2025-10-04T23:00:38+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "video_metadata": {
+      "messages": {
+        "video_title": "World of 2K Trailer",
+        "video_end_cta_title": "NBA 2K26",
+        "video_end_cta_subtitle": "World of 2K Trailer",
+        "video_end_cta_button_label": "Play Now"
+      },
+      "assets": {
+        "video_player_video_hls": "1410740312833523843.m3u8",
+        "video_player_video": "1410740312833523843_1080.mp4",
+        "video_player_thumbnail": "1410740467779371091.jpg",
+        "video_player_video_low_res": "1410740312833523843_720.mp4",
+        "video_player_caption": "1410744302791032973.vtt",
+        "video_player_transcript": "1410744356616405173.txt",
+        "quest_bar_preview_video": null,
+        "quest_bar_preview_thumbnail": null,
+        "quest_home_video": null
+      }
+    },
+    "share_policy": "shareable_everywhere"
+  },
+  "1419728074467049642": {
+    "id": "1419728074467049642",
+    "config_version": 2,
+    "starts_at": "2025-09-25T17:00:30+00:00",
+    "expires_at": "2025-10-08T23:00:30+00:00",
+    "features": [
+      3,
+      9,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19,
+      23
+    ],
+    "application": {
+      "link": "https://ad.doubleclick.net/ddm/trackclk/N1306638.3397510DISCORD/B33837002.425960870;dc_trk_aid=622541524;dc_trk_cid=241493122;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "1419732314677842123.jpg",
+      "hero_video": "1419732183630872576.mp4",
+      "quest_bar_hero": "1419732110733738186.jpg",
+      "quest_bar_hero_video": "1419732183630872576.mp4",
+      "game_tile": "1419740576298959022.png",
+      "logotype": "1419738687817781270.png",
+      "game_tile_light": "1419740552357871657.png",
+      "game_tile_dark": "1419740552357871657.png",
+      "logotype_light": "1419738669673353286.png",
+      "logotype_dark": "1419738669673353286.png"
+    },
+    "colors": {
+      "primary": "#C49626",
+      "secondary": "#141413"
+    },
+    "messages": {
+      "quest_name": "Ghost of Yōtei",
+      "game_title": "Ghost of Yōtei",
+      "game_publisher": "Sony Interactive Entertainment & Sucker Punch Productions"
+    },
+    "task_config": {
+      "type": 1,
+      "join_operator": "or",
+      "tasks": {
+        "WATCH_VIDEO": {
+          "event_name": "WATCH_VIDEO",
+          "target": 14,
+          "external_ids": []
+        }
+      }
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 14,
+          "assets": {
+            "video": {
+              "url": "1419741302089711716_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "1419741231843639377.jpg",
+              "caption": "1419742919920718017.vtt",
+              "transcript": "1419742963587616778.txt"
+            },
+            "video_low_res": {
+              "url": "1419741302089711716_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "1419741231843639377.jpg",
+              "caption": "1419742919920718017.vtt",
+              "transcript": "1419742963587616778.txt"
+            },
+            "video_hls": {
+              "url": "1419741302089711716.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "1419741231843639377.jpg",
+              "caption": "1419742919920718017.vtt",
+              "transcript": "1419742963587616778.txt"
+            }
+          },
+          "messages": {
+            "video_title": "Launch Trailer",
+            "video_end_cta_title": "Ghost of Yōtei",
+            "video_end_cta_subtitle": "Download Now",
+            "video_end_cta_button_label": "Get Game"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 3,
+          "sku_id": "1419735933929918536",
+          "asset": "1419736169477836961.mp4",
+          "asset_video": null,
+          "messages": {
+            "name": "Atsu's Mask Avatar Decoration",
+            "name_with_article": "an Atsu's Mask Avatar Decoration",
+            "redemption_instructions_by_platform": {
+              "0": "Default"
+            }
+          },
+          "expires_at": "2025-12-04T00:00:00+00:00",
+          "expires_at_premium": null,
+          "expiration_mode": 3
+        }
+      ],
+      "rewards_expire_at": "2025-11-03T23:00:30+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "video_metadata": {
+      "messages": {
+        "video_title": "Launch Trailer",
+        "video_end_cta_title": "Ghost of Yōtei",
+        "video_end_cta_subtitle": "Download Now",
+        "video_end_cta_button_label": "Get Game"
+      },
+      "assets": {
+        "video_player_video_hls": "1419741302089711716.m3u8",
+        "video_player_video": "1419741302089711716_1080.mp4",
+        "video_player_thumbnail": "1419741231843639377.jpg",
+        "video_player_video_low_res": "1419741302089711716_720.mp4",
+        "video_player_caption": "1419742919920718017.vtt",
+        "video_player_transcript": "1419742963587616778.txt",
+        "quest_bar_preview_video": null,
+        "quest_bar_preview_thumbnail": null,
+        "quest_home_video": null
+      }
+    },
+    "share_policy": "shareable_everywhere"
+  },
+  "1419723876467736627": {
+    "id": "1419723876467736627",
+    "config_version": 2,
+    "starts_at": "2025-09-23T17:00:49+00:00",
+    "expires_at": "2025-09-30T23:00:49+00:00",
+    "features": [
+      3,
+      9,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19,
+      23
+    ],
+    "application": {
+      "link": "https://www.playdeltaforce.com/wand/discordquest/index.html",
+      "id": "1314682894106497096",
+      "name": "Delta Force"
+    },
+    "assets": {
+      "hero": "1419727151200075867.jpg",
+      "hero_video": "1419799209212641332.mp4",
+      "quest_bar_hero": "1419727118610202804.jpg",
+      "quest_bar_hero_video": "1419799278892613773.mp4",
+      "game_tile": "1419727368024490014.png",
+      "logotype": "1419727366791630868.png",
+      "game_tile_light": "1419727343118843935.png",
+      "game_tile_dark": "1419727343118843935.png",
+      "logotype_light": "1419727307387568219.png",
+      "logotype_dark": "1419727307387568219.png"
+    },
+    "colors": {
+      "primary": "#0CA766",
+      "secondary": "#1A1A1A"
+    },
+    "messages": {
+      "quest_name": "New Season War Ablaze",
+      "game_title": "Delta Force",
+      "game_publisher": "Team Jade"
+    },
+    "task_config": {
+      "type": 1,
+      "join_operator": "or",
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "event_name": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "external_ids": []
+        },
+        "PLAY_ON_XBOX": {
+          "event_name": "PLAY_ON_XBOX",
+          "target": 900,
+          "external_ids": [
+            "1854680102"
+          ]
+        },
+        "PLAY_ON_PLAYSTATION": {
+          "event_name": "PLAY_ON_PLAYSTATION",
+          "target": 900,
+          "external_ids": [
+            "PPSA28882_00",
+            "PPSA28884_00",
+            "PPSA28881_00",
+            "PPSA28883_00"
+          ]
+        }
+      }
+    },
+    "task_config_v2": {
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "type": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1314682894106497096"
+            }
+          ]
+        },
+        "PLAY_ON_XBOX": {
+          "type": "PLAY_ON_XBOX",
+          "target": 900,
+          "external_ids": [
+            "1854680102"
+          ]
+        },
+        "PLAY_ON_PLAYSTATION": {
+          "type": "PLAY_ON_PLAYSTATION",
+          "target": 900,
+          "external_ids": [
+            "PPSA28882_00",
+            "PPSA28884_00",
+            "PPSA28881_00",
+            "PPSA28883_00"
+          ]
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "700 orbs",
+            "name_with_article": "700 orbs",
+            "redemption_instructions_by_platform": {
+              "0": "Default"
+            }
+          },
+          "orb_quantity": 700
+        }
+      ],
+      "rewards_expire_at": "2025-10-30T23:00:49+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere"
+  },
+  "1409988219961081907": {
+    "id": "1409988219961081907",
+    "config_version": 2,
+    "starts_at": "2025-09-03T17:00:47+00:00",
+    "expires_at": "2025-09-09T23:00:47+00:00",
+    "features": [
+      3,
+      9,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19,
+      23
+    ],
+    "application": {
+      "link": "https://adn.wargaming.net/jkitisbe/?pub_id=wot_cstm_ww_all_discord_vid_wb_quest_2-0-winback",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "bbf957cd-4b05-4f7d-bb28-69aff89e91b1.jpg",
+      "hero_video": "3fb2a200-0c8e-4089-8325-f76839066b8e.mp4",
+      "quest_bar_hero": "af7e75f3-1d28-4b73-8b20-5e9594485f0c.jpg",
+      "quest_bar_hero_video": "a6e8bd1c-4ded-4371-8b03-7cbbba1ddbfd.mp4",
+      "game_tile": "a30a7e9c-35ce-47c7-9b79-94c19f83da29.png",
+      "logotype": "27695888-b384-4db1-9bdd-efbfc4e22798.png",
+      "game_tile_light": "1417602434880110613.png",
+      "game_tile_dark": "1417602435425243157.png",
+      "logotype_light": "1417602435899330712.png",
+      "logotype_dark": "1417602436507500695.png"
+    },
+    "colors": {
+      "primary": "#FF4000",
+      "secondary": "#FE3902"
+    },
+    "messages": {
+      "quest_name": "World of Tanks 2.0",
+      "game_title": "World of Tanks 2.0 Trailer",
+      "game_publisher": "Wargaming"
+    },
+    "task_config": {
+      "type": 1,
+      "join_operator": "or",
+      "tasks": {
+        "WATCH_VIDEO": {
+          "event_name": "WATCH_VIDEO",
+          "target": 115,
+          "external_ids": []
+        }
+      }
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 115,
+          "assets": {
+            "video": {
+              "url": "1409991986953584735_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "1409992577587089478.jpg",
+              "caption": "1409995504808628367.vtt",
+              "transcript": "1409995532813992078.txt"
+            },
+            "video_low_res": {
+              "url": "1409991986953584735_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "1409992577587089478.jpg",
+              "caption": "1409995504808628367.vtt",
+              "transcript": "1409995532813992078.txt"
+            },
+            "video_hls": {
+              "url": "1409991986953584735.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "1409992577587089478.jpg",
+              "caption": "1409995504808628367.vtt",
+              "transcript": "1409995532813992078.txt"
+            }
+          },
+          "messages": {
+            "video_title": "World of Tanks 2.0 Trailer",
+            "video_end_cta_title": "World of Tanks 2.0 Trailer",
+            "video_end_cta_subtitle": "Get the biggest award in WoT history",
+            "video_end_cta_button_label": "Play Now"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "700 orbs",
+            "name_with_article": "700 orbs",
+            "redemption_instructions_by_platform": {
+              "0": "Default"
+            }
+          },
+          "orb_quantity": 700
+        }
+      ],
+      "rewards_expire_at": "2025-10-09T23:00:47+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "video_metadata": {
+      "messages": {
+        "video_title": "World of Tanks 2.0 Trailer",
+        "video_end_cta_title": "World of Tanks 2.0 Trailer",
+        "video_end_cta_subtitle": "Get the biggest award in WoT history",
+        "video_end_cta_button_label": "Play Now"
+      },
+      "assets": {
+        "video_player_video_hls": "1409991986953584735.m3u8",
+        "video_player_video": "1409991986953584735_1080.mp4",
+        "video_player_thumbnail": "1409992577587089478.jpg",
+        "video_player_video_low_res": "1409991986953584735_720.mp4",
+        "video_player_caption": "1409995504808628367.vtt",
+        "video_player_transcript": "1409995532813992078.txt",
+        "quest_bar_preview_video": null,
+        "quest_bar_preview_thumbnail": null,
+        "quest_home_video": null
+      }
+    },
+    "share_policy": "shareable_everywhere"
+  },
+  "1409941445653041203": {
+    "id": "1409941445653041203",
+    "config_version": 2,
+    "starts_at": "2025-09-02T17:00:56+00:00",
+    "expires_at": "2025-09-15T23:00:56+00:00",
+    "features": [
+      3,
+      9,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19,
+      23
+    ],
+    "application": {
+      "link": "https://ad.doubleclick.net/ddm/trackclk/N197801.3866164DISCORD.COM/B34015416.427469670;dc_trk_aid=620773882;dc_trk_cid=240140774;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gpp=$%7BGPP_STRING_755%7D;gpp_sid=$%7BGPP_SID%7D;ltd=;dc_tdv=1",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "ef00152c-6131-4084-b9bd-6dd672da6a7c.jpg",
+      "hero_video": "842fbb65-d21c-4da3-97ee-9347d141402d.mp4",
+      "quest_bar_hero": "68fad9d4-64c5-4b45-bf12-1b56743d1722.jpg",
+      "quest_bar_hero_video": "153d0853-05ae-4909-bdbe-efa3183687b6.mp4",
+      "game_tile": "16d0b89c-6e1e-42f7-93f2-cf13b0834782.png",
+      "logotype": "daca4ffe-86e1-436f-b6f2-7b4814d586bf.png",
+      "game_tile_light": "1417602439217152112.png",
+      "game_tile_dark": "1417602439909085507.png",
+      "logotype_light": "1417602440609398784.png",
+      "logotype_dark": "1417602441100394667.png"
+    },
+    "colors": {
+      "primary": "#7A7A7A",
+      "secondary": "#353535"
+    },
+    "messages": {
+      "quest_name": "Uber. On Our Way",
+      "game_title": "Uber",
+      "game_publisher": "Uber"
+    },
+    "task_config": {
+      "type": 1,
+      "join_operator": "or",
+      "tasks": {
+        "WATCH_VIDEO": {
+          "event_name": "WATCH_VIDEO",
+          "target": 59,
+          "external_ids": []
+        }
+      }
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 59,
+          "assets": {
+            "video": {
+              "url": "1409943390354931792_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "1409943485179498588.png",
+              "caption": "57971311-d9a7-4383-9f5c-bd33e6628c30.vtt",
+              "transcript": "5f7aa916-84d5-42f2-9292-17c61ad326e6.txt"
+            },
+            "video_low_res": {
+              "url": "1409943390354931792_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "1409943485179498588.png",
+              "caption": "57971311-d9a7-4383-9f5c-bd33e6628c30.vtt",
+              "transcript": "5f7aa916-84d5-42f2-9292-17c61ad326e6.txt"
+            },
+            "video_hls": {
+              "url": "1409943390354931792.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "1409943485179498588.png",
+              "caption": "57971311-d9a7-4383-9f5c-bd33e6628c30.vtt",
+              "transcript": "5f7aa916-84d5-42f2-9292-17c61ad326e6.txt"
+            }
+          },
+          "messages": {
+            "video_title": "Uber. On Our Way Quest",
+            "video_end_cta_title": "Uber",
+            "video_end_cta_subtitle": "Uber. On Our Way.",
+            "video_end_cta_button_label": "Learn More"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "700 orbs",
+            "name_with_article": "700 orbs",
+            "redemption_instructions_by_platform": {
+              "0": "Default"
+            }
+          },
+          "orb_quantity": 700
+        }
+      ],
+      "rewards_expire_at": "2025-10-15T23:00:56+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "video_metadata": {
+      "messages": {
+        "video_title": "Uber. On Our Way Quest",
+        "video_end_cta_title": "Uber",
+        "video_end_cta_subtitle": "Uber. On Our Way.",
+        "video_end_cta_button_label": "Learn More"
+      },
+      "assets": {
+        "video_player_video_hls": "1409943390354931792.m3u8",
+        "video_player_video": "1409943390354931792_1080.mp4",
+        "video_player_thumbnail": "1409943485179498588.png",
+        "video_player_video_low_res": "1409943390354931792_720.mp4",
+        "video_player_caption": "57971311-d9a7-4383-9f5c-bd33e6628c30.vtt",
+        "video_player_transcript": "5f7aa916-84d5-42f2-9292-17c61ad326e6.txt",
+        "quest_bar_preview_video": null,
+        "quest_bar_preview_thumbnail": null,
+        "quest_home_video": null
+      }
+    },
+    "share_policy": "shareable_everywhere"
+  },
+  "1415007769601507388": {
+    "id": "1415007769601507388",
+    "config_version": 2,
+    "starts_at": "2025-09-10T17:00:41+00:00",
+    "expires_at": "2025-09-16T23:00:41+00:00",
+    "features": [
+      3,
+      9,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19,
+      23
+    ],
+    "application": {
+      "link": " https://store.steampowered.com/app/2073850/the_finals/?&utm_source=discord&utm_medium=paid&utm_campaign=thefinals_s8launch_arena&utm_content=playquest&utm_term=global",
+      "id": "1182713227491147776",
+      "name": "THE FINALS"
+    },
+    "assets": {
+      "hero": "b776de1b-1c48-4da4-9730-4ad49fc0d680.jpg",
+      "hero_video": null,
+      "quest_bar_hero": "b989473f-a30c-444b-8841-242da96b421e.jpeg",
+      "quest_bar_hero_video": null,
+      "game_tile": "508fca0b-0d5e-42b1-81b4-2a55088dc397.png",
+      "logotype": "1534d047-36ee-4e94-a8f8-456fef45fe47.png",
+      "game_tile_light": "1417602348729237556.png",
+      "game_tile_dark": "1417602349416976524.png",
+      "logotype_light": "1417602350016757852.png",
+      "logotype_dark": "1417602350549565530.png"
+    },
+    "colors": {
+      "primary": "#D21F3C",
+      "secondary": "#F1F2F4"
+    },
+    "messages": {
+      "quest_name": "Season 8 Launch",
+      "game_title": "THE FINALS",
+      "game_publisher": "Embark Studios"
+    },
+    "task_config": {
+      "type": 1,
+      "join_operator": "or",
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "event_name": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "external_ids": []
+        }
+      }
+    },
+    "task_config_v2": {
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "type": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1182713227491147776"
+            }
+          ]
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 1,
+          "sku_id": "1415007769601507389",
+          "asset": "c6cffc7c-165a-46d3-893a-2622790e1e2b.png",
+          "asset_video": null,
+          "messages": {
+            "name": "Skill Issue 2.0",
+            "name_with_article": "a Skill Issue 2.0",
+            "redemption_instructions_by_platform": {
+              "0": "To redeem your THE FINALS Season 8 Quest gift code, visit Embark's code redemption website and log in to your account: https://id.embark.games/id/the-finals/giveaway\nPaste your gift code to obtain your Skill Issue 2.0 set.\nRequires THE FINALS; redeem by September 09, 2026."
+            }
+          },
+          "approximate_count": null,
+          "redemption_link": null
+        }
+      ],
+      "rewards_expire_at": "2025-10-16T23:00:41+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere"
+  },
+  "1408500501397639360": {
+    "id": "1408500501397639360",
+    "config_version": 2,
+    "starts_at": "2025-08-25T17:00:08+00:00",
+    "expires_at": "2025-08-31T23:00:08+00:00",
+    "features": [
+      3,
+      9,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19,
+      23
+    ],
+    "application": {
+      "link": "https://www.konami.com/mg/mgs3r/us/en/",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "784f2122-dc05-4998-a598-7d55dc215f5c.jpg",
+      "hero_video": "a489bbf2-535e-46e2-a137-700553110efb.mp4",
+      "quest_bar_hero": "a3894f45-8008-4397-b5b5-294d147493bb.jpg",
+      "quest_bar_hero_video": "b6ca5d29-4395-4419-90de-5c4b6909a463.mp4",
+      "game_tile": "85c2eb3f-86fe-4975-946c-54ef2b4034a3.png",
+      "logotype": "5eeff814-829a-4b22-855a-0ffb07be27a0.png",
+      "game_tile_light": "1417602453507018793.png",
+      "game_tile_dark": "1417602454043885660.png",
+      "logotype_light": "1417602454555721758.png",
+      "logotype_dark": "1417602455000190976.png"
+    },
+    "colors": {
+      "primary": "#233533",
+      "secondary": "#009500"
+    },
+    "messages": {
+      "quest_name": "MGS Delta",
+      "game_title": "METAL GEAR SOLID",
+      "game_publisher": "Konami"
+    },
+    "task_config": {
+      "type": 1,
+      "join_operator": "or",
+      "tasks": {
+        "WATCH_VIDEO": {
+          "event_name": "WATCH_VIDEO",
+          "target": 105,
+          "external_ids": []
+        }
+      }
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 105,
+          "assets": {
+            "video": {
+              "url": "4108b399-439a-4a45-898c-1ed054303f3a.mp4",
+              "width": 1280,
+              "height": 720,
+              "thumbnail": "2b499c3d-e6e8-4bce-9d15-0b2a2006567f.jpg",
+              "caption": "f66f367d-73b1-4e89-a0b7-00cf4dcf7993.vtt",
+              "transcript": "0345c69f-cec5-491a-a870-5eeaf39cb370.txt"
+            },
+            "video_low_res": {
+              "url": "3171d6c0-b629-4499-9a0e-ce2d1cfb3a28.mp4",
+              "width": 1280,
+              "height": 720,
+              "thumbnail": "2b499c3d-e6e8-4bce-9d15-0b2a2006567f.jpg",
+              "caption": "f66f367d-73b1-4e89-a0b7-00cf4dcf7993.vtt",
+              "transcript": "0345c69f-cec5-491a-a870-5eeaf39cb370.txt"
+            }
+          },
+          "messages": {
+            "video_title": "MGS Delta",
+            "video_end_cta_title": "METAL GEAR SOLID Δ",
+            "video_end_cta_subtitle": "METAL GEAR SOLID Δ: SNAKE EATER - Available Now!",
+            "video_end_cta_button_label": "Learn More"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "700 orbs",
+            "name_with_article": "700 orbs",
+            "redemption_instructions_by_platform": {
+              "0": "Default"
+            }
+          },
+          "orb_quantity": 700
+        }
+      ],
+      "rewards_expire_at": "2025-09-30T23:00:08+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "video_metadata": {
+      "messages": {
+        "video_title": "MGS Delta",
+        "video_end_cta_title": "METAL GEAR SOLID Δ",
+        "video_end_cta_subtitle": "METAL GEAR SOLID Δ: SNAKE EATER - Available Now!",
+        "video_end_cta_button_label": "Learn More"
+      },
+      "assets": {
+        "video_player_video_hls": null,
+        "video_player_video": "4108b399-439a-4a45-898c-1ed054303f3a.mp4",
+        "video_player_thumbnail": "2b499c3d-e6e8-4bce-9d15-0b2a2006567f.jpg",
+        "video_player_video_low_res": "3171d6c0-b629-4499-9a0e-ce2d1cfb3a28.mp4",
+        "video_player_caption": "f66f367d-73b1-4e89-a0b7-00cf4dcf7993.vtt",
+        "video_player_transcript": "0345c69f-cec5-491a-a870-5eeaf39cb370.txt",
+        "quest_bar_preview_video": null,
+        "quest_bar_preview_thumbnail": null,
+        "quest_home_video": null
+      }
+    },
+    "share_policy": "shareable_everywhere"
+  },
+  "1407493222481137734": {
+    "id": "1407493222481137734",
+    "config_version": 2,
+    "starts_at": "2025-08-21T17:10:34+00:00",
+    "expires_at": "2025-08-27T23:00:34+00:00",
+    "features": [
+      3,
+      9,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19,
+      23
+    ],
+    "application": {
+      "link": "https://voidinteractive.net/ready-or-not-console/?utm_source=discord&utm_medium=paidmedialqa&utm_campaign=ron-launch-us&utm_term=shooterfans&utm_content=launchtrailerv2-1920x1080-30s",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "7592df56-1cbe-413a-b83d-563fecadc870.jpg",
+      "hero_video": "248b9e18-4a68-4710-bfc0-8b399c922dfe.mp4",
+      "quest_bar_hero": "aa65fd45-2a7f-4efc-930d-3027306cbc2f.jpg",
+      "quest_bar_hero_video": "f705b735-b748-4952-840f-b7449aa9cc2a.mp4",
+      "game_tile": "621f48bd-bad1-453c-b441-f690a34f6884.jpg",
+      "logotype": "0aa89d16-cc9d-4a58-9a84-85a4f95c8bfb.png",
+      "game_tile_light": "1417602468040278026.jpg",
+      "game_tile_dark": "1417602468849909760.jpg",
+      "logotype_light": "1417602469365682247.png",
+      "logotype_dark": "1417602470221316167.png"
+    },
+    "colors": {
+      "primary": "#D90000",
+      "secondary": "#1A1A1A"
+    },
+    "messages": {
+      "quest_name": "Ready or Not",
+      "game_title": "Ready or Not Trailer",
+      "game_publisher": "VOID Interactive"
+    },
+    "task_config": {
+      "type": 1,
+      "join_operator": "or",
+      "tasks": {
+        "WATCH_VIDEO": {
+          "event_name": "WATCH_VIDEO",
+          "target": 29,
+          "external_ids": []
+        }
+      }
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 29,
+          "assets": {
+            "video": {
+              "url": "7e4631b3-fe4b-47dd-b060-42377cd634d5.mp4",
+              "width": 1280,
+              "height": 720,
+              "thumbnail": "03ce1bf4-2033-4b42-aa84-6650294c0a9a.png",
+              "caption": "35feeea2-e668-4ad1-bb58-2fb6543bb978.vtt",
+              "transcript": "394be344-7d1a-43e0-8468-8a0fd3c1d145.txt"
+            },
+            "video_low_res": {
+              "url": "ad9a025a-3cb0-4a68-8f05-85585ba498b3.mp4",
+              "width": 1280,
+              "height": 720,
+              "thumbnail": "03ce1bf4-2033-4b42-aa84-6650294c0a9a.png",
+              "caption": "35feeea2-e668-4ad1-bb58-2fb6543bb978.vtt",
+              "transcript": "394be344-7d1a-43e0-8468-8a0fd3c1d145.txt"
+            }
+          },
+          "messages": {
+            "video_title": "Ready or Not Trailer",
+            "video_end_cta_title": "Available Now",
+            "video_end_cta_subtitle": "ESRB Rating: M (Mature 17+)",
+            "video_end_cta_button_label": "Get Game"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "700 orbs",
+            "name_with_article": "700 orbs",
+            "redemption_instructions_by_platform": {
+              "0": "Default"
+            }
+          },
+          "orb_quantity": 700
+        }
+      ],
+      "rewards_expire_at": "2025-09-26T23:00:34+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "video_metadata": {
+      "messages": {
+        "video_title": "Ready or Not Trailer",
+        "video_end_cta_title": "Available Now",
+        "video_end_cta_subtitle": "ESRB Rating: M (Mature 17+)",
+        "video_end_cta_button_label": "Get Game"
+      },
+      "assets": {
+        "video_player_video_hls": null,
+        "video_player_video": "7e4631b3-fe4b-47dd-b060-42377cd634d5.mp4",
+        "video_player_thumbnail": "03ce1bf4-2033-4b42-aa84-6650294c0a9a.png",
+        "video_player_video_low_res": "ad9a025a-3cb0-4a68-8f05-85585ba498b3.mp4",
+        "video_player_caption": "35feeea2-e668-4ad1-bb58-2fb6543bb978.vtt",
+        "video_player_transcript": "394be344-7d1a-43e0-8468-8a0fd3c1d145.txt",
+        "quest_bar_preview_video": null,
+        "quest_bar_preview_thumbnail": null,
+        "quest_home_video": null
+      }
+    },
+    "share_policy": "shareable_everywhere"
+  },
+  "1405281486763987015": {
+    "id": "1405281486763987015",
+    "config_version": 2,
+    "starts_at": "2025-08-22T17:00:55+00:00",
+    "expires_at": "2025-08-28T23:00:55+00:00",
+    "features": [
+      3,
+      9,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19,
+      23
+    ],
+    "application": {
+      "link": "https://www.kingofmeat.com/pre-order?utm_source=Discord&utm_campaign=_KoMeat_Discord_USDE_Web_AWS_HighImpact_CPM_VIDQUEST1_Custom_20250822_NA_null",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "7b6c4b30-e1e4-4489-a427-4e06971c157f.jpg",
+      "hero_video": "6ee13cc4-3412-45fe-8734-84a17bc958ee.mp4",
+      "quest_bar_hero": "872b0c5d-3cff-4836-8ab9-8a3d2aee40a2.jpg",
+      "quest_bar_hero_video": "ac8a5fbe-bea9-43b5-a77e-1feb1a6dfbd0.mp4",
+      "game_tile": "97d1f08d-72b6-4e61-a78c-77f65d2f32cb.png",
+      "logotype": "96ea5ca0-72be-47f9-b034-b42fcfac8161.png",
+      "game_tile_light": "1417602495223693492.png",
+      "game_tile_dark": "1417602495882072257.png",
+      "logotype_light": "1417602496410550382.png",
+      "logotype_dark": "1417602497023049769.png"
+    },
+    "colors": {
+      "primary": "#B8860B",
+      "secondary": "#00113E"
+    },
+    "messages": {
+      "quest_name": "King of Meat",
+      "game_title": "King of Meat Release Date Trailer",
+      "game_publisher": "Amazon Games"
+    },
+    "task_config": {
+      "type": 1,
+      "join_operator": "or",
+      "tasks": {
+        "WATCH_VIDEO": {
+          "event_name": "WATCH_VIDEO",
+          "target": 168,
+          "external_ids": []
+        }
+      }
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 168,
+          "assets": {
+            "video": {
+              "url": "cb1831cd-5479-4d19-bbe1-740d2cb1d92e.mp4",
+              "width": 1280,
+              "height": 720,
+              "thumbnail": "1ee3cb0e-8659-4c1e-ba28-e5ea7d3f0538.png",
+              "caption": "1407090403613868162.vtt",
+              "transcript": "1407090452150354111.txt"
+            },
+            "video_low_res": {
+              "url": "95823672-d2d9-4032-8fa4-3df8eded7c7b.mp4",
+              "width": 1280,
+              "height": 720,
+              "thumbnail": "1ee3cb0e-8659-4c1e-ba28-e5ea7d3f0538.png",
+              "caption": "1407090403613868162.vtt",
+              "transcript": "1407090452150354111.txt"
+            }
+          },
+          "messages": {
+            "video_title": "King of Meat Release Date Trailer",
+            "video_end_cta_title": "King of Meat Release Date Trailer",
+            "video_end_cta_subtitle": "ESRB Rating: T (Teen)",
+            "video_end_cta_button_label": "Wishlist Now"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "700 orbs",
+            "name_with_article": "700 orbs",
+            "redemption_instructions_by_platform": {
+              "0": "Default"
+            }
+          },
+          "orb_quantity": 700
+        }
+      ],
+      "rewards_expire_at": "2025-09-27T23:00:55+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "video_metadata": {
+      "messages": {
+        "video_title": "King of Meat Release Date Trailer",
+        "video_end_cta_title": "King of Meat Release Date Trailer",
+        "video_end_cta_subtitle": "ESRB Rating: T (Teen)",
+        "video_end_cta_button_label": "Wishlist Now"
+      },
+      "assets": {
+        "video_player_video_hls": null,
+        "video_player_video": "cb1831cd-5479-4d19-bbe1-740d2cb1d92e.mp4",
+        "video_player_thumbnail": "1ee3cb0e-8659-4c1e-ba28-e5ea7d3f0538.png",
+        "video_player_video_low_res": "95823672-d2d9-4032-8fa4-3df8eded7c7b.mp4",
+        "video_player_caption": "1407090403613868162.vtt",
+        "video_player_transcript": "1407090452150354111.txt",
+        "quest_bar_preview_video": null,
+        "quest_bar_preview_thumbnail": null,
+        "quest_home_video": null
+      }
+    },
+    "share_policy": "shareable_everywhere"
+  },
+  "1412895538050760776": {
+    "id": "1412895538050760776",
+    "config_version": 2,
+    "starts_at": "2025-09-15T17:00:26+00:00",
+    "expires_at": "2025-09-22T23:00:26+00:00",
+    "features": [
+      3,
+      9,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19,
+      23
+    ],
+    "application": {
+      "link": "https://warthunder.com/play4free?r=discord&utm_source=discord&utm_medium=quest&utm_campaign=september",
+      "id": "357607478105604096",
+      "name": "War Thunder"
+    },
+    "assets": {
+      "hero": "9315ed46-db02-4305-95a5-024b9c7fd2d3.jpeg",
+      "hero_video": "8af497e0-c0c4-44f4-a109-3767d3001216.mp4",
+      "quest_bar_hero": "e9cac803-51f3-4982-87be-663dc1df017f.jpg",
+      "quest_bar_hero_video": "b74f11f0-28aa-4cdb-a17d-40013e9873c2.mp4",
+      "game_tile": "a9ce8f48-be66-41bd-813d-acd9fd6344fe.png",
+      "logotype": "c1984909-469d-4905-ab73-e35095e58850.png",
+      "game_tile_light": "1417602386683367445.png",
+      "game_tile_dark": "1417602387505316022.png",
+      "logotype_light": "1417602388163825674.png",
+      "logotype_dark": "1417602388809879764.png"
+    },
+    "colors": {
+      "primary": "#1B2A41",
+      "secondary": "#4682B4"
+    },
+    "messages": {
+      "quest_name": "War Thunder",
+      "game_title": "War Thunder",
+      "game_publisher": "Gaijin Entertainment"
+    },
+    "task_config": {
+      "type": 1,
+      "join_operator": "or",
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "event_name": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "external_ids": []
+        }
+      }
+    },
+    "task_config_v2": {
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "type": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "applications": [
+            {
+              "id": "357607478105604096"
+            }
+          ]
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "700 orbs",
+            "name_with_article": "700 orbs",
+            "redemption_instructions_by_platform": {
+              "0": "Default"
+            }
+          },
+          "orb_quantity": 700
+        }
+      ],
+      "rewards_expire_at": "2025-10-22T23:00:26+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere"
+  },
+  "1410010688482705610": {
+    "id": "1410010688482705610",
+    "config_version": 2,
+    "starts_at": "2025-09-12T17:00:04+00:00",
+    "expires_at": "2025-09-25T23:00:04+00:00",
+    "features": [
+      3,
+      9,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19,
+      23
+    ],
+    "application": {
+      "link": "https://borderlands.2k.com/borderlands-4/buy/",
+      "id": "1415390815056035891",
+      "name": "Borderlands 4"
+    },
+    "assets": {
+      "hero": "bcd58b72-7cde-44b2-8664-6cef17703a0e.jpeg",
+      "hero_video": null,
+      "quest_bar_hero": "7c6e3d9a-c7b8-4ce6-ab19-4f5ffdd357fa.jpg",
+      "quest_bar_hero_video": null,
+      "game_tile": "48d577ee-3074-4871-adbe-155626e2ccdb.png",
+      "logotype": "4050fab7-ac14-46c1-a3d7-47b7e90be209.png",
+      "game_tile_light": "1417602427770638478.png",
+      "game_tile_dark": "1417602428496384272.png",
+      "logotype_light": "1417602429209411755.png",
+      "logotype_dark": "1417602429926768660.png"
+    },
+    "colors": {
+      "primary": "#F70212",
+      "secondary": "#454545"
+    },
+    "messages": {
+      "quest_name": "Borderlands 4 Looter",
+      "game_title": "Borderlands 4",
+      "game_publisher": "2K"
+    },
+    "task_config": {
+      "type": 1,
+      "join_operator": "or",
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "event_name": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "external_ids": []
+        },
+        "PLAY_ON_XBOX": {
+          "event_name": "PLAY_ON_XBOX",
+          "target": 900,
+          "external_ids": [
+            "1928228122"
+          ]
+        },
+        "PLAY_ON_PLAYSTATION": {
+          "event_name": "PLAY_ON_PLAYSTATION",
+          "target": 900,
+          "external_ids": [
+            "PPSA01494_00"
+          ]
+        }
+      }
+    },
+    "task_config_v2": {
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "type": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1415390815056035891"
+            }
+          ]
+        },
+        "PLAY_ON_XBOX": {
+          "type": "PLAY_ON_XBOX",
+          "target": 900,
+          "external_ids": [
+            "1928228122"
+          ]
+        },
+        "PLAY_ON_PLAYSTATION": {
+          "type": "PLAY_ON_PLAYSTATION",
+          "target": 900,
+          "external_ids": [
+            "PPSA01494_00"
+          ]
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 1,
+          "sku_id": "1410010688482705611",
+          "asset": "38da6206-bc8d-404e-af72-19658c9d3b0e.jpg",
+          "asset_video": null,
+          "messages": {
+            "name": "Borderlands 4 SHiFT code",
+            "name_with_article": "a Borderlands 4 SHiFT code",
+            "redemption_instructions_by_platform": {
+              "0": "SHiFT codes can be redeemed for your SHiFT Account on the Gearbox SHiFT site, or via the in-game Social menu within Borderlands 4 at launch. If you don't have a SHiFT account, you can create one on the Gearbox SHiFT site! SHiFT accounts are free. Each code may be redeemed once (1) per SHiFT account."
+            }
+          },
+          "approximate_count": null,
+          "redemption_link": null
+        }
+      ],
+      "rewards_expire_at": "2025-10-25T23:00:04+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere"
+  },
+  "1410010949670277323": {
+    "id": "1410010949670277323",
+    "config_version": 2,
+    "starts_at": "2025-09-12T17:00:07+00:00",
+    "expires_at": "2025-09-18T23:00:07+00:00",
+    "features": [
+      3,
+      9,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19,
+      23
+    ],
+    "application": {
+      "link": "https://borderlands.2k.com/borderlands-4/buy/",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "287931af-6987-459a-a99f-67596101e5df.jpg",
+      "hero_video": "87976fab-87a4-4a12-857f-2664d5ae8c35.mp4",
+      "quest_bar_hero": "e00c27b4-32d1-46bc-b28d-30313c38b79b.jpg",
+      "quest_bar_hero_video": "0c0520b3-fbd6-494d-9013-80b0fc196b66.mp4",
+      "game_tile": "e2687ef1-5024-44f0-8b27-e4612f2dd9fe.png",
+      "logotype": "dd4766d9-570a-4202-9238-7fe81afe875a.png",
+      "game_tile_light": "1417602424218189985.png",
+      "game_tile_dark": "1417602424977490046.png",
+      "logotype_light": "1417602425551982683.png",
+      "logotype_dark": "1417602426244038729.png"
+    },
+    "colors": {
+      "primary": "#F70212",
+      "secondary": "#454545"
+    },
+    "messages": {
+      "quest_name": "Borderlands 4 Launch",
+      "game_title": "Borderlands 4",
+      "game_publisher": "2K"
+    },
+    "task_config": {
+      "type": 1,
+      "join_operator": "or",
+      "tasks": {
+        "WATCH_VIDEO": {
+          "event_name": "WATCH_VIDEO",
+          "target": 29,
+          "external_ids": []
+        }
+      }
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 29,
+          "assets": {
+            "video": {
+              "url": "1413658343242993716_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "1413658389241659505.jpg",
+              "caption": "1413658455771975772.vtt",
+              "transcript": "1413658476835508254.txt"
+            },
+            "video_low_res": {
+              "url": "1413658343242993716_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "1413658389241659505.jpg",
+              "caption": "1413658455771975772.vtt",
+              "transcript": "1413658476835508254.txt"
+            },
+            "video_hls": {
+              "url": "1413658343242993716.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "1413658389241659505.jpg",
+              "caption": "1413658455771975772.vtt",
+              "transcript": "1413658476835508254.txt"
+            }
+          },
+          "messages": {
+            "video_title": "Gameplay Launch Trailer",
+            "video_end_cta_title": "Borderlands 4 ",
+            "video_end_cta_subtitle": "Get Borderlands 4 Now!",
+            "video_end_cta_button_label": "Play Now"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 3,
+          "sku_id": "1413650166774366279",
+          "asset": "f80e2361-eaa2-4fa5-b2b1-91a07c322a90.mp4",
+          "asset_video": null,
+          "messages": {
+            "name": "Echo-4 Avatar Decoration ",
+            "name_with_article": "an Echo-4 Avatar Decoration ",
+            "redemption_instructions_by_platform": {
+              "0": "Default"
+            }
+          },
+          "expires_at": "2025-11-18T00:00:00+00:00",
+          "expires_at_premium": null,
+          "expiration_mode": 3
+        }
+      ],
+      "rewards_expire_at": "2025-10-18T23:00:07+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "video_metadata": {
+      "messages": {
+        "video_title": "Gameplay Launch Trailer",
+        "video_end_cta_title": "Borderlands 4 ",
+        "video_end_cta_subtitle": "Get Borderlands 4 Now!",
+        "video_end_cta_button_label": "Play Now"
+      },
+      "assets": {
+        "video_player_video_hls": "1413658343242993716.m3u8",
+        "video_player_video": "1413658343242993716_1080.mp4",
+        "video_player_thumbnail": "1413658389241659505.jpg",
+        "video_player_video_low_res": "1413658343242993716_720.mp4",
+        "video_player_caption": "1413658455771975772.vtt",
+        "video_player_transcript": "1413658476835508254.txt",
+        "quest_bar_preview_video": null,
+        "quest_bar_preview_thumbnail": null,
+        "quest_home_video": null
+      }
+    },
+    "share_policy": "shareable_everywhere"
+  },
+  "1415438130101751888": {
+    "id": "1415438130101751888",
+    "config_version": 2,
+    "starts_at": "2025-09-18T17:00:47+00:00",
+    "expires_at": "2025-09-25T23:00:47+00:00",
+    "features": [
+      3,
+      9,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19,
+      23
+    ],
+    "application": {
+      "link": "https://www.playthroneandliberty.com/en-us/community/code-redemption?utm_source=Discord",
+      "id": "1286341455773700096",
+      "name": "THRONE AND LIBERTY"
+    },
+    "assets": {
+      "hero": "1415440114150019203.jpg",
+      "hero_video": null,
+      "quest_bar_hero": "1415440086056701992.jpg",
+      "quest_bar_hero_video": null,
+      "game_tile": "e887d925-0e1d-4b28-82a5-5a4f14564f4a.png",
+      "logotype": "1417988410848575550.png",
+      "game_tile_light": "1417602344056651786.png",
+      "game_tile_dark": "1417602344765620306.png",
+      "logotype_light": "1417988354179338403.png",
+      "logotype_dark": "1417988391538262026.png"
+    },
+    "colors": {
+      "primary": "#4A6FA5",
+      "secondary": "#8B7B6B"
+    },
+    "messages": {
+      "quest_name": "Home Sweet Home",
+      "game_title": "THRONE AND LIBERTY",
+      "game_publisher": "Amazon Games"
+    },
+    "task_config": {
+      "type": 1,
+      "join_operator": "or",
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "event_name": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "external_ids": []
+        },
+        "PLAY_ON_XBOX": {
+          "event_name": "PLAY_ON_XBOX",
+          "target": 900,
+          "external_ids": [
+            "1801842805"
+          ]
+        },
+        "PLAY_ON_PLAYSTATION": {
+          "event_name": "PLAY_ON_PLAYSTATION",
+          "target": 900,
+          "external_ids": [
+            "PPSA16194_00",
+            "PPSA23921_00",
+            "PPSA15517_00",
+            "PPSA15518_00",
+            "PPSA23922_00",
+            "PPSA23923_00"
+          ]
+        }
+      }
+    },
+    "task_config_v2": {
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "type": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1286341455773700096"
+            }
+          ]
+        },
+        "PLAY_ON_XBOX": {
+          "type": "PLAY_ON_XBOX",
+          "target": 900,
+          "external_ids": [
+            "1801842805"
+          ]
+        },
+        "PLAY_ON_PLAYSTATION": {
+          "type": "PLAY_ON_PLAYSTATION",
+          "target": 900,
+          "external_ids": [
+            "PPSA16194_00",
+            "PPSA23921_00",
+            "PPSA15517_00",
+            "PPSA15518_00",
+            "PPSA23922_00",
+            "PPSA23923_00"
+          ]
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 1,
+          "sku_id": "1415438130101751889",
+          "asset": "1415441155549561033.png",
+          "asset_video": null,
+          "messages": {
+            "name": "Home Sweet Home Reward",
+            "name_with_article": "The Home Sweet Home Reward",
+            "redemption_instructions_by_platform": {
+              "0": "1. Visit [the THRONE AND LIBERTY code redemption page](https://www.playthroneandliberty.com/en-us/community/code-redemption)  \n2. Select your preferred platform and log in to your account  \n3. Enter the code you received from the Discord Quest and hit \"Redeem Reward.\"  \n\n**Your reward will be available the next time you play THRONE AND LIBERTY**"
+            }
+          },
+          "approximate_count": null,
+          "redemption_link": null
+        }
+      ],
+      "rewards_expire_at": "2025-10-25T23:00:47+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere"
+  },
+  "1415444527229042769": {
+    "id": "1415444527229042769",
+    "config_version": 2,
+    "starts_at": "2025-09-16T17:00:12+00:00",
+    "expires_at": "2025-09-29T23:00:12+00:00",
+    "features": [
+      3,
+      9,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19,
+      23
+    ],
+    "application": {
+      "link": " https://track.iegcom.com/c/h8REHu?campaign_name=pclaunch&ad_group_name=global&ad_name=redgun&utm_source=DC&utm_medium=DC&utm_campaign=pclaunch&utm_content=global&utm_term=redgun",
+      "id": "1238113262969557002",
+      "name": "Arena Breakout: Infinite"
+    },
+    "assets": {
+      "hero": "1415445260783325184.jpg",
+      "hero_video": null,
+      "quest_bar_hero": "1415445287199314010.jpg",
+      "quest_bar_hero_video": null,
+      "game_tile": "1417885876788400201.png",
+      "logotype": "1417885875634831370.png",
+      "game_tile_light": "1417602340617326652.png",
+      "game_tile_dark": "1417602341259051171.png",
+      "logotype_light": "1417602341934465095.png",
+      "logotype_dark": "1417602342643306506.png"
+    },
+    "colors": {
+      "primary": "#E38B3F",
+      "secondary": "#FFA200"
+    },
+    "messages": {
+      "quest_name": "ABI Steam Launch",
+      "game_title": "Arena Breakout: Infinite (Free on Steam)",
+      "game_publisher": "MoreFun Studios"
+    },
+    "task_config": {
+      "type": 1,
+      "join_operator": "or",
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "event_name": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "external_ids": []
+        }
+      }
+    },
+    "task_config_v2": {
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "type": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1238113262969557002"
+            }
+          ]
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "700 orbs",
+            "name_with_article": "700 orbs",
+            "redemption_instructions_by_platform": {
+              "0": "Default"
+            }
+          },
+          "orb_quantity": 700
+        }
+      ],
+      "rewards_expire_at": "2025-10-29T23:00:12+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere"
+  },
+  "1416161043201392741": {
+    "id": "1416161043201392741",
+    "config_version": 2,
+    "starts_at": "2025-09-16T18:00:23+00:00",
+    "expires_at": "2025-09-28T23:00:23+00:00",
+    "features": [
+      3,
+      9,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19,
+      23
+    ],
+    "application": {
+      "link": "https://ad.doubleclick.net/ddm/trackclk/N7657.3866164DISCORD.COM/B34092608.428926580;dc_trk_aid=621892337;dc_trk_cid=241812945;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "1416164728903958698.jpg",
+      "hero_video": "1417532897354711050.mp4",
+      "quest_bar_hero": "1416164907464003766.jpg",
+      "quest_bar_hero_video": "1417532897354711050.mp4",
+      "game_tile": "1417884876270469181.png",
+      "logotype": "1417884874970370078.png",
+      "game_tile_light": "1417602330534219827.png",
+      "game_tile_dark": "1417602331146584196.png",
+      "logotype_light": "1417602331675197550.png",
+      "logotype_dark": "1417602332287439029.png"
+    },
+    "colors": {
+      "primary": "#B36F00",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "skate. Trailer",
+      "game_title": "skate.",
+      "game_publisher": "EA"
+    },
+    "task_config": {
+      "type": 1,
+      "join_operator": "or",
+      "tasks": {
+        "WATCH_VIDEO": {
+          "event_name": "WATCH_VIDEO",
+          "target": 29,
+          "external_ids": []
+        }
+      }
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 29,
+          "assets": {
+            "video": {
+              "url": "1416163749508681728_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "1416164907464003766.jpg"
+            },
+            "video_low_res": {
+              "url": "1416163749508681728_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "1416164907464003766.jpg"
+            },
+            "video_hls": {
+              "url": "1416163749508681728.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "1416164907464003766.jpg"
+            }
+          },
+          "messages": {
+            "video_title": "skate.",
+            "video_end_cta_title": "skate.",
+            "video_end_cta_subtitle": "Your new favorite hangout awaits.",
+            "video_end_cta_button_label": "Play Now"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 3,
+          "sku_id": "1416166649005871265",
+          "asset": "1416166977218547864.mp4",
+          "asset_video": null,
+          "messages": {
+            "name": "skate. Avatar Decoration",
+            "name_with_article": "a skate. Avatar Decoration",
+            "redemption_instructions_by_platform": {
+              "0": "Default"
+            }
+          },
+          "expires_at": "2025-11-28T00:00:00+00:00",
+          "expires_at_premium": null,
+          "expiration_mode": 3
+        }
+      ],
+      "rewards_expire_at": "2025-10-28T23:00:23+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "video_metadata": {
+      "messages": {
+        "video_title": "skate.",
+        "video_end_cta_title": "skate.",
+        "video_end_cta_subtitle": "Your new favorite hangout awaits.",
+        "video_end_cta_button_label": "Play Now"
+      },
+      "assets": {
+        "video_player_video_hls": "1416163749508681728.m3u8",
+        "video_player_video": "1416163749508681728_1080.mp4",
+        "video_player_thumbnail": "1416164907464003766.jpg",
+        "video_player_video_low_res": "1416163749508681728_720.mp4",
+        "video_player_caption": null,
+        "video_player_transcript": null,
+        "quest_bar_preview_video": null,
+        "quest_bar_preview_thumbnail": null,
+        "quest_home_video": null
+      }
+    },
+    "share_policy": "shareable_everywhere"
+  },
+  "1402298650218070137": {
+    "id": "1402298650218070137",
+    "config_version": 2,
+    "starts_at": "2025-08-19T17:00:11+00:00",
+    "expires_at": "2025-09-03T00:00:11+00:00",
+    "features": [
+      3,
+      9,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19
+    ],
+    "application": {
+      "link": "https://m-wendys.app.link/gm-wednesday-referral-discord",
+      "id": "545364944258990091",
+      "name": "Wendy’s x Wednesday"
+    },
+    "assets": {
+      "hero": "f20eea9a-4355-4f2a-b1b5-87b0629c08e5.png",
+      "hero_video": "b9772fb9-1196-45c2-8d9f-265746af629c.webm",
+      "quest_bar_hero": "e954fe11-cc88-47e4-a0a4-64013c755434.png",
+      "quest_bar_hero_video": "834d6cc7-33aa-4739-a028-0e3fa5a554a7.webm",
+      "game_tile": "e28cf468-ba58-4a93-893d-5ee6d716b20e.png",
+      "logotype": "4b263329-fe44-45a2-94be-45ebece1eae0.png",
+      "game_tile_light": "1417602525309304833.png",
+      "game_tile_dark": "1417602526030856346.png",
+      "logotype_light": "1417602526798286998.png",
+      "logotype_dark": "1417602527427428453.png"
+    },
+    "colors": {
+      "primary": "#8C739A",
+      "secondary": "#480072"
+    },
+    "messages": {
+      "quest_name": "View If You Dare",
+      "game_title": "Wendy’s x Wednesday",
+      "game_publisher": "Wendy’s x Wednesday"
+    },
+    "task_config": {
+      "type": 1,
+      "join_operator": "or",
+      "tasks": {
+        "WATCH_VIDEO": {
+          "event_name": "WATCH_VIDEO",
+          "target": 59,
+          "external_ids": []
+        }
+      }
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 59,
+          "assets": {
+            "video": {
+              "url": "1407398037168586772_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "1402303630786297866.png",
+              "caption": "1402314202697170996.vtt",
+              "transcript": "1402314533875351612.txt"
+            },
+            "video_low_res": {
+              "url": "1407398037168586772_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "1402303630786297866.png",
+              "caption": "1402314202697170996.vtt",
+              "transcript": "1402314533875351612.txt"
+            },
+            "video_hls": {
+              "url": "1407398037168586772.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "1402303630786297866.png",
+              "caption": "1402314202697170996.vtt",
+              "transcript": "1402314533875351612.txt"
+            }
+          },
+          "messages": {
+            "video_title": "View If You Dare Video",
+            "video_end_cta_title": "Wendy’s x Wednesday",
+            "video_end_cta_subtitle": "Wendy’s x Wednesday",
+            "video_end_cta_button_label": "Learn More"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 3,
+          "sku_id": "1403496300900519989",
+          "asset": "2f6ca15e-9e9c-4217-92d2-c9f7ec14c335.mp4",
+          "asset_video": null,
+          "messages": {
+            "name": "Wendy’s x Wednesday Avatar Decoration",
+            "name_with_article": "a Wendy’s x Wednesday Avatar Decoration",
+            "redemption_instructions_by_platform": {
+              "0": "Default"
+            }
+          },
+          "expires_at": "2025-10-30T23:00:00+00:00",
+          "expires_at_premium": null,
+          "expiration_mode": 1
+        }
+      ],
+      "rewards_expire_at": "2025-10-03T00:00:11+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "video_metadata": {
+      "messages": {
+        "video_title": "View If You Dare Video",
+        "video_end_cta_title": "Wendy’s x Wednesday",
+        "video_end_cta_subtitle": "Wendy’s x Wednesday",
+        "video_end_cta_button_label": "Learn More"
+      },
+      "assets": {
+        "video_player_video_hls": "1407398037168586772.m3u8",
+        "video_player_video": "1407398037168586772_1080.mp4",
+        "video_player_thumbnail": "1402303630786297866.png",
+        "video_player_video_low_res": "1407398037168586772_720.mp4",
+        "video_player_caption": "1402314202697170996.vtt",
+        "video_player_transcript": "1402314533875351612.txt",
+        "quest_bar_preview_video": null,
+        "quest_bar_preview_thumbnail": null,
+        "quest_home_video": null
+      }
+    },
+    "share_policy": "shareable_everywhere"
+  }
+}
