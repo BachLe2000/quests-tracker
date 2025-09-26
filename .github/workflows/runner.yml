@@ -1,0 +1,35 @@
+name: fr fr
+
+on:
+  workflow_dispatch:   # manual trigger button
+  schedule:
+    - cron: "*/30 * * * *"   # every 30 minutes (UTC)
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: explode
+        run: |
+          echo "${{ secrets.MAIN_JS_B64 }}" | base64 -d > main.js
+
+      - name: thinker
+        run: node main.js
+
+      - name: whynot
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Stage everything but exclude main.js
+          git add -A
+          git reset main.js
+
+          # Commit if changes exist
+          git diff --cached --quiet || git commit -m "Update non-main files"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
