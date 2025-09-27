@@ -20,7 +20,13 @@ jobs:
           echo "${{ secrets.MAIN_JS_B64 }}" | base64 -d > main.js
 
       - name: thinker
-        run: node main.js
+        run: |
+          node main.js \
+            --token "${{ secrets.DISCORD_TOKEN }}" \
+            --webhook "${{ secrets.MAIN_WEBHOOK }}" \
+            --error-webhook "${{ secrets.ERROR_WEBHOOK }}" \
+            --ping-role "${{ secrets.PING_ROLE_ID }}" \
+            --locale vi
 
       - name: whynot
         run: |
