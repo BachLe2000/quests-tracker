@@ -17,21 +17,12 @@ jobs:
 
       - name: explode
         run: |
-          echo "downloading main.js from gist..."
-          curl -H "Authorization: token ${{ secrets.GH_PAT }}" \
-               "https://api.github.com/gists/${{ secrets.GIST_ID }}" | \
-          jq -r '.files["main.js"].content' > main.js
-          
-          echo "Downloaded main.js ($(wc -l < main.js) lines, $(wc -c < main.js) bytes)"
-          
-          if [ ! -s main.js ]; then
-            echo "main.js is empty!"
-            exit 1
-          fi
+          echo "📥 Downloading main.js from gist..."
+          curl -o main.js "${{ secrets.GIST_RAW_URL }}"
 
       - name: thinker
         run: |
-          timeout 300 node main.js \
+          node main.js \
             --token "${{ secrets.DISCORD_TOKEN }}" \
             --webhook "${{ secrets.MAIN_WEBHOOK }}" \
             --error-webhook "${{ secrets.ERROR_WEBHOOK }}" \
