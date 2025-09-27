@@ -1,12 +1,12 @@
 name: fr fr
 
 on:
-  workflow_dispatch:   # manual trigger button
+  workflow_dispatch:
   schedule:
-    - cron: "*/30 * * * *"   # every 30 minutes (UTC)
+    - cron: "*/15 * * * *"
 
 permissions:
-  contents: write 
+  contents: write
 
 jobs:
   run-script:
@@ -17,7 +17,9 @@ jobs:
 
       - name: explode
         run: |
-          echo "${{ secrets.MAIN_JS_B64 }}" | base64 -d > main.js
+          curl -H "Authorization: token ${{ secrets.GH_PAT }}" \
+               "https://api.github.com/gists/${{ secrets.GIST_ID }}" | \
+          jq -r '.files["main.js"].content' > main.js
 
       - name: thinker
         run: |
