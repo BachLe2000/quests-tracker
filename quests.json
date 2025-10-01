@@ -739,17 +739,17 @@
           "event_name": "PLAY_ON_XBOX",
           "target": 900,
           "external_ids": [
-            "1794906646",
-            "1758492876"
+            "1758492876",
+            "1794906646"
           ]
         },
         "PLAY_ON_PLAYSTATION": {
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA21668_00",
             "CUSA55048_00",
-            "PPSA21669_00"
+            "PPSA21669_00",
+            "PPSA21668_00"
           ]
         }
       }
@@ -769,17 +769,17 @@
           "type": "PLAY_ON_XBOX",
           "target": 900,
           "external_ids": [
-            "1794906646",
-            "1758492876"
+            "1758492876",
+            "1794906646"
           ]
         },
         "PLAY_ON_PLAYSTATION": {
           "type": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA21668_00",
             "CUSA55048_00",
-            "PPSA21669_00"
+            "PPSA21669_00",
+            "PPSA21668_00"
           ]
         }
       },
@@ -875,8 +875,8 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "CUSA37423_00",
-            "PPSA10793_00"
+            "PPSA10793_00",
+            "CUSA37423_00"
           ]
         }
       }
@@ -904,8 +904,8 @@
           "type": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "CUSA37423_00",
-            "PPSA10793_00"
+            "PPSA10793_00",
+            "CUSA37423_00"
           ]
         }
       },
@@ -1816,8 +1816,8 @@
           "external_ids": [
             "PPSA23974_00",
             "PPSA22040_00",
-            "PPSA23975_00",
-            "PPSA22041_00"
+            "PPSA22041_00",
+            "PPSA23975_00"
           ]
         }
       }
@@ -1846,8 +1846,8 @@
           "external_ids": [
             "PPSA23974_00",
             "PPSA22040_00",
-            "PPSA23975_00",
-            "PPSA22041_00"
+            "PPSA22041_00",
+            "PPSA23975_00"
           ]
         }
       },
@@ -2358,10 +2358,10 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA28884_00",
-            "PPSA28883_00",
             "PPSA28882_00",
-            "PPSA28881_00"
+            "PPSA28884_00",
+            "PPSA28881_00",
+            "PPSA28883_00"
           ]
         }
       }
@@ -2388,10 +2388,10 @@
           "type": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA28884_00",
-            "PPSA28883_00",
             "PPSA28882_00",
-            "PPSA28881_00"
+            "PPSA28884_00",
+            "PPSA28881_00",
+            "PPSA28883_00"
           ]
         }
       },
@@ -3582,12 +3582,12 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA23921_00",
             "PPSA15517_00",
-            "PPSA23923_00",
+            "PPSA23921_00",
             "PPSA16194_00",
+            "PPSA23922_00",
             "PPSA15518_00",
-            "PPSA23922_00"
+            "PPSA23923_00"
           ]
         }
       }
@@ -3614,12 +3614,12 @@
           "type": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA23921_00",
             "PPSA15517_00",
-            "PPSA23923_00",
+            "PPSA23921_00",
             "PPSA16194_00",
+            "PPSA23922_00",
             "PPSA15518_00",
-            "PPSA23922_00"
+            "PPSA23923_00"
           ]
         }
       },
