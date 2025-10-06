@@ -5252,5 +5252,129 @@
       }
     },
     "share_policy": "shareable_everywhere"
+  },
+  "1422728852744179862": {
+    "id": "1422728852744179862",
+    "config_version": 2,
+    "starts_at": "2025-10-06T17:00:31+00:00",
+    "expires_at": "2025-10-13T00:00:31+00:00",
+    "features": [
+      3,
+      9,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19,
+      23
+    ],
+    "application": {
+      "link": "https://playvalorant.com/?utm_source=discord&utm_medium=paid&utm_campaign=VALVetoInvite",
+      "id": "700136079562375258",
+      "name": "VALORANT"
+    },
+    "assets": {
+      "hero": "1422730700292886538.jpg",
+      "hero_video": "1423081096764981279.mp4",
+      "quest_bar_hero": "1422730588464353290.jpg",
+      "quest_bar_hero_video": "1423045267200147538.mp4",
+      "game_tile": "1422731455741693992.png",
+      "logotype": "1422731450997932052.png",
+      "game_tile_light": "1422730841360044042.png",
+      "game_tile_dark": "1422730841360044042.png",
+      "logotype_light": "1422730799001637054.png",
+      "logotype_dark": "1422730799001637054.png"
+    },
+    "colors": {
+      "primary": "#57805B",
+      "secondary": "#57805B"
+    },
+    "messages": {
+      "quest_name": "VALORANT Invite",
+      "game_title": "VALORANT",
+      "game_publisher": "Riot Games"
+    },
+    "task_config": {
+      "type": 1,
+      "join_operator": "or",
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "event_name": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "external_ids": []
+        },
+        "PLAY_ON_XBOX": {
+          "event_name": "PLAY_ON_XBOX",
+          "target": 900,
+          "external_ids": [
+            "2139646219"
+          ]
+        },
+        "PLAY_ON_PLAYSTATION": {
+          "event_name": "PLAY_ON_PLAYSTATION",
+          "target": 900,
+          "external_ids": [
+            "PPSA20711_00",
+            "PPSA20676_00"
+          ]
+        }
+      }
+    },
+    "task_config_v2": {
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "type": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "applications": [
+            {
+              "id": "700136079562375258"
+            }
+          ]
+        },
+        "PLAY_ON_XBOX": {
+          "type": "PLAY_ON_XBOX",
+          "target": 900,
+          "external_ids": [
+            "2139646219"
+          ]
+        },
+        "PLAY_ON_PLAYSTATION": {
+          "type": "PLAY_ON_PLAYSTATION",
+          "target": 900,
+          "external_ids": [
+            "PPSA20711_00",
+            "PPSA20676_00"
+          ]
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 3,
+          "sku_id": "1422723412052279357",
+          "asset": "1422731388674904084.mp4",
+          "asset_video": null,
+          "messages": {
+            "name": "Tactibear Flex Avatar Decoration",
+            "name_with_article": "a Tactibear Flex Avatar Decoration",
+            "redemption_instructions_by_platform": {
+              "0": "Default"
+            }
+          },
+          "expires_at": "2025-12-12T01:00:00+00:00",
+          "expires_at_premium": null,
+          "expiration_mode": 3
+        }
+      ],
+      "rewards_expire_at": "2025-11-12T00:00:31+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere"
   }
 }
