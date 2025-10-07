@@ -739,17 +739,17 @@
           "event_name": "PLAY_ON_XBOX",
           "target": 900,
           "external_ids": [
-            "1758492876",
-            "1794906646"
+            "1794906646",
+            "1758492876"
           ]
         },
         "PLAY_ON_PLAYSTATION": {
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
+            "PPSA21669_00",
             "PPSA21668_00",
-            "CUSA55048_00",
-            "PPSA21669_00"
+            "CUSA55048_00"
           ]
         }
       }
@@ -769,17 +769,17 @@
           "type": "PLAY_ON_XBOX",
           "target": 900,
           "external_ids": [
-            "1758492876",
-            "1794906646"
+            "1794906646",
+            "1758492876"
           ]
         },
         "PLAY_ON_PLAYSTATION": {
           "type": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
+            "PPSA21669_00",
             "PPSA21668_00",
-            "CUSA55048_00",
-            "PPSA21669_00"
+            "CUSA55048_00"
           ]
         }
       },
@@ -867,16 +867,16 @@
           "event_name": "PLAY_ON_XBOX",
           "target": 900,
           "external_ids": [
-            "883004381",
-            "2106683993"
+            "2106683993",
+            "883004381"
           ]
         },
         "PLAY_ON_PLAYSTATION": {
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA10793_00",
-            "CUSA37423_00"
+            "CUSA37423_00",
+            "PPSA10793_00"
           ]
         }
       }
@@ -896,16 +896,16 @@
           "type": "PLAY_ON_XBOX",
           "target": 900,
           "external_ids": [
-            "883004381",
-            "2106683993"
+            "2106683993",
+            "883004381"
           ]
         },
         "PLAY_ON_PLAYSTATION": {
           "type": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA10793_00",
-            "CUSA37423_00"
+            "CUSA37423_00",
+            "PPSA10793_00"
           ]
         }
       },
@@ -1420,8 +1420,8 @@
           "event_name": "PLAY_ON_XBOX",
           "target": 900,
           "external_ids": [
-            "2139967680",
             "2111887267",
+            "2139967680",
             "2075142437"
           ]
         },
@@ -1430,9 +1430,9 @@
           "target": 900,
           "external_ids": [
             "CUSA35016_00",
-            "PPSA08804_00",
+            "PPSA30664_00",
             "PPSA30943_00",
-            "PPSA30664_00"
+            "PPSA08804_00"
           ]
         }
       }
@@ -1452,8 +1452,8 @@
           "type": "PLAY_ON_XBOX",
           "target": 900,
           "external_ids": [
-            "2139967680",
             "2111887267",
+            "2139967680",
             "2075142437"
           ]
         },
@@ -1462,9 +1462,9 @@
           "target": 900,
           "external_ids": [
             "CUSA35016_00",
-            "PPSA08804_00",
+            "PPSA30664_00",
             "PPSA30943_00",
-            "PPSA30664_00"
+            "PPSA08804_00"
           ]
         }
       },
@@ -2358,10 +2358,10 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA28881_00",
+            "PPSA28882_00",
             "PPSA28884_00",
-            "PPSA28883_00",
-            "PPSA28882_00"
+            "PPSA28881_00",
+            "PPSA28883_00"
           ]
         }
       }
@@ -2388,10 +2388,10 @@
           "type": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA28881_00",
+            "PPSA28882_00",
             "PPSA28884_00",
-            "PPSA28883_00",
-            "PPSA28882_00"
+            "PPSA28881_00",
+            "PPSA28883_00"
           ]
         }
       },
@@ -3582,12 +3582,12 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA23921_00",
-            "PPSA16194_00",
-            "PPSA23922_00",
             "PPSA15518_00",
             "PPSA15517_00",
-            "PPSA23923_00"
+            "PPSA23921_00",
+            "PPSA16194_00",
+            "PPSA23923_00",
+            "PPSA23922_00"
           ]
         }
       }
@@ -3614,12 +3614,12 @@
           "type": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA23921_00",
-            "PPSA16194_00",
-            "PPSA23922_00",
             "PPSA15518_00",
             "PPSA15517_00",
-            "PPSA23923_00"
+            "PPSA23921_00",
+            "PPSA16194_00",
+            "PPSA23923_00",
+            "PPSA23922_00"
           ]
         }
       },
@@ -5374,6 +5374,140 @@
       "platforms": [
         0
       ]
+    },
+    "share_policy": "shareable_everywhere"
+  },
+  "1424900089528451244": {
+    "id": "1424900089528451244",
+    "config_version": 2,
+    "starts_at": "2025-10-07T17:00:14+00:00",
+    "expires_at": "2025-10-14T00:00:14+00:00",
+    "features": [
+      3,
+      9,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19,
+      23
+    ],
+    "application": {
+      "link": "https://bpsr.onelink.me/Ijsy/rf8s8a2v",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "1424902442801172563.jpg",
+      "hero_video": "1424902410903490632.mp4",
+      "quest_bar_hero": "1424902376002682950.jpg",
+      "quest_bar_hero_video": "1424902410903490632.mp4",
+      "game_tile": "1424902690307313716.png",
+      "logotype": "1424902689275248835.png",
+      "game_tile_light": "1424902660146073740.png",
+      "game_tile_dark": "1424902660146073740.png",
+      "logotype_light": "1424902582530478081.png",
+      "logotype_dark": "1424902625085882490.png"
+    },
+    "colors": {
+      "primary": "#304FB1",
+      "secondary": "#5E3585"
+    },
+    "messages": {
+      "quest_name": "Blue Protocol: Star Resonance",
+      "game_title": "New MMO Launches on October 9th",
+      "game_publisher": "A Plus Japan"
+    },
+    "task_config": {
+      "type": 1,
+      "join_operator": "or",
+      "tasks": {
+        "WATCH_VIDEO": {
+          "event_name": "WATCH_VIDEO",
+          "target": 85,
+          "external_ids": []
+        }
+      }
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 85,
+          "assets": {
+            "video": {
+              "url": "1424903662702039161_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "1424903819573203056.jpg"
+            },
+            "video_low_res": {
+              "url": "1424903662702039161_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "1424903819573203056.jpg"
+            },
+            "video_hls": {
+              "url": "1424903662702039161.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "1424903819573203056.jpg"
+            }
+          },
+          "messages": {
+            "video_title": " Blue Protocol: Star Resonance Trailer",
+            "video_end_cta_title": " Blue Protocol: Star Resonance",
+            "video_end_cta_subtitle": "Your story awaits in Blue Protocol: Star Resonance",
+            "video_end_cta_button_label": "Preregister"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 3,
+          "sku_id": "1424960507143524495",
+          "asset": "1424960568372101270.mp4",
+          "asset_video": null,
+          "messages": {
+            "name": "Airona Fireworks Avatar Decoration",
+            "name_with_article": "an Airona Fireworks Avatar Decoration",
+            "redemption_instructions_by_platform": {
+              "0": "Default"
+            }
+          },
+          "expires_at": "2025-12-13T01:00:00+00:00",
+          "expires_at_premium": null,
+          "expiration_mode": 3
+        }
+      ],
+      "rewards_expire_at": "2025-11-13T00:00:14+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "video_metadata": {
+      "messages": {
+        "video_title": " Blue Protocol: Star Resonance Trailer",
+        "video_end_cta_title": " Blue Protocol: Star Resonance",
+        "video_end_cta_subtitle": "Your story awaits in Blue Protocol: Star Resonance",
+        "video_end_cta_button_label": "Preregister"
+      },
+      "assets": {
+        "video_player_video_hls": "1424903662702039161.m3u8",
+        "video_player_video": "1424903662702039161_1080.mp4",
+        "video_player_thumbnail": "1424903819573203056.jpg",
+        "video_player_video_low_res": "1424903662702039161_720.mp4",
+        "video_player_caption": null,
+        "video_player_transcript": null,
+        "quest_bar_preview_video": null,
+        "quest_bar_preview_thumbnail": null,
+        "quest_home_video": null
+      }
     },
     "share_policy": "shareable_everywhere"
   }
