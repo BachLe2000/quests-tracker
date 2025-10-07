@@ -748,8 +748,8 @@
           "target": 900,
           "external_ids": [
             "PPSA21669_00",
-            "CUSA55048_00",
-            "PPSA21668_00"
+            "PPSA21668_00",
+            "CUSA55048_00"
           ]
         }
       }
@@ -778,8 +778,8 @@
           "target": 900,
           "external_ids": [
             "PPSA21669_00",
-            "CUSA55048_00",
-            "PPSA21668_00"
+            "PPSA21668_00",
+            "CUSA55048_00"
           ]
         }
       },
@@ -875,8 +875,8 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "CUSA37423_00",
-            "PPSA10793_00"
+            "PPSA10793_00",
+            "CUSA37423_00"
           ]
         }
       }
@@ -904,8 +904,8 @@
           "type": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "CUSA37423_00",
-            "PPSA10793_00"
+            "PPSA10793_00",
+            "CUSA37423_00"
           ]
         }
       },
@@ -1429,9 +1429,9 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "CUSA35016_00",
-            "PPSA30664_00",
             "PPSA08804_00",
+            "PPSA30664_00",
+            "CUSA35016_00",
             "PPSA30943_00"
           ]
         }
@@ -1461,9 +1461,9 @@
           "type": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "CUSA35016_00",
-            "PPSA30664_00",
             "PPSA08804_00",
+            "PPSA30664_00",
+            "CUSA35016_00",
             "PPSA30943_00"
           ]
         }
@@ -2359,9 +2359,9 @@
           "target": 900,
           "external_ids": [
             "PPSA28882_00",
-            "PPSA28881_00",
+            "PPSA28883_00",
             "PPSA28884_00",
-            "PPSA28883_00"
+            "PPSA28881_00"
           ]
         }
       }
@@ -2389,9 +2389,9 @@
           "target": 900,
           "external_ids": [
             "PPSA28882_00",
-            "PPSA28881_00",
+            "PPSA28883_00",
             "PPSA28884_00",
-            "PPSA28883_00"
+            "PPSA28881_00"
           ]
         }
       },
@@ -3583,11 +3583,11 @@
           "target": 900,
           "external_ids": [
             "PPSA23921_00",
-            "PPSA23922_00",
+            "PPSA15517_00",
+            "PPSA16194_00",
             "PPSA15518_00",
             "PPSA23923_00",
-            "PPSA16194_00",
-            "PPSA15517_00"
+            "PPSA23922_00"
           ]
         }
       }
@@ -3615,11 +3615,11 @@
           "target": 900,
           "external_ids": [
             "PPSA23921_00",
-            "PPSA23922_00",
+            "PPSA15517_00",
+            "PPSA16194_00",
             "PPSA15518_00",
             "PPSA23923_00",
-            "PPSA16194_00",
-            "PPSA15517_00"
+            "PPSA23922_00"
           ]
         }
       },
