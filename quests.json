@@ -748,8 +748,8 @@
           "target": 900,
           "external_ids": [
             "CUSA55048_00",
-            "PPSA21668_00",
-            "PPSA21669_00"
+            "PPSA21669_00",
+            "PPSA21668_00"
           ]
         }
       }
@@ -778,8 +778,8 @@
           "target": 900,
           "external_ids": [
             "CUSA55048_00",
-            "PPSA21668_00",
-            "PPSA21669_00"
+            "PPSA21669_00",
+            "PPSA21668_00"
           ]
         }
       },
@@ -1420,19 +1420,19 @@
           "event_name": "PLAY_ON_XBOX",
           "target": 900,
           "external_ids": [
+            "2111887267",
             "2075142437",
-            "2139967680",
-            "2111887267"
+            "2139967680"
           ]
         },
         "PLAY_ON_PLAYSTATION": {
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "CUSA35016_00",
-            "PPSA08804_00",
+            "PPSA30664_00",
             "PPSA30943_00",
-            "PPSA30664_00"
+            "CUSA35016_00",
+            "PPSA08804_00"
           ]
         }
       }
@@ -1452,19 +1452,19 @@
           "type": "PLAY_ON_XBOX",
           "target": 900,
           "external_ids": [
+            "2111887267",
             "2075142437",
-            "2139967680",
-            "2111887267"
+            "2139967680"
           ]
         },
         "PLAY_ON_PLAYSTATION": {
           "type": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "CUSA35016_00",
-            "PPSA08804_00",
+            "PPSA30664_00",
             "PPSA30943_00",
-            "PPSA30664_00"
+            "CUSA35016_00",
+            "PPSA08804_00"
           ]
         }
       },
@@ -2358,8 +2358,8 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA28883_00",
             "PPSA28884_00",
+            "PPSA28883_00",
             "PPSA28882_00",
             "PPSA28881_00"
           ]
@@ -2388,8 +2388,8 @@
           "type": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA28883_00",
             "PPSA28884_00",
+            "PPSA28883_00",
             "PPSA28882_00",
             "PPSA28881_00"
           ]
@@ -3582,12 +3582,12 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA16194_00",
-            "PPSA23922_00",
-            "PPSA23921_00",
             "PPSA23923_00",
+            "PPSA23921_00",
             "PPSA15517_00",
-            "PPSA15518_00"
+            "PPSA16194_00",
+            "PPSA15518_00",
+            "PPSA23922_00"
           ]
         }
       }
@@ -3614,12 +3614,12 @@
           "type": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA16194_00",
-            "PPSA23922_00",
-            "PPSA23921_00",
             "PPSA23923_00",
+            "PPSA23921_00",
             "PPSA15517_00",
-            "PPSA15518_00"
+            "PPSA16194_00",
+            "PPSA15518_00",
+            "PPSA23922_00"
           ]
         }
       },
@@ -5315,8 +5315,8 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA20711_00",
-            "PPSA20676_00"
+            "PPSA20676_00",
+            "PPSA20711_00"
           ]
         }
       }
@@ -5343,8 +5343,8 @@
           "type": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA20711_00",
-            "PPSA20676_00"
+            "PPSA20676_00",
+            "PPSA20711_00"
           ]
         }
       },
@@ -5573,8 +5573,8 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA25554_00",
-            "PPSA28606_00"
+            "PPSA28606_00",
+            "PPSA25554_00"
           ]
         }
       }
@@ -5601,8 +5601,8 @@
           "type": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA25554_00",
-            "PPSA28606_00"
+            "PPSA28606_00",
+            "PPSA25554_00"
           ]
         }
       },
@@ -6294,6 +6294,132 @@
         }
       ],
       "rewards_expire_at": "2025-11-23T00:00:21+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere"
+  },
+  "1425283638257254514": {
+    "id": "1425283638257254514",
+    "config_version": 2,
+    "starts_at": "2025-10-10T21:30:19+00:00",
+    "expires_at": "2025-10-18T04:30:19+00:00",
+    "features": [
+      3,
+      9,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19,
+      23
+    ],
+    "application": {
+      "link": "https://www.marvelrivals.com/",
+      "id": "1314395942253756416",
+      "name": "Marvel Rivals"
+    },
+    "assets": {
+      "hero": "1425286167317839913.jpg",
+      "hero_video": "1426002130292183070.mp4",
+      "quest_bar_hero": "1426001701386846248.jpg",
+      "quest_bar_hero_video": "1426002047957991514.mp4",
+      "game_tile": "1425996461761626182.png",
+      "logotype": "1425995826077110424.png",
+      "game_tile_light": "1425996406421983322.png",
+      "game_tile_dark": "1425996406421983322.png",
+      "logotype_light": "1425286234028249130.png",
+      "logotype_dark": "1425995783991201803.png"
+    },
+    "colors": {
+      "primary": "#2D2F44",
+      "secondary": "#01227F"
+    },
+    "messages": {
+      "quest_name": "Marvel Rivals ",
+      "game_title": "Marvel Rivals",
+      "game_publisher": "NetEase Games"
+    },
+    "task_config": {
+      "type": 1,
+      "join_operator": "or",
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "event_name": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "external_ids": []
+        },
+        "PLAY_ON_XBOX": {
+          "event_name": "PLAY_ON_XBOX",
+          "target": 900,
+          "external_ids": [
+            "1794906646"
+          ]
+        },
+        "PLAY_ON_PLAYSTATION": {
+          "event_name": "PLAY_ON_PLAYSTATION",
+          "target": 900,
+          "external_ids": [
+            "CUSA55048_00",
+            "PPSA21669_00",
+            "PPSA21668_00"
+          ]
+        }
+      }
+    },
+    "task_config_v2": {
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "type": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1314395942253756416"
+            }
+          ]
+        },
+        "PLAY_ON_XBOX": {
+          "type": "PLAY_ON_XBOX",
+          "target": 900,
+          "external_ids": [
+            "1794906646"
+          ]
+        },
+        "PLAY_ON_PLAYSTATION": {
+          "type": "PLAY_ON_PLAYSTATION",
+          "target": 900,
+          "external_ids": [
+            "CUSA55048_00",
+            "PPSA21669_00",
+            "PPSA21668_00"
+          ]
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 3,
+          "sku_id": "1426003040720261121",
+          "asset": "1426002363268726864.mp4",
+          "asset_video": null,
+          "messages": {
+            "name": "Daredevil Avatar Decoration ",
+            "name_with_article": "a Daredevil Avatar Decoration ",
+            "redemption_instructions_by_platform": {
+              "0": "Default"
+            }
+          },
+          "expires_at": "2025-12-17T01:00:00+00:00",
+          "expires_at_premium": null,
+          "expiration_mode": 3
+        }
+      ],
+      "rewards_expire_at": "2025-11-17T04:30:19+00:00",
       "platforms": [
         0
       ]
