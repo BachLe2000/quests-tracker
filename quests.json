@@ -747,9 +747,9 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
+            "PPSA21669_00",
             "PPSA21668_00",
-            "CUSA55048_00",
-            "PPSA21669_00"
+            "CUSA55048_00"
           ]
         }
       }
@@ -777,9 +777,9 @@
           "type": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
+            "PPSA21669_00",
             "PPSA21668_00",
-            "CUSA55048_00",
-            "PPSA21669_00"
+            "CUSA55048_00"
           ]
         }
       },
@@ -867,16 +867,16 @@
           "event_name": "PLAY_ON_XBOX",
           "target": 900,
           "external_ids": [
-            "883004381",
-            "2106683993"
+            "2106683993",
+            "883004381"
           ]
         },
         "PLAY_ON_PLAYSTATION": {
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA10793_00",
-            "CUSA37423_00"
+            "CUSA37423_00",
+            "PPSA10793_00"
           ]
         }
       }
@@ -896,16 +896,16 @@
           "type": "PLAY_ON_XBOX",
           "target": 900,
           "external_ids": [
-            "883004381",
-            "2106683993"
+            "2106683993",
+            "883004381"
           ]
         },
         "PLAY_ON_PLAYSTATION": {
           "type": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA10793_00",
-            "CUSA37423_00"
+            "CUSA37423_00",
+            "PPSA10793_00"
           ]
         }
       },
@@ -1420,19 +1420,19 @@
           "event_name": "PLAY_ON_XBOX",
           "target": 900,
           "external_ids": [
-            "2111887267",
             "2075142437",
-            "2139967680"
+            "2139967680",
+            "2111887267"
           ]
         },
         "PLAY_ON_PLAYSTATION": {
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "CUSA35016_00",
-            "PPSA30943_00",
             "PPSA30664_00",
-            "PPSA08804_00"
+            "PPSA30943_00",
+            "PPSA08804_00",
+            "CUSA35016_00"
           ]
         }
       }
@@ -1452,19 +1452,19 @@
           "type": "PLAY_ON_XBOX",
           "target": 900,
           "external_ids": [
-            "2111887267",
             "2075142437",
-            "2139967680"
+            "2139967680",
+            "2111887267"
           ]
         },
         "PLAY_ON_PLAYSTATION": {
           "type": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "CUSA35016_00",
-            "PPSA30943_00",
             "PPSA30664_00",
-            "PPSA08804_00"
+            "PPSA30943_00",
+            "PPSA08804_00",
+            "CUSA35016_00"
           ]
         }
       },
@@ -2358,10 +2358,10 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA28884_00",
-            "PPSA28882_00",
             "PPSA28883_00",
-            "PPSA28881_00"
+            "PPSA28882_00",
+            "PPSA28881_00",
+            "PPSA28884_00"
           ]
         }
       }
@@ -2388,10 +2388,10 @@
           "type": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA28884_00",
-            "PPSA28882_00",
             "PPSA28883_00",
-            "PPSA28881_00"
+            "PPSA28882_00",
+            "PPSA28881_00",
+            "PPSA28884_00"
           ]
         }
       },
@@ -3582,12 +3582,12 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA15518_00",
-            "PPSA15517_00",
             "PPSA23923_00",
+            "PPSA15518_00",
+            "PPSA16194_00",
+            "PPSA15517_00",
             "PPSA23921_00",
-            "PPSA23922_00",
-            "PPSA16194_00"
+            "PPSA23922_00"
           ]
         }
       }
@@ -3614,12 +3614,12 @@
           "type": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA15518_00",
-            "PPSA15517_00",
             "PPSA23923_00",
+            "PPSA15518_00",
+            "PPSA16194_00",
+            "PPSA15517_00",
             "PPSA23921_00",
-            "PPSA23922_00",
-            "PPSA16194_00"
+            "PPSA23922_00"
           ]
         }
       },
@@ -5315,8 +5315,8 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA20676_00",
-            "PPSA20711_00"
+            "PPSA20711_00",
+            "PPSA20676_00"
           ]
         }
       }
@@ -5343,8 +5343,8 @@
           "type": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA20676_00",
-            "PPSA20711_00"
+            "PPSA20711_00",
+            "PPSA20676_00"
           ]
         }
       },
@@ -6176,6 +6176,127 @@
         "quest_bar_preview_thumbnail": null,
         "quest_home_video": null
       }
+    },
+    "share_policy": "shareable_everywhere"
+  },
+  "1425677992721514516": {
+    "id": "1425677992721514516",
+    "config_version": 2,
+    "starts_at": "2025-10-10T17:00:21+00:00",
+    "expires_at": "2025-10-24T00:00:21+00:00",
+    "features": [
+      3,
+      9,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19,
+      23
+    ],
+    "application": {
+      "link": "https://ad.doubleclick.net/ddm/trackclk/N7657.3866164DISCORD.COM/B34205182.430643621;dc_trk_aid=623957494;dc_trk_cid=242580131;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+      "id": "1425690433018925056",
+      "name": "Battlefield 6"
+    },
+    "assets": {
+      "hero": "1425686740584239207.jpg",
+      "hero_video": null,
+      "quest_bar_hero": "1425686688969261126.jpg",
+      "quest_bar_hero_video": null,
+      "game_tile": "1425686939159232683.jpg",
+      "logotype": "1425686933950042283.png",
+      "game_tile_light": "1425686815599493273.jpg",
+      "game_tile_dark": "1425686815599493273.jpg",
+      "logotype_light": "1425686787166306384.png",
+      "logotype_dark": "1425686787166306384.png"
+    },
+    "colors": {
+      "primary": "#FE3B00",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Battlefield 6 Launch",
+      "game_title": "Battlefield 6",
+      "game_publisher": "Electronic Arts"
+    },
+    "task_config": {
+      "type": 1,
+      "join_operator": "or",
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "event_name": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "external_ids": []
+        },
+        "PLAY_ON_XBOX": {
+          "event_name": "PLAY_ON_XBOX",
+          "target": 900,
+          "external_ids": [
+            "1840884885"
+          ]
+        },
+        "PLAY_ON_PLAYSTATION": {
+          "event_name": "PLAY_ON_PLAYSTATION",
+          "target": 900,
+          "external_ids": [
+            "PPSA19534_00"
+          ]
+        }
+      }
+    },
+    "task_config_v2": {
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "type": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1425690433018925056"
+            }
+          ]
+        },
+        "PLAY_ON_XBOX": {
+          "type": "PLAY_ON_XBOX",
+          "target": 900,
+          "external_ids": [
+            "1840884885"
+          ]
+        },
+        "PLAY_ON_PLAYSTATION": {
+          "type": "PLAY_ON_PLAYSTATION",
+          "target": 900,
+          "external_ids": [
+            "PPSA19534_00"
+          ]
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 1,
+          "sku_id": "1425677992721514517",
+          "asset": "1425963968643465266.jpg",
+          "asset_video": null,
+          "messages": {
+            "name": "30-min 2XP Token",
+            "name_with_article": "a 30-min 2XP Token",
+            "redemption_instructions_by_platform": {
+              "0": "Log in to redeem your code at: https://www.ea.com/games/battlefield/battlefield-6/redeem\n\n1. Log in to your EA Account   \n2. Redeem your in-game codes  \n3. Link your platforms to your EA Account to play on any platform  "
+            }
+          },
+          "approximate_count": null,
+          "redemption_link": null
+        }
+      ],
+      "rewards_expire_at": "2025-11-23T00:00:21+00:00",
+      "platforms": [
+        0
+      ]
     },
     "share_policy": "shareable_everywhere"
   }
