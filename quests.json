@@ -747,9 +747,9 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
+            "PPSA21668_00",
             "CUSA55048_00",
-            "PPSA21669_00",
-            "PPSA21668_00"
+            "PPSA21669_00"
           ]
         }
       }
@@ -777,9 +777,9 @@
           "type": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
+            "PPSA21668_00",
             "CUSA55048_00",
-            "PPSA21669_00",
-            "PPSA21668_00"
+            "PPSA21669_00"
           ]
         }
       },
@@ -1420,9 +1420,9 @@
           "event_name": "PLAY_ON_XBOX",
           "target": 900,
           "external_ids": [
-            "2139967680",
+            "2111887267",
             "2075142437",
-            "2111887267"
+            "2139967680"
           ]
         },
         "PLAY_ON_PLAYSTATION": {
@@ -1430,9 +1430,9 @@
           "target": 900,
           "external_ids": [
             "CUSA35016_00",
-            "PPSA08804_00",
+            "PPSA30943_00",
             "PPSA30664_00",
-            "PPSA30943_00"
+            "PPSA08804_00"
           ]
         }
       }
@@ -1452,9 +1452,9 @@
           "type": "PLAY_ON_XBOX",
           "target": 900,
           "external_ids": [
-            "2139967680",
+            "2111887267",
             "2075142437",
-            "2111887267"
+            "2139967680"
           ]
         },
         "PLAY_ON_PLAYSTATION": {
@@ -1462,9 +1462,9 @@
           "target": 900,
           "external_ids": [
             "CUSA35016_00",
-            "PPSA08804_00",
+            "PPSA30943_00",
             "PPSA30664_00",
-            "PPSA30943_00"
+            "PPSA08804_00"
           ]
         }
       },
@@ -2358,10 +2358,10 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA28883_00",
             "PPSA28884_00",
-            "PPSA28881_00",
-            "PPSA28882_00"
+            "PPSA28882_00",
+            "PPSA28883_00",
+            "PPSA28881_00"
           ]
         }
       }
@@ -2388,10 +2388,10 @@
           "type": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA28883_00",
             "PPSA28884_00",
-            "PPSA28881_00",
-            "PPSA28882_00"
+            "PPSA28882_00",
+            "PPSA28883_00",
+            "PPSA28881_00"
           ]
         }
       },
@@ -3582,12 +3582,12 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
+            "PPSA15518_00",
             "PPSA15517_00",
             "PPSA23923_00",
-            "PPSA15518_00",
-            "PPSA16194_00",
+            "PPSA23921_00",
             "PPSA23922_00",
-            "PPSA23921_00"
+            "PPSA16194_00"
           ]
         }
       }
@@ -3614,12 +3614,12 @@
           "type": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
+            "PPSA15518_00",
             "PPSA15517_00",
             "PPSA23923_00",
-            "PPSA15518_00",
-            "PPSA16194_00",
+            "PPSA23921_00",
             "PPSA23922_00",
-            "PPSA23921_00"
+            "PPSA16194_00"
           ]
         }
       },
@@ -5573,8 +5573,8 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA25554_00",
-            "PPSA28606_00"
+            "PPSA28606_00",
+            "PPSA25554_00"
           ]
         }
       }
@@ -5601,8 +5601,8 @@
           "type": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA25554_00",
-            "PPSA28606_00"
+            "PPSA28606_00",
+            "PPSA25554_00"
           ]
         }
       },
@@ -5815,6 +5815,367 @@
       "platforms": [
         0
       ]
+    },
+    "share_policy": "shareable_everywhere"
+  },
+  "1425263680571834399": {
+    "id": "1425263680571834399",
+    "config_version": 2,
+    "starts_at": "2025-10-10T17:00:01+00:00",
+    "expires_at": "2025-10-18T00:00:01+00:00",
+    "features": [
+      3,
+      9,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19,
+      23
+    ],
+    "application": {
+      "link": "https://www.blackphonemovie.com/",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "1425265363943166003.jpg",
+      "hero_video": "1425265322444722318.mp4",
+      "quest_bar_hero": "1425264448859410432.jpg",
+      "quest_bar_hero_video": "1425265322444722318.mp4",
+      "game_tile": "1425267822761611436.png",
+      "logotype": "1425267821511704666.png",
+      "game_tile_light": "1425265680093155438.png",
+      "game_tile_dark": "1425265680093155438.png",
+      "logotype_light": "1425265649759813733.png",
+      "logotype_dark": "1425265649759813733.png"
+    },
+    "colors": {
+      "primary": "#97281B",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Black Phone 2",
+      "game_title": "In Theaters October 17",
+      "game_publisher": "Universal Pictures"
+    },
+    "task_config": {
+      "type": 1,
+      "join_operator": "or",
+      "tasks": {
+        "WATCH_VIDEO": {
+          "event_name": "WATCH_VIDEO",
+          "target": 75,
+          "external_ids": []
+        },
+        "WATCH_VIDEO_ON_MOBILE": {
+          "event_name": "WATCH_VIDEO_ON_MOBILE",
+          "target": 75,
+          "external_ids": []
+        }
+      }
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 75,
+          "assets": {
+            "video": {
+              "url": "1425268293199200256_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "1425268458937122886.jpg",
+              "caption": "1425268872600096788.vtt",
+              "transcript": "1425268905936420974.txt"
+            },
+            "video_low_res": {
+              "url": "1425268293199200256_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "1425268458937122886.jpg",
+              "caption": "1425268872600096788.vtt",
+              "transcript": "1425268905936420974.txt"
+            },
+            "video_hls": {
+              "url": "1425268293199200256.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "1425268458937122886.jpg",
+              "caption": "1425268872600096788.vtt",
+              "transcript": "1425268905936420974.txt"
+            }
+          },
+          "messages": {
+            "video_title": "Black Phone 2",
+            "video_end_cta_title": "Black Phone 2",
+            "video_end_cta_subtitle": "Black Phone 2 in Theaters October 17",
+            "video_end_cta_button_label": "Get Tickets"
+          }
+        },
+        "WATCH_VIDEO_ON_MOBILE": {
+          "type": "WATCH_VIDEO_ON_MOBILE",
+          "target": 75,
+          "assets": {
+            "video": {
+              "url": "1425500222741676132_1080.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "1425268458937122886.jpg",
+              "caption": "1425268872600096788.vtt",
+              "transcript": "1425268905936420974.txt"
+            },
+            "video_low_res": {
+              "url": "1425500222741676132_720.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "1425268458937122886.jpg",
+              "caption": "1425268872600096788.vtt",
+              "transcript": "1425268905936420974.txt"
+            },
+            "video_hls": {
+              "url": "1425500222741676132.m3u8",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "1425268458937122886.jpg",
+              "caption": "1425268872600096788.vtt",
+              "transcript": "1425268905936420974.txt"
+            }
+          },
+          "messages": {
+            "video_title": "Black Phone 2",
+            "video_end_cta_title": "Black Phone 2",
+            "video_end_cta_subtitle": "Black Phone 2 in Theaters October 17",
+            "video_end_cta_button_label": "Get Tickets"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 3,
+          "sku_id": "1425616465654190161",
+          "asset": "1425616632742674573.mp4",
+          "asset_video": null,
+          "messages": {
+            "name": "Black Phone 2 Avatar Decoration",
+            "name_with_article": "a Black Phone 2 Avatar Decoration",
+            "redemption_instructions_by_platform": {
+              "0": "Default"
+            }
+          },
+          "expires_at": "2025-12-17T01:00:00+00:00",
+          "expires_at_premium": null,
+          "expiration_mode": 3
+        }
+      ],
+      "rewards_expire_at": "2025-11-17T00:00:01+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "video_metadata": {
+      "messages": {
+        "video_title": "Black Phone 2",
+        "video_end_cta_title": "Black Phone 2",
+        "video_end_cta_subtitle": "Black Phone 2 in Theaters October 17",
+        "video_end_cta_button_label": "Get Tickets"
+      },
+      "assets": {
+        "video_player_video_hls": "1425268293199200256.m3u8",
+        "video_player_video": "1425268293199200256_1080.mp4",
+        "video_player_thumbnail": "1425268458937122886.jpg",
+        "video_player_video_low_res": "1425268293199200256_720.mp4",
+        "video_player_caption": "1425268872600096788.vtt",
+        "video_player_transcript": "1425268905936420974.txt",
+        "quest_bar_preview_video": null,
+        "quest_bar_preview_thumbnail": null,
+        "quest_home_video": null
+      }
+    },
+    "share_policy": "shareable_everywhere"
+  },
+  "1425272488287408250": {
+    "config_version": 2,
+    "starts_at": "2025-10-10T17:00:01+00:00",
+    "expires_at": "2025-10-18T00:00:01+00:00",
+    "features": [
+      3,
+      9,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19,
+      23
+    ],
+    "application": {
+      "link": "https://www.blackphonemovie.ca/",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "1425273191764590602.jpg",
+      "hero_video": "1425273132305875055.mp4",
+      "quest_bar_hero": "1425273101897302118.jpg",
+      "quest_bar_hero_video": "1425273132305875055.mp4",
+      "game_tile": "1425273415584976906.png",
+      "logotype": "1425273414435868793.png",
+      "game_tile_light": "1425273302917582868.png",
+      "game_tile_dark": "1425273302917582868.png",
+      "logotype_light": "1425273271825203371.png",
+      "logotype_dark": "1425273271825203371.png"
+    },
+    "colors": {
+      "primary": "#97281B",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Black Phone 2",
+      "game_title": "In Theatres October 17",
+      "game_publisher": "Universal Pictures"
+    },
+    "task_config": {
+      "type": 1,
+      "join_operator": "or",
+      "tasks": {
+        "WATCH_VIDEO": {
+          "event_name": "WATCH_VIDEO",
+          "target": 75,
+          "external_ids": []
+        },
+        "WATCH_VIDEO_ON_MOBILE": {
+          "event_name": "WATCH_VIDEO_ON_MOBILE",
+          "target": 75,
+          "external_ids": []
+        }
+      }
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 75,
+          "assets": {
+            "video": {
+              "url": "1425273844335247481_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "1425274413397446808.jpg",
+              "caption": "1425274456519086100.vtt",
+              "transcript": "1425274489184325642.txt"
+            },
+            "video_low_res": {
+              "url": "1425273844335247481_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "1425274413397446808.jpg",
+              "caption": "1425274456519086100.vtt",
+              "transcript": "1425274489184325642.txt"
+            },
+            "video_hls": {
+              "url": "1425273844335247481.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "1425274413397446808.jpg",
+              "caption": "1425274456519086100.vtt",
+              "transcript": "1425274489184325642.txt"
+            }
+          },
+          "messages": {
+            "video_title": "Black Phone 2",
+            "video_end_cta_title": "Black Phone 2",
+            "video_end_cta_subtitle": "Black Phone 2 in Theatres October 17",
+            "video_end_cta_button_label": "Get Tickets"
+          }
+        },
+        "WATCH_VIDEO_ON_MOBILE": {
+          "type": "WATCH_VIDEO_ON_MOBILE",
+          "target": 75,
+          "assets": {
+            "video": {
+              "url": "1425500479005261904_1080.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "1425274413397446808.jpg",
+              "caption": "1425274456519086100.vtt",
+              "transcript": "1425274489184325642.txt"
+            },
+            "video_low_res": {
+              "url": "1425500479005261904_720.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "1425274413397446808.jpg",
+              "caption": "1425274456519086100.vtt",
+              "transcript": "1425274489184325642.txt"
+            },
+            "video_hls": {
+              "url": "1425500479005261904.m3u8",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "1425274413397446808.jpg",
+              "caption": "1425274456519086100.vtt",
+              "transcript": "1425274489184325642.txt"
+            }
+          },
+          "messages": {
+            "video_title": "Black Phone 2",
+            "video_end_cta_title": "Black Phone 2",
+            "video_end_cta_subtitle": "Black Phone 2 in Theatres October 17",
+            "video_end_cta_button_label": "Get Tickets"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 3,
+          "sku_id": "1425616465654190161",
+          "asset": "1425616909075742730.mp4",
+          "asset_video": null,
+          "messages": {
+            "name": "Black Phone 2 Avatar Decoration",
+            "name_with_article": "a Black Phone 2 Avatar Decoration",
+            "redemption_instructions_by_platform": {
+              "0": "Default"
+            }
+          },
+          "expires_at": "2025-12-17T01:00:00+00:00",
+          "expires_at_premium": null,
+          "expiration_mode": 3
+        }
+      ],
+      "rewards_expire_at": "2025-11-17T00:00:01+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "video_metadata": {
+      "messages": {
+        "video_title": "Black Phone 2",
+        "video_end_cta_title": "Black Phone 2",
+        "video_end_cta_subtitle": "Black Phone 2 in Theatres October 17",
+        "video_end_cta_button_label": "Get Tickets"
+      },
+      "assets": {
+        "video_player_video_hls": "1425273844335247481.m3u8",
+        "video_player_video": "1425273844335247481_1080.mp4",
+        "video_player_thumbnail": "1425274413397446808.jpg",
+        "video_player_video_low_res": "1425273844335247481_720.mp4",
+        "video_player_caption": "1425274456519086100.vtt",
+        "video_player_transcript": "1425274489184325642.txt",
+        "quest_bar_preview_video": null,
+        "quest_bar_preview_thumbnail": null,
+        "quest_home_video": null
+      }
     },
     "share_policy": "shareable_everywhere"
   }
