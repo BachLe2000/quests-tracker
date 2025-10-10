@@ -748,8 +748,8 @@
           "target": 900,
           "external_ids": [
             "CUSA55048_00",
-            "PPSA21669_00",
-            "PPSA21668_00"
+            "PPSA21668_00",
+            "PPSA21669_00"
           ]
         }
       }
@@ -778,8 +778,8 @@
           "target": 900,
           "external_ids": [
             "CUSA55048_00",
-            "PPSA21669_00",
-            "PPSA21668_00"
+            "PPSA21668_00",
+            "PPSA21669_00"
           ]
         }
       },
@@ -1420,8 +1420,8 @@
           "event_name": "PLAY_ON_XBOX",
           "target": 900,
           "external_ids": [
-            "2075142437",
             "2139967680",
+            "2075142437",
             "2111887267"
           ]
         },
@@ -1452,8 +1452,8 @@
           "type": "PLAY_ON_XBOX",
           "target": 900,
           "external_ids": [
-            "2075142437",
             "2139967680",
+            "2075142437",
             "2111887267"
           ]
         },
@@ -3582,12 +3582,12 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA15517_00",
-            "PPSA23921_00",
             "PPSA15518_00",
+            "PPSA23923_00",
+            "PPSA23921_00",
+            "PPSA15517_00",
             "PPSA16194_00",
-            "PPSA23922_00",
-            "PPSA23923_00"
+            "PPSA23922_00"
           ]
         }
       }
@@ -3614,12 +3614,12 @@
           "type": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA15517_00",
-            "PPSA23921_00",
             "PPSA15518_00",
+            "PPSA23923_00",
+            "PPSA23921_00",
+            "PPSA15517_00",
             "PPSA16194_00",
-            "PPSA23922_00",
-            "PPSA23923_00"
+            "PPSA23922_00"
           ]
         }
       },
@@ -5573,8 +5573,8 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA28606_00",
-            "PPSA25554_00"
+            "PPSA25554_00",
+            "PPSA28606_00"
           ]
         }
       }
@@ -5601,8 +5601,8 @@
           "type": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA28606_00",
-            "PPSA25554_00"
+            "PPSA25554_00",
+            "PPSA28606_00"
           ]
         }
       },
