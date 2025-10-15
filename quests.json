@@ -739,8 +739,8 @@
           "event_name": "PLAY_ON_XBOX",
           "target": 900,
           "external_ids": [
-            "1758492876",
-            "1794906646"
+            "1794906646",
+            "1758492876"
           ]
         },
         "PLAY_ON_PLAYSTATION": {
@@ -748,8 +748,8 @@
           "target": 900,
           "external_ids": [
             "PPSA21669_00",
-            "CUSA55048_00",
-            "PPSA21668_00"
+            "PPSA21668_00",
+            "CUSA55048_00"
           ]
         }
       }
@@ -769,8 +769,8 @@
           "type": "PLAY_ON_XBOX",
           "target": 900,
           "external_ids": [
-            "1758492876",
-            "1794906646"
+            "1794906646",
+            "1758492876"
           ]
         },
         "PLAY_ON_PLAYSTATION": {
@@ -778,8 +778,8 @@
           "target": 900,
           "external_ids": [
             "PPSA21669_00",
-            "CUSA55048_00",
-            "PPSA21668_00"
+            "PPSA21668_00",
+            "CUSA55048_00"
           ]
         }
       },
@@ -875,8 +875,8 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "CUSA37423_00",
-            "PPSA10793_00"
+            "PPSA10793_00",
+            "CUSA37423_00"
           ]
         }
       }
@@ -904,8 +904,8 @@
           "type": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "CUSA37423_00",
-            "PPSA10793_00"
+            "PPSA10793_00",
+            "CUSA37423_00"
           ]
         }
       },
@@ -1420,9 +1420,9 @@
           "event_name": "PLAY_ON_XBOX",
           "target": 900,
           "external_ids": [
-            "2139967680",
+            "2075142437",
             "2111887267",
-            "2075142437"
+            "2139967680"
           ]
         },
         "PLAY_ON_PLAYSTATION": {
@@ -1431,8 +1431,8 @@
           "external_ids": [
             "CUSA35016_00",
             "PPSA08804_00",
-            "PPSA30943_00",
-            "PPSA30664_00"
+            "PPSA30664_00",
+            "PPSA30943_00"
           ]
         }
       }
@@ -1452,9 +1452,9 @@
           "type": "PLAY_ON_XBOX",
           "target": 900,
           "external_ids": [
-            "2139967680",
+            "2075142437",
             "2111887267",
-            "2075142437"
+            "2139967680"
           ]
         },
         "PLAY_ON_PLAYSTATION": {
@@ -1463,8 +1463,8 @@
           "external_ids": [
             "CUSA35016_00",
             "PPSA08804_00",
-            "PPSA30943_00",
-            "PPSA30664_00"
+            "PPSA30664_00",
+            "PPSA30943_00"
           ]
         }
       },
@@ -2359,9 +2359,9 @@
           "target": 900,
           "external_ids": [
             "PPSA28884_00",
+            "PPSA28883_00",
             "PPSA28881_00",
-            "PPSA28882_00",
-            "PPSA28883_00"
+            "PPSA28882_00"
           ]
         }
       }
@@ -2389,9 +2389,9 @@
           "target": 900,
           "external_ids": [
             "PPSA28884_00",
+            "PPSA28883_00",
             "PPSA28881_00",
-            "PPSA28882_00",
-            "PPSA28883_00"
+            "PPSA28882_00"
           ]
         }
       },
@@ -3582,12 +3582,12 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA15518_00",
-            "PPSA23922_00",
             "PPSA23921_00",
+            "PPSA23922_00",
             "PPSA16194_00",
+            "PPSA23923_00",
             "PPSA15517_00",
-            "PPSA23923_00"
+            "PPSA15518_00"
           ]
         }
       }
@@ -3614,12 +3614,12 @@
           "type": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA15518_00",
-            "PPSA23922_00",
             "PPSA23921_00",
+            "PPSA23922_00",
             "PPSA16194_00",
+            "PPSA23923_00",
             "PPSA15517_00",
-            "PPSA23923_00"
+            "PPSA15518_00"
           ]
         }
       },
@@ -5315,8 +5315,8 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA20676_00",
-            "PPSA20711_00"
+            "PPSA20711_00",
+            "PPSA20676_00"
           ]
         }
       }
@@ -5343,8 +5343,8 @@
           "type": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA20676_00",
-            "PPSA20711_00"
+            "PPSA20711_00",
+            "PPSA20676_00"
           ]
         }
       },
@@ -5573,8 +5573,8 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA28606_00",
-            "PPSA25554_00"
+            "PPSA25554_00",
+            "PPSA28606_00"
           ]
         }
       }
@@ -5601,8 +5601,8 @@
           "type": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA28606_00",
-            "PPSA25554_00"
+            "PPSA25554_00",
+            "PPSA28606_00"
           ]
         }
       },
@@ -6975,10 +6975,10 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA01923_00",
+            "CUSA07669_00",
             "CUSA07022_00",
-            "PPSA01922_00",
-            "CUSA07669_00"
+            "PPSA01923_00",
+            "PPSA01922_00"
           ]
         }
       }
@@ -7005,10 +7005,10 @@
           "type": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA01923_00",
+            "CUSA07669_00",
             "CUSA07022_00",
-            "PPSA01922_00",
-            "CUSA07669_00"
+            "PPSA01923_00",
+            "PPSA01922_00"
           ]
         }
       },
@@ -7035,6 +7035,136 @@
         }
       ],
       "rewards_expire_at": "2025-11-20T00:00:21+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere"
+  },
+  "1427758897501835264": {
+    "id": "1427758897501835264",
+    "config_version": 2,
+    "starts_at": "2025-10-15T17:00:07+00:00",
+    "expires_at": "2025-10-22T00:00:07+00:00",
+    "features": [
+      3,
+      9,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19,
+      23
+    ],
+    "application": {
+      "link": "https://www.warframe.com/game/about",
+      "id": "1402418586244612216",
+      "name": "Warframe"
+    },
+    "assets": {
+      "hero": "1427761767655936130.jpg",
+      "hero_video": "1427761732113137848.mp4",
+      "quest_bar_hero": "1427761685912879324.jpg",
+      "quest_bar_hero_video": "1427761732113137848.mp4",
+      "game_tile": "1427761978222579762.png",
+      "logotype": "1427761977270341734.png",
+      "game_tile_light": "1427761953392300183.png",
+      "game_tile_dark": "1427761953392300183.png",
+      "logotype_light": "1427761870999126088.png",
+      "logotype_dark": "1427761870999126088.png"
+    },
+    "colors": {
+      "primary": "#136387",
+      "secondary": "#133644"
+    },
+    "messages": {
+      "quest_name": "Warframe",
+      "game_title": "Warframe",
+      "game_publisher": "Digital Extremes"
+    },
+    "task_config": {
+      "type": 1,
+      "join_operator": "or",
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "event_name": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "external_ids": []
+        },
+        "PLAY_ON_XBOX": {
+          "event_name": "PLAY_ON_XBOX",
+          "target": 900,
+          "external_ids": [
+            "1482870140"
+          ]
+        },
+        "PLAY_ON_PLAYSTATION": {
+          "event_name": "PLAY_ON_PLAYSTATION",
+          "target": 900,
+          "external_ids": [
+            "PPSA01737_00",
+            "PPSA01980_00",
+            "CUSA00106_00",
+            "CUSA00080_00",
+            "PPSA02323_00"
+          ]
+        }
+      }
+    },
+    "task_config_v2": {
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "type": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1402418586244612216"
+            }
+          ]
+        },
+        "PLAY_ON_XBOX": {
+          "type": "PLAY_ON_XBOX",
+          "target": 900,
+          "external_ids": [
+            "1482870140"
+          ]
+        },
+        "PLAY_ON_PLAYSTATION": {
+          "type": "PLAY_ON_PLAYSTATION",
+          "target": 900,
+          "external_ids": [
+            "PPSA01737_00",
+            "PPSA01980_00",
+            "CUSA00106_00",
+            "CUSA00080_00",
+            "PPSA02323_00"
+          ]
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 3,
+          "sku_id": "1427760915998314568",
+          "asset": "1427761184358268979.mp4",
+          "asset_video": null,
+          "messages": {
+            "name": "Warframe Clem Avatar Decoration ",
+            "name_with_article": "a Warframe Clem Avatar Decoration",
+            "redemption_instructions_by_platform": {
+              "0": "Default"
+            }
+          },
+          "expires_at": "2025-12-22T01:00:00+00:00",
+          "expires_at_premium": null,
+          "expiration_mode": 3
+        }
+      ],
+      "rewards_expire_at": "2025-11-21T00:00:07+00:00",
       "platforms": [
         0
       ]
