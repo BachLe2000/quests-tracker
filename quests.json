@@ -6848,10 +6848,10 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA01922_00",
-            "CUSA07669_00",
+            "CUSA07022_00",
             "PPSA01923_00",
-            "CUSA07022_00"
+            "CUSA07669_00",
+            "PPSA01922_00"
           ]
         }
       }
@@ -6878,10 +6878,10 @@
           "type": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA01922_00",
-            "CUSA07669_00",
+            "CUSA07022_00",
             "PPSA01923_00",
-            "CUSA07022_00"
+            "CUSA07669_00",
+            "PPSA01922_00"
           ]
         }
       },
@@ -6976,9 +6976,9 @@
           "target": 900,
           "external_ids": [
             "CUSA07022_00",
+            "PPSA01922_00",
             "PPSA01923_00",
-            "CUSA07669_00",
-            "PPSA01922_00"
+            "CUSA07669_00"
           ]
         }
       }
@@ -7006,9 +7006,9 @@
           "target": 900,
           "external_ids": [
             "CUSA07022_00",
+            "PPSA01922_00",
             "PPSA01923_00",
-            "CUSA07669_00",
-            "PPSA01922_00"
+            "CUSA07669_00"
           ]
         }
       },
@@ -7165,6 +7165,99 @@
         }
       ],
       "rewards_expire_at": "2025-11-21T00:00:07+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere"
+  },
+  "1421275302923079721": {
+    "id": "1421275302923079721",
+    "config_version": 2,
+    "starts_at": "2025-10-16T16:00:38+00:00",
+    "expires_at": "2025-10-23T00:00:38+00:00",
+    "features": [
+      3,
+      9,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19,
+      23
+    ],
+    "application": {
+      "link": "https://store.steampowered.com/app/2183900/Warhammer_40000_Space_Marine_2/?utm_source=Discord&utm_medium=Quest&utm_campaign=SM2_FreeDemo",
+      "id": "1281297844858257418",
+      "name": "Warhammer 40,000: Space Marine 2"
+    },
+    "assets": {
+      "hero": "1422689948821360700.jpg",
+      "hero_video": "1422690017020612708.mp4",
+      "quest_bar_hero": "1422689979569537034.jpg",
+      "quest_bar_hero_video": "1422690017020612708.mp4",
+      "game_tile": "1422690209920978984.png",
+      "logotype": "1422690208821805096.png",
+      "game_tile_light": "1422690149459824812.png",
+      "game_tile_dark": "1422690149459824812.png",
+      "logotype_light": "1422690105621090414.png",
+      "logotype_dark": "1422690105621090414.png"
+    },
+    "colors": {
+      "primary": "#C8960A",
+      "secondary": "#F5C538"
+    },
+    "messages": {
+      "quest_name": "Space Marine 2 Free Demo",
+      "game_title": "Warhammer 40,000: Space Marine 2",
+      "game_publisher": "Focus Entertainment Publishing"
+    },
+    "task_config": {
+      "type": 1,
+      "join_operator": "or",
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "event_name": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "external_ids": []
+        }
+      }
+    },
+    "task_config_v2": {
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "type": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1281297844858257418"
+            }
+          ]
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 1,
+          "sku_id": "1421275302923079722",
+          "asset": "1422689393537191946.png",
+          "asset_video": null,
+          "messages": {
+            "name": "Porphyr Shield Skin",
+            "name_with_article": "a Porphyr Shield Skin",
+            "redemption_instructions_by_platform": {
+              "0": "How To Use Redeem Codes:  \n1. Once you have a Redeem Code, head over to https://tinyurl.com/yzavuyet, sign up or create an account to redeem it!   \n2. To proceed, you will need to go to your account, redeem your reward and copy/paste your Redeem Code.  \n3. Once your code is successfully redeemed, the reward will be available in the full game once your link your PROS account in-game by scanning the QR Code.  \n\n**Please note, the Redeem Code is valid from Coordinated Universal Time (UTC): October 16, 2025, 9:00:00 AM to October 23, 2025, 8:59:59 AM.** "
+            }
+          },
+          "approximate_count": null,
+          "redemption_link": null
+        }
+      ],
+      "rewards_expire_at": "2025-11-22T00:00:38+00:00",
       "platforms": [
         0
       ]
