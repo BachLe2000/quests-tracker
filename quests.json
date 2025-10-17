@@ -6001,7 +6001,7 @@
   "1425272488287408250": {
     "config_version": 2,
     "starts_at": "2025-10-10T17:00:01+00:00",
-    "expires_at": "2025-10-18T00:00:01+00:00",
+    "expires_at": "2025-10-18T06:59:01+00:00",
     "features": [
       3,
       9,
@@ -6152,7 +6152,7 @@
           "expiration_mode": 3
         }
       ],
-      "rewards_expire_at": "2025-11-17T00:00:01+00:00",
+      "rewards_expire_at": "2025-11-17T06:59:01+00:00",
       "platforms": [
         0
       ]
@@ -6847,10 +6847,10 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "CUSA07669_00",
-            "PPSA01922_00",
+            "CUSA07022_00",
             "PPSA01923_00",
-            "CUSA07022_00"
+            "CUSA07669_00",
+            "PPSA01922_00"
           ]
         }
       }
@@ -6877,10 +6877,10 @@
           "type": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "CUSA07669_00",
-            "PPSA01922_00",
+            "CUSA07022_00",
             "PPSA01923_00",
-            "CUSA07022_00"
+            "CUSA07669_00",
+            "PPSA01922_00"
           ]
         }
       },
