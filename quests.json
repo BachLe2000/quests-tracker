@@ -7964,7 +7964,7 @@
     },
     "messages": {
       "quest_name": "Chainsaw Man – The Movie: Reze Arc",
-      "game_title": "Exclusively in Theatres Thursday",
+      "game_title": "Now Playing Exclusively In Theatres",
       "game_publisher": "Crunchyroll"
     },
     "task_config": {
@@ -7988,25 +7988,25 @@
               "url": "1428095887669989518_1080.mp4",
               "width": 1920,
               "height": 1080,
-              "thumbnail": "1428095929537265745.jpg"
+              "thumbnail": "1431332396585717861.jpg"
             },
             "video_low_res": {
               "url": "1428095887669989518_720.mp4",
               "width": 1920,
               "height": 1080,
-              "thumbnail": "1428095929537265745.jpg"
+              "thumbnail": "1431332396585717861.jpg"
             },
             "video_hls": {
               "url": "1428095887669989518.m3u8",
               "width": 1920,
               "height": 1080,
-              "thumbnail": "1428095929537265745.jpg"
+              "thumbnail": "1431332396585717861.jpg"
             }
           },
           "messages": {
             "video_title": "Chainsaw Man – The Movie: Reze Arc Trailer",
             "video_end_cta_title": "Chainsaw Man Trailer",
-            "video_end_cta_subtitle": "Exclusively in Theatres Thursday",
+            "video_end_cta_subtitle": "Now Playing Exclusively in Theatres",
             "video_end_cta_button_label": "Get Tickets"
           }
         }
@@ -8038,13 +8038,13 @@
       "messages": {
         "video_title": "Chainsaw Man – The Movie: Reze Arc Trailer",
         "video_end_cta_title": "Chainsaw Man Trailer",
-        "video_end_cta_subtitle": "Exclusively in Theatres Thursday",
+        "video_end_cta_subtitle": "Now Playing Exclusively in Theatres",
         "video_end_cta_button_label": "Get Tickets"
       },
       "assets": {
         "video_player_video_hls": "1428095887669989518.m3u8",
         "video_player_video": "1428095887669989518_1080.mp4",
-        "video_player_thumbnail": "1428095929537265745.jpg",
+        "video_player_thumbnail": "1431332396585717861.jpg",
         "video_player_video_low_res": "1428095887669989518_720.mp4",
         "video_player_caption": null,
         "video_player_transcript": null,
