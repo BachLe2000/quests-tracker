@@ -1420,17 +1420,17 @@
           "event_name": "PLAY_ON_XBOX",
           "target": 900,
           "external_ids": [
-            "2075142437",
+            "2139967680",
             "2111887267",
-            "2139967680"
+            "2075142437"
           ]
         },
         "PLAY_ON_PLAYSTATION": {
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "CUSA35016_00",
             "PPSA30943_00",
+            "CUSA35016_00",
             "PPSA30664_00",
             "PPSA08804_00"
           ]
@@ -1452,17 +1452,17 @@
           "type": "PLAY_ON_XBOX",
           "target": 900,
           "external_ids": [
-            "2075142437",
+            "2139967680",
             "2111887267",
-            "2139967680"
+            "2075142437"
           ]
         },
         "PLAY_ON_PLAYSTATION": {
           "type": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "CUSA35016_00",
             "PPSA30943_00",
+            "CUSA35016_00",
             "PPSA30664_00",
             "PPSA08804_00"
           ]
@@ -2359,8 +2359,8 @@
           "target": 900,
           "external_ids": [
             "PPSA28883_00",
-            "PPSA28881_00",
             "PPSA28884_00",
+            "PPSA28881_00",
             "PPSA28882_00"
           ]
         }
@@ -2389,8 +2389,8 @@
           "target": 900,
           "external_ids": [
             "PPSA28883_00",
-            "PPSA28881_00",
             "PPSA28884_00",
+            "PPSA28881_00",
             "PPSA28882_00"
           ]
         }
@@ -6847,10 +6847,10 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
+            "PPSA01922_00",
             "CUSA07669_00",
             "CUSA07022_00",
-            "PPSA01923_00",
-            "PPSA01922_00"
+            "PPSA01923_00"
           ]
         }
       }
@@ -6877,10 +6877,10 @@
           "type": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
+            "PPSA01922_00",
             "CUSA07669_00",
             "CUSA07022_00",
-            "PPSA01923_00",
-            "PPSA01922_00"
+            "PPSA01923_00"
           ]
         }
       },
@@ -6974,10 +6974,10 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "CUSA07669_00",
+            "PPSA01922_00",
             "PPSA01923_00",
-            "CUSA07022_00",
-            "PPSA01922_00"
+            "CUSA07669_00",
+            "CUSA07022_00"
           ]
         }
       }
@@ -7004,10 +7004,10 @@
           "type": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "CUSA07669_00",
+            "PPSA01922_00",
             "PPSA01923_00",
-            "CUSA07022_00",
-            "PPSA01922_00"
+            "CUSA07669_00",
+            "CUSA07022_00"
           ]
         }
       },
@@ -7102,10 +7102,10 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA01737_00",
-            "CUSA00106_00",
             "PPSA02323_00",
             "CUSA00080_00",
+            "PPSA01737_00",
+            "CUSA00106_00",
             "PPSA01980_00"
           ]
         }
@@ -7133,10 +7133,10 @@
           "type": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA01737_00",
-            "CUSA00106_00",
             "PPSA02323_00",
             "CUSA00080_00",
+            "PPSA01737_00",
+            "CUSA00106_00",
             "PPSA01980_00"
           ]
         }
@@ -8780,7 +8780,6 @@
     "share_policy": "shareable_everywhere"
   },
   "1430252230430294076": {
-    "id": "1430252230430294076",
     "config_version": 2,
     "starts_at": "2025-10-23T17:00:44+00:00",
     "expires_at": "2025-11-10T00:00:44+00:00",
@@ -8818,7 +8817,7 @@
     },
     "messages": {
       "quest_name": "Jurassic World Rebirth",
-      "game_title": "Streaming Only on Peacock October 30",
+      "game_title": "Streaming Now Only on Peacock",
       "game_publisher": "Peacock"
     },
     "task_config": {
@@ -8842,7 +8841,7 @@
               "url": "1430253575858159806_1080.mp4",
               "width": 1080,
               "height": 1920,
-              "thumbnail": "1430254386143301712.jpg",
+              "thumbnail": "1433501599673745460.jpg",
               "caption": "1430254410709209251.vtt",
               "transcript": "1430254441562378280.txt"
             },
@@ -8850,7 +8849,7 @@
               "url": "1430253575858159806_720.mp4",
               "width": 1080,
               "height": 1920,
-              "thumbnail": "1430254386143301712.jpg",
+              "thumbnail": "1433501599673745460.jpg",
               "caption": "1430254410709209251.vtt",
               "transcript": "1430254441562378280.txt"
             },
@@ -8858,7 +8857,7 @@
               "url": "1430253575858159806.m3u8",
               "width": 1080,
               "height": 1920,
-              "thumbnail": "1430254386143301712.jpg",
+              "thumbnail": "1433501599673745460.jpg",
               "caption": "1430254410709209251.vtt",
               "transcript": "1430254441562378280.txt"
             }
@@ -8866,7 +8865,7 @@
           "messages": {
             "video_title": "Jurassic World Rebirth Video",
             "video_end_cta_title": "Jurassic World Rebirth",
-            "video_end_cta_subtitle": "Streaming Only on Peacock October 30",
+            "video_end_cta_subtitle": "Streaming Now Only on Peacock",
             "video_end_cta_button_label": "Learn More"
           }
         }
@@ -8902,13 +8901,13 @@
       "messages": {
         "video_title": "Jurassic World Rebirth Video",
         "video_end_cta_title": "Jurassic World Rebirth",
-        "video_end_cta_subtitle": "Streaming Only on Peacock October 30",
+        "video_end_cta_subtitle": "Streaming Now Only on Peacock",
         "video_end_cta_button_label": "Learn More"
       },
       "assets": {
         "video_player_video_hls": "1430253575858159806.m3u8",
         "video_player_video": "1430253575858159806_1080.mp4",
-        "video_player_thumbnail": "1430254386143301712.jpg",
+        "video_player_thumbnail": "1433501599673745460.jpg",
         "video_player_video_low_res": "1430253575858159806_720.mp4",
         "video_player_caption": "1430254410709209251.vtt",
         "video_player_transcript": "1430254441562378280.txt",
@@ -8958,7 +8957,7 @@
     },
     "messages": {
       "quest_name": "Jurassic World Rebirth",
-      "game_title": "Streaming Only on Peacock October 30",
+      "game_title": "Streaming Now Only on Peacock",
       "game_publisher": "Peacock"
     },
     "task_config": {
@@ -9247,8 +9246,8 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA29802_00",
-            "CUSA55613_00"
+            "CUSA55613_00",
+            "PPSA29802_00"
           ]
         }
       }
@@ -9275,8 +9274,8 @@
           "type": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA29802_00",
-            "CUSA55613_00"
+            "CUSA55613_00",
+            "PPSA29802_00"
           ]
         }
       },
