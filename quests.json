@@ -6847,10 +6847,10 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA01922_00",
-            "CUSA07669_00",
+            "PPSA01923_00",
             "CUSA07022_00",
-            "PPSA01923_00"
+            "PPSA01922_00",
+            "CUSA07669_00"
           ]
         }
       }
@@ -6877,10 +6877,10 @@
           "type": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA01922_00",
-            "CUSA07669_00",
+            "PPSA01923_00",
             "CUSA07022_00",
-            "PPSA01923_00"
+            "PPSA01922_00",
+            "CUSA07669_00"
           ]
         }
       },
@@ -9557,6 +9557,225 @@
         }
       ],
       "rewards_expire_at": "2025-12-10T00:00:24+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere"
+  },
+  "1432436088508780675": {
+    "id": "1432436088508780675",
+    "config_version": 2,
+    "starts_at": "2025-10-30T17:00:36+00:00",
+    "expires_at": "2025-11-10T00:00:36+00:00",
+    "features": [
+      3,
+      9,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19,
+      23
+    ],
+    "application": {
+      "link": "https://store.steampowered.com/app/3241660/REPO/",
+      "id": "1344368447928401961",
+      "name": "R.E.P.O."
+    },
+    "assets": {
+      "hero": "1432437559199273071.jpg",
+      "hero_video": null,
+      "quest_bar_hero": "1432437739399151616.jpg",
+      "quest_bar_hero_video": null,
+      "game_tile": "1432437903144910868.png",
+      "logotype": "1432437902058455211.png",
+      "game_tile_light": "1432437788439220414.png",
+      "game_tile_dark": "1432437788439220414.png",
+      "logotype_light": "1432437837046747296.png",
+      "logotype_dark": "1432437868185391154.png"
+    },
+    "colors": {
+      "primary": "#744500",
+      "secondary": "#090705"
+    },
+    "messages": {
+      "quest_name": " R.E.P.O. Monster",
+      "game_title": "R.E.P.O.",
+      "game_publisher": "Semiwork"
+    },
+    "task_config": {
+      "type": 1,
+      "join_operator": "or",
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "event_name": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "external_ids": []
+        }
+      }
+    },
+    "task_config_v2": {
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "type": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1344368447928401961"
+            }
+          ]
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 3,
+          "sku_id": "1432438506130636801",
+          "asset": "1432438676373377074.mp4",
+          "asset_video": null,
+          "messages": {
+            "name": "R.E.P.O. Monster Avatar Decoration ",
+            "name_with_article": "a R.E.P.O. Monster Avatar Decoration ",
+            "redemption_instructions_by_platform": {
+              "0": "Default"
+            }
+          },
+          "expires_at": "2026-01-09T00:00:00+00:00",
+          "expires_at_premium": null,
+          "expiration_mode": 3
+        }
+      ],
+      "rewards_expire_at": "2025-12-10T00:00:36+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere"
+  },
+  "1432410015721062480": {
+    "id": "1432410015721062480",
+    "config_version": 2,
+    "starts_at": "2025-10-30T17:00:00+00:00",
+    "expires_at": "2025-11-06T00:00:00+00:00",
+    "features": [
+      3,
+      9,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19,
+      23
+    ],
+    "application": {
+      "link": "https://arcraiders.com/en/?utm_campaign=launch&utm_source=discord&utm_term=us&utm_content=broadgaming&utm_medium=custom",
+      "id": "1432419613165228174",
+      "name": "ARC Raiders"
+    },
+    "assets": {
+      "hero": "1432435244337725637.jpg",
+      "hero_video": null,
+      "quest_bar_hero": "1433471392216776734.jpg",
+      "quest_bar_hero_video": null,
+      "game_tile": "1432415635220070430.png",
+      "logotype": "1432415634175692811.png",
+      "game_tile_light": "1432415581017079859.png",
+      "game_tile_dark": "1432415581017079859.png",
+      "logotype_light": "1432415439446610050.png",
+      "logotype_dark": "1432415459382399098.png"
+    },
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "ARC Raiders",
+      "game_title": "ARC Raiders",
+      "game_publisher": "Embark Studios"
+    },
+    "task_config": {
+      "type": 1,
+      "join_operator": "or",
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "event_name": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "external_ids": []
+        },
+        "PLAY_ON_XBOX": {
+          "event_name": "PLAY_ON_XBOX",
+          "target": 900,
+          "external_ids": [
+            "2118292977",
+            "1908300140"
+          ]
+        },
+        "PLAY_ON_PLAYSTATION": {
+          "event_name": "PLAY_ON_PLAYSTATION",
+          "target": 900,
+          "external_ids": [
+            "PPSA04998_00",
+            "PPSA27153_00"
+          ]
+        }
+      }
+    },
+    "task_config_v2": {
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "type": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1432419613165228174"
+            }
+          ]
+        },
+        "PLAY_ON_XBOX": {
+          "type": "PLAY_ON_XBOX",
+          "target": 900,
+          "external_ids": [
+            "2118292977",
+            "1908300140"
+          ]
+        },
+        "PLAY_ON_PLAYSTATION": {
+          "type": "PLAY_ON_PLAYSTATION",
+          "target": 900,
+          "external_ids": [
+            "PPSA04998_00",
+            "PPSA27153_00"
+          ]
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 1,
+          "sku_id": "1432410015721062481",
+          "asset": "1432416048837300364.jpg",
+          "asset_video": null,
+          "messages": {
+            "name": "Hiker Backpack, Sky Ice",
+            "name_with_article": "a Hiker Backpack, Sky Ice",
+            "redemption_instructions_by_platform": {
+              "0": "To redeem your ARC Raiders launch Quest gift code, visit Embark's code redemption website and log in to your account: https://id.embark.games/id/arc-raiders/giveaway  \nPaste your gift code to obtain your Hiker Backpack - Sky Ice. \n\n**Requires ARC Raiders; redeem by 6th November 2025.**"
+            }
+          },
+          "approximate_count": null,
+          "redemption_link": null
+        }
+      ],
+      "rewards_expire_at": "2025-12-06T00:00:00+00:00",
       "platforms": [
         0
       ]
