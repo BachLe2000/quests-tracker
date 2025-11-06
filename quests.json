@@ -9712,8 +9712,8 @@
           "event_name": "PLAY_ON_XBOX",
           "target": 900,
           "external_ids": [
-            "2118292977",
-            "1908300140"
+            "1908300140",
+            "2118292977"
           ]
         },
         "PLAY_ON_PLAYSTATION": {
@@ -9741,8 +9741,8 @@
           "type": "PLAY_ON_XBOX",
           "target": 900,
           "external_ids": [
-            "2118292977",
-            "1908300140"
+            "1908300140",
+            "2118292977"
           ]
         },
         "PLAY_ON_PLAYSTATION": {
@@ -10516,8 +10516,8 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA08459_00",
-            "PPSA08458_00"
+            "PPSA08458_00",
+            "PPSA08459_00"
           ]
         }
       }
@@ -10537,8 +10537,8 @@
           "type": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA08459_00",
-            "PPSA08458_00"
+            "PPSA08458_00",
+            "PPSA08459_00"
           ]
         }
       },
