@@ -10465,7 +10465,7 @@
     "id": "1432798014786764871",
     "config_version": 2,
     "starts_at": "2025-11-05T03:00:46+00:00",
-    "expires_at": "2025-11-11T00:00:46+00:00",
+    "expires_at": "2025-11-12T00:00:46+00:00",
     "features": [
       3,
       9,
@@ -10516,8 +10516,8 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA08459_00",
-            "PPSA08458_00"
+            "PPSA08458_00",
+            "PPSA08459_00"
           ]
         }
       }
@@ -10536,9 +10536,14 @@
         "PLAY_ON_PLAYSTATION": {
           "type": "PLAY_ON_PLAYSTATION",
           "target": 900,
+          "applications": [
+            {
+              "id": "1121201675240210523"
+            }
+          ],
           "external_ids": [
-            "PPSA08459_00",
-            "PPSA08458_00"
+            "PPSA08458_00",
+            "PPSA08459_00"
           ]
         }
       },
@@ -10563,12 +10568,15 @@
           "redemption_link": null
         }
       ],
-      "rewards_expire_at": "2025-12-11T00:00:46+00:00",
+      "rewards_expire_at": "2025-12-12T00:00:46+00:00",
       "platforms": [
         0
       ]
     },
-    "share_policy": "shareable_everywhere"
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://hoyo.link/ULR8QuyPH"
+    }
   },
   "1435324548827451605": {
     "id": "1435324548827451605",
