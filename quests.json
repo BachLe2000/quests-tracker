@@ -10516,8 +10516,8 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA08458_00",
-            "PPSA08459_00"
+            "PPSA08459_00",
+            "PPSA08458_00"
           ]
         }
       }
@@ -10542,8 +10542,8 @@
             }
           ],
           "external_ids": [
-            "PPSA08458_00",
-            "PPSA08459_00"
+            "PPSA08459_00",
+            "PPSA08458_00"
           ]
         }
       },
@@ -11700,6 +11700,184 @@
       "link": "https://store.ubisoft.com/anno-117--pax-romana/6638e5dcaa201a2d55bcc772.html/?ucid=DDP-272723&addinfo=&bi=pme",
       "button_label": "Get Game",
       "subtitle": "Anno 117: Pax Romana – Available November 13"
+    }
+  },
+  "1438245337184735394": {
+    "config_version": 2,
+    "starts_at": "2025-11-13T18:00:29+00:00",
+    "expires_at": "2025-11-16T00:00:29+00:00",
+    "features": [
+      3,
+      9,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19,
+      23
+    ],
+    "application": {
+      "link": "https://store.ubisoft.com/anno-117--pax-romana/6638e5dcaa201a2d55bcc772.html/?ucid=DDP-272723&addinfo=&bi=pme",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "quests/1438245337184735394/1438247790256853022.jpg",
+      "hero_video": "quests/1438245337184735394/1438248087968546947.mp4",
+      "quest_bar_hero": "quests/1438245337184735394/1438248025679069224.jpg",
+      "quest_bar_hero_video": "quests/1438245337184735394/1438248087968546947.mp4",
+      "game_tile": "1438248288967983205.jpg",
+      "logotype": "1438248288020074526.png",
+      "game_tile_light": "quests/1438245337184735394/1438248167438155878.jpg",
+      "game_tile_dark": "quests/1438245337184735394/1438248167438155878.jpg",
+      "logotype_light": "quests/1438245337184735394/1438248210178117642.png",
+      "logotype_dark": "quests/1438245337184735394/1438247936973734071.png"
+    },
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Anno 117",
+      "game_title": "Anno 117: Pax Romana",
+      "game_publisher": "Ubisoft"
+    },
+    "task_config": {
+      "type": 1,
+      "join_operator": "or",
+      "tasks": {
+        "WATCH_VIDEO": {
+          "event_name": "WATCH_VIDEO",
+          "target": 158,
+          "external_ids": []
+        },
+        "WATCH_VIDEO_ON_MOBILE": {
+          "event_name": "WATCH_VIDEO_ON_MOBILE",
+          "target": 158,
+          "external_ids": []
+        }
+      }
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 158,
+          "assets": {
+            "video": {
+              "url": "quests/1438245337184735394/1438250125351850088_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1438245337184735394/1438253252553740369.jpg",
+              "caption": "quests/1438245337184735394/1438255680074027101.vtt",
+              "transcript": "quests/1438245337184735394/1438255707802697788.txt"
+            },
+            "video_low_res": {
+              "url": "quests/1438245337184735394/1438250125351850088_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1438245337184735394/1438253252553740369.jpg",
+              "caption": "quests/1438245337184735394/1438255680074027101.vtt",
+              "transcript": "quests/1438245337184735394/1438255707802697788.txt"
+            },
+            "video_hls": {
+              "url": "quests/1438245337184735394/1438250125351850088.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1438245337184735394/1438253252553740369.jpg",
+              "caption": "quests/1438245337184735394/1438255680074027101.vtt",
+              "transcript": "quests/1438245337184735394/1438255707802697788.txt"
+            }
+          },
+          "messages": {
+            "video_title": "Anno 117: Pax Romana Launch Trailer",
+            "video_end_cta_button_label": "Get Game"
+          }
+        },
+        "WATCH_VIDEO_ON_MOBILE": {
+          "type": "WATCH_VIDEO_ON_MOBILE",
+          "target": 158,
+          "assets": {
+            "video": {
+              "url": "quests/1438245337184735394/1438250290016026696_1080.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1438245337184735394/1438253252553740369.jpg",
+              "caption": "quests/1438245337184735394/1438255680074027101.vtt",
+              "transcript": "quests/1438245337184735394/1438255707802697788.txt"
+            },
+            "video_low_res": {
+              "url": "quests/1438245337184735394/1438250290016026696_720.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1438245337184735394/1438253252553740369.jpg",
+              "caption": "quests/1438245337184735394/1438255680074027101.vtt",
+              "transcript": "quests/1438245337184735394/1438255707802697788.txt"
+            },
+            "video_hls": {
+              "url": "quests/1438245337184735394/1438250290016026696.m3u8",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1438245337184735394/1438253252553740369.jpg",
+              "caption": "quests/1438245337184735394/1438255680074027101.vtt",
+              "transcript": "quests/1438245337184735394/1438255707802697788.txt"
+            }
+          },
+          "messages": {
+            "video_title": "Anno 117: Pax Romana Launch Trailer",
+            "video_end_cta_button_label": "Get Game"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 3,
+          "sku_id": "1435783917776146465",
+          "asset": "quests/1438245337184735394/1438248924245917857.mp4",
+          "asset_video": null,
+          "messages": {
+            "name": "Coliseum Avatar Decoration",
+            "name_with_article": "a Coliseum Avatar Decoration",
+            "redemption_instructions_by_platform": {
+              "0": "Default"
+            }
+          },
+          "expires_at": "2026-01-17T00:00:00+00:00",
+          "expires_at_premium": null,
+          "expiration_mode": 3
+        }
+      ],
+      "rewards_expire_at": "2025-12-16T00:00:29+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "video_metadata": {
+      "messages": {
+        "video_title": "Anno 117: Pax Romana Launch Trailer",
+        "video_end_cta_button_label": "Get Game"
+      },
+      "assets": {
+        "video_player_video_hls": "quests/1438245337184735394/1438250125351850088.m3u8",
+        "video_player_video": "quests/1438245337184735394/1438250125351850088_1080.mp4",
+        "video_player_thumbnail": "quests/1438245337184735394/1438253252553740369.jpg",
+        "video_player_video_low_res": "quests/1438245337184735394/1438250125351850088_720.mp4",
+        "video_player_caption": "quests/1438245337184735394/1438255680074027101.vtt",
+        "video_player_transcript": "quests/1438245337184735394/1438255707802697788.txt",
+        "quest_bar_preview_video": null,
+        "quest_bar_preview_thumbnail": null,
+        "quest_home_video": null
+      }
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://store.ubisoft.com/anno-117--pax-romana/6638e5dcaa201a2d55bcc772.html/?ucid=DDP-272723&addinfo=&bi=pme",
+      "button_label": "Get Game"
     }
   }
 }
