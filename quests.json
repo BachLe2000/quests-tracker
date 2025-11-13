@@ -10516,8 +10516,8 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA08459_00",
-            "PPSA08458_00"
+            "PPSA08458_00",
+            "PPSA08459_00"
           ]
         }
       }
@@ -10542,8 +10542,8 @@
             }
           ],
           "external_ids": [
-            "PPSA08459_00",
-            "PPSA08458_00"
+            "PPSA08458_00",
+            "PPSA08459_00"
           ]
         }
       },
@@ -10582,7 +10582,7 @@
     "id": "1435324548827451605",
     "config_version": 2,
     "starts_at": "2025-11-05T18:00:19+00:00",
-    "expires_at": "2025-11-17T00:00:19+00:00",
+    "expires_at": "2025-11-16T00:00:19+00:00",
     "features": [
       3,
       9,
@@ -10685,7 +10685,7 @@
           "redemption_link": null
         }
       ],
-      "rewards_expire_at": "2025-12-17T00:00:19+00:00",
+      "rewards_expire_at": "2025-12-16T00:00:19+00:00",
       "platforms": [
         0
       ]
@@ -10709,7 +10709,12 @@
         "quest_home_video": null
       }
     },
-    "share_policy": "shareable_everywhere"
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://pokemon-go.onelink.me/nBRb/niwqoq43",
+      "button_label": "Download",
+      "subtitle": "Pokémon Go Wild Area 2025"
+    }
   },
   "1435003145339273317": {
     "id": "1435003145339273317",
