@@ -11947,9 +11947,9 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA21669_00",
+            "PPSA21668_00",
             "CUSA55048_00",
-            "PPSA21668_00"
+            "PPSA21669_00"
           ]
         }
       }
@@ -11986,9 +11986,9 @@
             }
           ],
           "external_ids": [
-            "PPSA21669_00",
+            "PPSA21668_00",
             "CUSA55048_00",
-            "PPSA21668_00"
+            "PPSA21669_00"
           ]
         }
       },
@@ -12137,6 +12137,7 @@
     }
   },
   "1410358070831480904": {
+    "id": "1410358070831480904",
     "config_version": 2,
     "starts_at": "2025-11-17T16:30:27+00:00",
     "expires_at": "2026-01-02T00:00:27+00:00",
@@ -12235,8 +12236,8 @@
           "type": 4,
           "sku_id": "1287881739531976815",
           "messages": {
-            "name": "150 orbs",
-            "name_with_article": "150 orbs",
+            "name": "150 Orbs",
+            "name_with_article": "150 Orbs",
             "redemption_instructions_by_platform": {
               "0": "Default"
             }
@@ -12274,6 +12275,7 @@
     }
   },
   "1418350811687419914": {
+    "id": "1418350811687419914",
     "config_version": 2,
     "starts_at": "2025-11-17T16:30:45+00:00",
     "expires_at": "2026-01-02T00:00:45+00:00",
@@ -12367,8 +12369,8 @@
           "type": 4,
           "sku_id": "1287881739531976815",
           "messages": {
-            "name": "200 orbs",
-            "name_with_article": "200 orbs",
+            "name": "200 Orbs",
+            "name_with_article": "200 Orbs",
             "redemption_instructions_by_platform": {
               "0": "Default"
             }
