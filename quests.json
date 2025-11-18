@@ -12025,7 +12025,7 @@
     "id": "1436481141711442101",
     "config_version": 2,
     "starts_at": "2025-11-14T22:00:12+00:00",
-    "expires_at": "2025-11-20T00:00:12+00:00",
+    "expires_at": "2025-11-23T00:00:12+00:00",
     "features": [
       3,
       9,
@@ -12048,11 +12048,11 @@
       "quest_bar_hero": "quests/1436481141711442101/1437506322546294826.jpg",
       "quest_bar_hero_video": "quests/1436481141711442101/1438234166029324452.mp4",
       "game_tile": "1437508009306750986.png",
-      "logotype": "1437508008325152900.png",
+      "logotype": "1440412200660635803.png",
       "game_tile_light": "quests/1436481141711442101/1437507917950488706.png",
       "game_tile_dark": "quests/1436481141711442101/1437507917950488706.png",
-      "logotype_light": "quests/1436481141711442101/1437507706150846464.png",
-      "logotype_dark": "quests/1436481141711442101/1437507706150846464.png"
+      "logotype_light": "quests/1436481141711442101/1440412180095963389.png",
+      "logotype_dark": "quests/1436481141711442101/1440412180095963389.png"
     },
     "colors": {
       "primary": "#CEA36C",
@@ -12125,7 +12125,7 @@
           "orb_quantity": 700
         }
       ],
-      "rewards_expire_at": "2025-12-20T00:00:12+00:00",
+      "rewards_expire_at": "2025-12-23T00:00:12+00:00",
       "platforms": [
         0
       ]
