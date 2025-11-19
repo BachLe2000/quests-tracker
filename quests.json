@@ -10236,7 +10236,7 @@
     "id": "1435367355759726642",
     "config_version": 2,
     "starts_at": "2025-11-06T00:15:25+00:00",
-    "expires_at": "2025-11-19T00:00:25+00:00",
+    "expires_at": "2025-11-19T07:59:25+00:00",
     "features": [
       3,
       9,
@@ -10249,7 +10249,7 @@
       23
     ],
     "application": {
-      "link": "https://www.kingofmeat.com/sale?utm_source=Discord&utm_campaign=_KoMeat_Discord_USDE_Web_AWS_HighImpact_CPM_VIDQUEST1_Custom_20251105_NA_null",
+      "link": "https://store.steampowered.com/app/1926980/King_of_Meat/",
       "id": "545364944258990091",
       "name": "Discord"
     },
@@ -10319,8 +10319,8 @@
           "messages": {
             "video_title": "King of Meat: 75% off limited-time sale",
             "video_end_cta_title": "King of Meat",
-            "video_end_cta_subtitle": "75% off and available on Steam, PlayStation 5, and Xbox Series X|S",
-            "video_end_cta_button_label": "Buy Now"
+            "video_end_cta_subtitle": "Steam Free Weekend - Play for free until Nov 17",
+            "video_end_cta_button_label": "Play Now"
           }
         }
       },
@@ -10342,7 +10342,7 @@
           "orb_quantity": 700
         }
       ],
-      "rewards_expire_at": "2025-12-19T00:00:25+00:00",
+      "rewards_expire_at": "2025-12-19T07:59:25+00:00",
       "platforms": [
         0
       ]
@@ -10351,8 +10351,8 @@
       "messages": {
         "video_title": "King of Meat: 75% off limited-time sale",
         "video_end_cta_title": "King of Meat",
-        "video_end_cta_subtitle": "75% off and available on Steam, PlayStation 5, and Xbox Series X|S",
-        "video_end_cta_button_label": "Buy Now"
+        "video_end_cta_subtitle": "Steam Free Weekend - Play for free until Nov 17",
+        "video_end_cta_button_label": "Play Now"
       },
       "assets": {
         "video_player_video_hls": "quests/1435367355759726642/1435370621705125938.m3u8",
@@ -10366,7 +10366,12 @@
         "quest_home_video": null
       }
     },
-    "share_policy": "shareable_everywhere"
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://store.steampowered.com/app/1926980/King_of_Meat/",
+      "button_label": "Play Now",
+      "subtitle": "Steam Free Weekend - Play for free until Nov 17"
+    }
   },
   "1420556874629251124": {
     "id": "1420556874629251124",
@@ -10516,8 +10521,8 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA08459_00",
-            "PPSA08458_00"
+            "PPSA08458_00",
+            "PPSA08459_00"
           ]
         }
       }
@@ -10542,8 +10547,8 @@
             }
           ],
           "external_ids": [
-            "PPSA08459_00",
-            "PPSA08458_00"
+            "PPSA08458_00",
+            "PPSA08459_00"
           ]
         }
       },
@@ -11947,9 +11952,9 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "CUSA55048_00",
+            "PPSA21668_00",
             "PPSA21669_00",
-            "PPSA21668_00"
+            "CUSA55048_00"
           ]
         }
       }
@@ -11986,9 +11991,9 @@
             }
           ],
           "external_ids": [
-            "CUSA55048_00",
+            "PPSA21668_00",
             "PPSA21669_00",
-            "PPSA21668_00"
+            "CUSA55048_00"
           ]
         }
       },
@@ -12076,8 +12081,8 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA23355_00",
-            "PPSA29394_00"
+            "PPSA29394_00",
+            "PPSA23355_00"
           ]
         }
       }
@@ -12102,8 +12107,8 @@
             }
           ],
           "external_ids": [
-            "PPSA23355_00",
-            "PPSA29394_00"
+            "PPSA29394_00",
+            "PPSA23355_00"
           ]
         }
       },
@@ -12705,26 +12710,26 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "CUSA34032_00",
-            "PPSA24265_00",
-            "CUSA53714_00",
+            "PPSA07950_00",
+            "PPSA01649_00",
             "CUSA53713_00",
+            "PPSA24266_00",
+            "PPSA07953_00",
+            "CUSA34031_00",
+            "CUSA53714_00",
+            "CUSA53712_00",
+            "CUSA34029_00",
+            "PPSA07952_00",
+            "PPSA24265_00",
             "PPSA24264_00",
             "CUSA23827_00",
-            "PPSA24266_00",
             "CUSA34030_00",
             "PPSA24263_00",
-            "PPSA07953_00",
-            "CUSA53712_00",
-            "PPSA07950_00",
-            "CUSA34029_00",
             "PPSA28781_00",
             "PPSA07951_00",
+            "CUSA34032_00",
             "CUSA53711_00",
-            "PPSA07952_00",
-            "CUSA53710_00",
-            "PPSA01649_00",
-            "CUSA34031_00"
+            "CUSA53710_00"
           ]
         }
       }
@@ -12761,26 +12766,26 @@
             }
           ],
           "external_ids": [
-            "CUSA34032_00",
-            "PPSA24265_00",
-            "CUSA53714_00",
+            "PPSA07950_00",
+            "PPSA01649_00",
             "CUSA53713_00",
+            "PPSA24266_00",
+            "PPSA07953_00",
+            "CUSA34031_00",
+            "CUSA53714_00",
+            "CUSA53712_00",
+            "CUSA34029_00",
+            "PPSA07952_00",
+            "PPSA24265_00",
             "PPSA24264_00",
             "CUSA23827_00",
-            "PPSA24266_00",
             "CUSA34030_00",
             "PPSA24263_00",
-            "PPSA07953_00",
-            "CUSA53712_00",
-            "PPSA07950_00",
-            "CUSA34029_00",
             "PPSA28781_00",
             "PPSA07951_00",
+            "CUSA34032_00",
             "CUSA53711_00",
-            "PPSA07952_00",
-            "CUSA53710_00",
-            "PPSA01649_00",
-            "CUSA34031_00"
+            "CUSA53710_00"
           ]
         }
       },
@@ -12877,11 +12882,11 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
+            "PPSA06517_00",
+            "PPSA06516_00",
+            "CUSA16209_00",
             "CUSA16153_00",
             "PPSA06518_00",
-            "PPSA06517_00",
-            "CUSA16209_00",
-            "PPSA06516_00",
             "CUSA16169_00"
           ]
         }
@@ -12919,11 +12924,11 @@
             }
           ],
           "external_ids": [
+            "PPSA06517_00",
+            "PPSA06516_00",
+            "CUSA16209_00",
             "CUSA16153_00",
             "PPSA06518_00",
-            "PPSA06517_00",
-            "CUSA16209_00",
-            "PPSA06516_00",
             "CUSA16169_00"
           ]
         }
@@ -13162,10 +13167,10 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA28881_00",
             "PPSA28882_00",
+            "PPSA28883_00",
             "PPSA28884_00",
-            "PPSA28883_00"
+            "PPSA28881_00"
           ]
         }
       }
@@ -13202,10 +13207,10 @@
             }
           ],
           "external_ids": [
-            "PPSA28881_00",
             "PPSA28882_00",
+            "PPSA28883_00",
             "PPSA28884_00",
-            "PPSA28883_00"
+            "PPSA28881_00"
           ]
         }
       },
