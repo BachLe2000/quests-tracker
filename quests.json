@@ -11952,8 +11952,8 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "CUSA55048_00",
             "PPSA21668_00",
+            "CUSA55048_00",
             "PPSA21669_00"
           ]
         }
@@ -11991,8 +11991,8 @@
             }
           ],
           "external_ids": [
-            "CUSA55048_00",
             "PPSA21668_00",
+            "CUSA55048_00",
             "PPSA21669_00"
           ]
         }
@@ -12081,8 +12081,8 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA29394_00",
-            "PPSA23355_00"
+            "PPSA23355_00",
+            "PPSA29394_00"
           ]
         }
       }
@@ -12107,8 +12107,8 @@
             }
           ],
           "external_ids": [
-            "PPSA29394_00",
-            "PPSA23355_00"
+            "PPSA23355_00",
+            "PPSA29394_00"
           ]
         }
       },
@@ -12441,18 +12441,18 @@
       "quest_bar_hero": "quests/1438202046804136028/1438203998652862494.jpg",
       "quest_bar_hero_video": "quests/1438202046804136028/1438204079594541057.mp4",
       "game_tile": "1438583219338612776.png",
-      "logotype": "1438215799998386186.png",
+      "logotype": "1440412013779095624.png",
       "game_tile_light": "quests/1438202046804136028/1438583145808003123.png",
       "game_tile_dark": "quests/1438202046804136028/1438583145808003123.png",
-      "logotype_light": "quests/1438202046804136028/1438204162394427405.png",
-      "logotype_dark": "quests/1438202046804136028/1438215782344560764.png"
+      "logotype_light": "quests/1438202046804136028/1440411991385706693.png",
+      "logotype_dark": "quests/1438202046804136028/1440411967222321182.png"
     },
     "colors": {
       "primary": "#FFFFFF",
       "secondary": "#000000"
     },
     "messages": {
-      "quest_name": "Microsoft Edge Your AI Browser",
+      "quest_name": "Microsoft Edge - Your AI Browser",
       "game_title": "Microsoft Edge",
       "game_publisher": "Microsoft Edge"
     },
@@ -12710,26 +12710,26 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "CUSA34030_00",
-            "PPSA07952_00",
-            "PPSA07950_00",
-            "CUSA53714_00",
-            "CUSA34029_00",
-            "CUSA23827_00",
-            "CUSA53712_00",
-            "PPSA24266_00",
-            "PPSA07953_00",
-            "CUSA53710_00",
             "PPSA24264_00",
+            "PPSA07952_00",
+            "CUSA53710_00",
+            "CUSA53714_00",
+            "CUSA53712_00",
+            "PPSA07953_00",
+            "CUSA53713_00",
+            "CUSA23827_00",
             "PPSA01649_00",
-            "CUSA53711_00",
+            "PPSA24263_00",
+            "CUSA34029_00",
             "PPSA28781_00",
             "CUSA34032_00",
+            "CUSA53711_00",
+            "PPSA07950_00",
+            "PPSA07951_00",
+            "CUSA34030_00",
             "CUSA34031_00",
             "PPSA24265_00",
-            "CUSA53713_00",
-            "PPSA07951_00",
-            "PPSA24263_00"
+            "PPSA24266_00"
           ]
         }
       }
@@ -12766,26 +12766,26 @@
             }
           ],
           "external_ids": [
-            "CUSA34030_00",
-            "PPSA07952_00",
-            "PPSA07950_00",
-            "CUSA53714_00",
-            "CUSA34029_00",
-            "CUSA23827_00",
-            "CUSA53712_00",
-            "PPSA24266_00",
-            "PPSA07953_00",
-            "CUSA53710_00",
             "PPSA24264_00",
+            "PPSA07952_00",
+            "CUSA53710_00",
+            "CUSA53714_00",
+            "CUSA53712_00",
+            "PPSA07953_00",
+            "CUSA53713_00",
+            "CUSA23827_00",
             "PPSA01649_00",
-            "CUSA53711_00",
+            "PPSA24263_00",
+            "CUSA34029_00",
             "PPSA28781_00",
             "CUSA34032_00",
+            "CUSA53711_00",
+            "PPSA07950_00",
+            "PPSA07951_00",
+            "CUSA34030_00",
             "CUSA34031_00",
             "PPSA24265_00",
-            "CUSA53713_00",
-            "PPSA07951_00",
-            "PPSA24263_00"
+            "PPSA24266_00"
           ]
         }
       },
@@ -12883,11 +12883,11 @@
           "target": 900,
           "external_ids": [
             "PPSA06516_00",
-            "PPSA06517_00",
-            "CUSA16209_00",
-            "CUSA16169_00",
             "PPSA06518_00",
-            "CUSA16153_00"
+            "PPSA06517_00",
+            "CUSA16153_00",
+            "CUSA16209_00",
+            "CUSA16169_00"
           ]
         }
       }
@@ -12925,11 +12925,11 @@
           ],
           "external_ids": [
             "PPSA06516_00",
-            "PPSA06517_00",
-            "CUSA16209_00",
-            "CUSA16169_00",
             "PPSA06518_00",
-            "CUSA16153_00"
+            "PPSA06517_00",
+            "CUSA16153_00",
+            "CUSA16209_00",
+            "CUSA16169_00"
           ]
         }
       },
@@ -13167,10 +13167,10 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA28882_00",
-            "PPSA28884_00",
+            "PPSA28881_00",
             "PPSA28883_00",
-            "PPSA28881_00"
+            "PPSA28884_00",
+            "PPSA28882_00"
           ]
         }
       }
@@ -13207,10 +13207,10 @@
             }
           ],
           "external_ids": [
-            "PPSA28882_00",
-            "PPSA28884_00",
+            "PPSA28881_00",
             "PPSA28883_00",
-            "PPSA28881_00"
+            "PPSA28884_00",
+            "PPSA28882_00"
           ]
         }
       },
