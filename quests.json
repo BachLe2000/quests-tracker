@@ -10521,8 +10521,8 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA08458_00",
-            "PPSA08459_00"
+            "PPSA08459_00",
+            "PPSA08458_00"
           ]
         }
       }
@@ -10547,8 +10547,8 @@
             }
           ],
           "external_ids": [
-            "PPSA08458_00",
-            "PPSA08459_00"
+            "PPSA08459_00",
+            "PPSA08458_00"
           ]
         }
       },
@@ -11946,9 +11946,9 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA21669_00",
+            "CUSA55048_00",
             "PPSA21668_00",
-            "CUSA55048_00"
+            "PPSA21669_00"
           ]
         }
       }
@@ -11985,9 +11985,9 @@
             }
           ],
           "external_ids": [
-            "PPSA21669_00",
+            "CUSA55048_00",
             "PPSA21668_00",
-            "CUSA55048_00"
+            "PPSA21669_00"
           ]
         }
       },
@@ -12704,26 +12704,26 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "CUSA34029_00",
-            "PPSA28781_00",
-            "CUSA53712_00",
-            "CUSA23827_00",
-            "PPSA01649_00",
-            "CUSA34031_00",
-            "PPSA24266_00",
-            "PPSA07950_00",
-            "PPSA07951_00",
-            "PPSA07952_00",
-            "PPSA24264_00",
-            "CUSA34030_00",
-            "PPSA07953_00",
-            "CUSA53714_00",
-            "CUSA34032_00",
-            "PPSA24265_00",
             "CUSA53710_00",
+            "CUSA53711_00",
+            "PPSA24266_00",
             "CUSA53713_00",
             "PPSA24263_00",
-            "CUSA53711_00"
+            "CUSA53714_00",
+            "CUSA34030_00",
+            "CUSA53712_00",
+            "PPSA07952_00",
+            "CUSA34031_00",
+            "PPSA07953_00",
+            "CUSA34032_00",
+            "PPSA24265_00",
+            "PPSA07950_00",
+            "PPSA24264_00",
+            "PPSA01649_00",
+            "PPSA07951_00",
+            "CUSA34029_00",
+            "PPSA28781_00",
+            "CUSA23827_00"
           ]
         }
       }
@@ -12760,26 +12760,26 @@
             }
           ],
           "external_ids": [
-            "CUSA34029_00",
-            "PPSA28781_00",
-            "CUSA53712_00",
-            "CUSA23827_00",
-            "PPSA01649_00",
-            "CUSA34031_00",
-            "PPSA24266_00",
-            "PPSA07950_00",
-            "PPSA07951_00",
-            "PPSA07952_00",
-            "PPSA24264_00",
-            "CUSA34030_00",
-            "PPSA07953_00",
-            "CUSA53714_00",
-            "CUSA34032_00",
-            "PPSA24265_00",
             "CUSA53710_00",
+            "CUSA53711_00",
+            "PPSA24266_00",
             "CUSA53713_00",
             "PPSA24263_00",
-            "CUSA53711_00"
+            "CUSA53714_00",
+            "CUSA34030_00",
+            "CUSA53712_00",
+            "PPSA07952_00",
+            "CUSA34031_00",
+            "PPSA07953_00",
+            "CUSA34032_00",
+            "PPSA24265_00",
+            "PPSA07950_00",
+            "PPSA24264_00",
+            "PPSA01649_00",
+            "PPSA07951_00",
+            "CUSA34029_00",
+            "PPSA28781_00",
+            "CUSA23827_00"
           ]
         }
       },
@@ -12876,11 +12876,11 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "CUSA16209_00",
-            "PPSA06517_00",
-            "PPSA06516_00",
-            "CUSA16169_00",
             "CUSA16153_00",
+            "PPSA06516_00",
+            "PPSA06517_00",
+            "CUSA16169_00",
+            "CUSA16209_00",
             "PPSA06518_00"
           ]
         }
@@ -12918,11 +12918,11 @@
             }
           ],
           "external_ids": [
-            "CUSA16209_00",
-            "PPSA06517_00",
-            "PPSA06516_00",
-            "CUSA16169_00",
             "CUSA16153_00",
+            "PPSA06516_00",
+            "PPSA06517_00",
+            "CUSA16169_00",
+            "CUSA16209_00",
             "PPSA06518_00"
           ]
         }
@@ -13161,8 +13161,8 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA28884_00",
             "PPSA28883_00",
+            "PPSA28884_00",
             "PPSA28882_00",
             "PPSA28881_00"
           ]
@@ -13201,8 +13201,8 @@
             }
           ],
           "external_ids": [
-            "PPSA28884_00",
             "PPSA28883_00",
+            "PPSA28884_00",
             "PPSA28882_00",
             "PPSA28881_00"
           ]
@@ -14780,9 +14780,9 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "CUSA07022_00",
-            "PPSA01923_00",
             "PPSA01922_00",
+            "PPSA01923_00",
+            "CUSA07022_00",
             "CUSA07669_00"
           ]
         }
@@ -14820,9 +14820,9 @@
             }
           ],
           "external_ids": [
-            "CUSA07022_00",
-            "PPSA01923_00",
             "PPSA01922_00",
+            "PPSA01923_00",
+            "CUSA07022_00",
             "CUSA07669_00"
           ]
         }
@@ -14988,6 +14988,135 @@
     "share_policy": "shareable_everywhere",
     "cta_config": {
       "link": "https://ad.doubleclick.net/ddm/trackclk/N1306638.3397510DISCORD/B34551717.432655292;dc_trk_aid=625825573;dc_trk_cid=243957496;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+      "button_label": "Buy Now"
+    }
+  },
+  "1440778023438909671": {
+    "config_version": 2,
+    "starts_at": "2025-11-25T21:30:29+00:00",
+    "expires_at": "2025-12-10T00:00:29+00:00",
+    "features": [
+      3,
+      9,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19,
+      23
+    ],
+    "application": {
+      "link": "https://ad.doubleclick.net/ddm/trackclk/N1306638.3397510DISCORD/B34551717.432974517;dc_trk_aid=625488572;dc_trk_cid=243957496;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "quests/1440778023438909671/1441486198991486988.jpg",
+      "hero_video": "quests/1440778023438909671/1440859155576655943.mp4",
+      "quest_bar_hero": "quests/1440778023438909671/1440821409260765315.jpg",
+      "quest_bar_hero_video": "quests/1440778023438909671/1440859155576655943.mp4",
+      "game_tile": "1440861153382105129.png",
+      "logotype": "1440867274247376916.png",
+      "game_tile_light": "quests/1440778023438909671/1440861117793566843.png",
+      "game_tile_dark": "quests/1440778023438909671/1440861117793566843.png",
+      "logotype_light": "quests/1440778023438909671/1440860932686352495.png",
+      "logotype_dark": "quests/1440778023438909671/1440860909810618388.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Entdecke mehr auf PS5",
+      "game_title": "Entdecke mehr auf PS5",
+      "game_publisher": "PlayStation 5"
+    },
+    "task_config": {
+      "type": 1,
+      "join_operator": "or",
+      "tasks": {
+        "WATCH_VIDEO": {
+          "event_name": "WATCH_VIDEO",
+          "target": 29,
+          "external_ids": []
+        }
+      }
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 29,
+          "assets": {
+            "video": {
+              "url": "quests/1440778023438909671/1440862754268254248_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1440778023438909671/1440863827691438232.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1440778023438909671/1440862754268254248_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1440778023438909671/1440863827691438232.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1440778023438909671/1440862754268254248.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1440778023438909671/1440863827691438232.jpg"
+            }
+          },
+          "messages": {
+            "video_title": "Entdecke mehr auf PS5",
+            "video_end_cta_button_label": "Shop Now"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "700 orbs",
+            "name_with_article": "700 orbs",
+            "redemption_instructions_by_platform": {
+              "0": "Default"
+            }
+          },
+          "orb_quantity": 700
+        }
+      ],
+      "rewards_expire_at": "2026-01-09T00:00:29+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "video_metadata": {
+      "messages": {
+        "video_title": "Entdecke mehr auf PS5",
+        "video_end_cta_button_label": "Buy Now"
+      },
+      "assets": {
+        "video_player_video_hls": "quests/1440778023438909671/1440862754268254248.m3u8",
+        "video_player_video": "quests/1440778023438909671/1440862754268254248_1080.mp4",
+        "video_player_thumbnail": "quests/1440778023438909671/1440863827691438232.jpg",
+        "video_player_video_low_res": "quests/1440778023438909671/1440862754268254248_720.mp4",
+        "video_player_caption": null,
+        "video_player_transcript": null,
+        "quest_bar_preview_video": null,
+        "quest_bar_preview_thumbnail": null,
+        "quest_home_video": null
+      }
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://ad.doubleclick.net/ddm/trackclk/N1306638.3397510DISCORD/B34551717.432974517;dc_trk_aid=625488572;dc_trk_cid=243957496;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1",
       "button_label": "Buy Now"
     }
   }
