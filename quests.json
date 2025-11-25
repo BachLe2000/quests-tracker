@@ -10521,8 +10521,8 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA08458_00",
-            "PPSA08459_00"
+            "PPSA08459_00",
+            "PPSA08458_00"
           ]
         }
       }
@@ -10547,8 +10547,8 @@
             }
           ],
           "external_ids": [
-            "PPSA08458_00",
-            "PPSA08459_00"
+            "PPSA08459_00",
+            "PPSA08458_00"
           ]
         }
       },
@@ -11946,9 +11946,9 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
+            "CUSA55048_00",
             "PPSA21669_00",
-            "PPSA21668_00",
-            "CUSA55048_00"
+            "PPSA21668_00"
           ]
         }
       }
@@ -11985,9 +11985,9 @@
             }
           ],
           "external_ids": [
+            "CUSA55048_00",
             "PPSA21669_00",
-            "PPSA21668_00",
-            "CUSA55048_00"
+            "PPSA21668_00"
           ]
         }
       },
@@ -12704,26 +12704,26 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "CUSA34032_00",
-            "PPSA07952_00",
+            "PPSA01649_00",
             "CUSA23827_00",
+            "PPSA24264_00",
+            "PPSA07953_00",
+            "PPSA24265_00",
+            "CUSA34031_00",
+            "CUSA53712_00",
+            "CUSA53710_00",
+            "PPSA24266_00",
+            "PPSA07950_00",
+            "CUSA34032_00",
+            "PPSA28781_00",
+            "PPSA07951_00",
+            "CUSA34029_00",
+            "CUSA34030_00",
+            "CUSA53714_00",
+            "PPSA07952_00",
             "CUSA53713_00",
             "PPSA24263_00",
-            "CUSA34030_00",
-            "CUSA53711_00",
-            "PPSA24264_00",
-            "CUSA53710_00",
-            "PPSA28781_00",
-            "PPSA07953_00",
-            "CUSA53714_00",
-            "PPSA01649_00",
-            "PPSA07950_00",
-            "CUSA34029_00",
-            "PPSA07951_00",
-            "PPSA24266_00",
-            "CUSA34031_00",
-            "PPSA24265_00",
-            "CUSA53712_00"
+            "CUSA53711_00"
           ]
         }
       }
@@ -12760,26 +12760,26 @@
             }
           ],
           "external_ids": [
-            "CUSA34032_00",
-            "PPSA07952_00",
+            "PPSA01649_00",
             "CUSA23827_00",
+            "PPSA24264_00",
+            "PPSA07953_00",
+            "PPSA24265_00",
+            "CUSA34031_00",
+            "CUSA53712_00",
+            "CUSA53710_00",
+            "PPSA24266_00",
+            "PPSA07950_00",
+            "CUSA34032_00",
+            "PPSA28781_00",
+            "PPSA07951_00",
+            "CUSA34029_00",
+            "CUSA34030_00",
+            "CUSA53714_00",
+            "PPSA07952_00",
             "CUSA53713_00",
             "PPSA24263_00",
-            "CUSA34030_00",
-            "CUSA53711_00",
-            "PPSA24264_00",
-            "CUSA53710_00",
-            "PPSA28781_00",
-            "PPSA07953_00",
-            "CUSA53714_00",
-            "PPSA01649_00",
-            "PPSA07950_00",
-            "CUSA34029_00",
-            "PPSA07951_00",
-            "PPSA24266_00",
-            "CUSA34031_00",
-            "PPSA24265_00",
-            "CUSA53712_00"
+            "CUSA53711_00"
           ]
         }
       },
@@ -12876,12 +12876,12 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "CUSA16209_00",
-            "CUSA16153_00",
+            "CUSA16169_00",
             "PPSA06516_00",
+            "CUSA16153_00",
+            "CUSA16209_00",
             "PPSA06518_00",
-            "PPSA06517_00",
-            "CUSA16169_00"
+            "PPSA06517_00"
           ]
         }
       }
@@ -12918,12 +12918,12 @@
             }
           ],
           "external_ids": [
-            "CUSA16209_00",
-            "CUSA16153_00",
+            "CUSA16169_00",
             "PPSA06516_00",
+            "CUSA16153_00",
+            "CUSA16209_00",
             "PPSA06518_00",
-            "PPSA06517_00",
-            "CUSA16169_00"
+            "PPSA06517_00"
           ]
         }
       },
@@ -13161,10 +13161,10 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA28883_00",
             "PPSA28881_00",
-            "PPSA28882_00",
-            "PPSA28884_00"
+            "PPSA28884_00",
+            "PPSA28883_00",
+            "PPSA28882_00"
           ]
         }
       }
@@ -13201,10 +13201,10 @@
             }
           ],
           "external_ids": [
-            "PPSA28883_00",
             "PPSA28881_00",
-            "PPSA28882_00",
-            "PPSA28884_00"
+            "PPSA28884_00",
+            "PPSA28883_00",
+            "PPSA28882_00"
           ]
         }
       },
@@ -14716,6 +14716,147 @@
       "link": "https://www.instagram.com/universalpictureskr/",
       "button_label": "Get Tickets",
       "subtitle": "12월 3일 극장 대개봉"
+    }
+  },
+  "1441429327043493990": {
+    "id": "1441429327043493990",
+    "config_version": 2,
+    "starts_at": "2025-11-25T18:00:32+00:00",
+    "expires_at": "2025-11-29T19:30:32+00:00",
+    "features": [
+      3,
+      9,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19,
+      23
+    ],
+    "application": {
+      "link": "https://www.fortnite.com/",
+      "id": "1402418703554842694",
+      "name": "Fortnite"
+    },
+    "assets": {
+      "hero": "quests/1441429327043493990/1441432689118019877.jpg",
+      "hero_video": null,
+      "quest_bar_hero": "quests/1441429327043493990/1441432638098509844.jpg",
+      "quest_bar_hero_video": null,
+      "game_tile": "1441433044769575046.png",
+      "logotype": "1441433043775520789.png",
+      "game_tile_light": "quests/1441429327043493990/1441432765445967943.png",
+      "game_tile_dark": "quests/1441429327043493990/1441432765445967943.png",
+      "logotype_light": "quests/1441429327043493990/1441432729127223326.png",
+      "logotype_dark": "quests/1441429327043493990/1441432729127223326.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Fortnite Zero Hour",
+      "game_title": "Fortnite",
+      "game_publisher": "Epic Games"
+    },
+    "task_config": {
+      "type": 1,
+      "join_operator": "or",
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "event_name": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "external_ids": []
+        },
+        "PLAY_ON_XBOX": {
+          "event_name": "PLAY_ON_XBOX",
+          "target": 900,
+          "external_ids": [
+            "267695549"
+          ]
+        },
+        "PLAY_ON_PLAYSTATION": {
+          "event_name": "PLAY_ON_PLAYSTATION",
+          "target": 900,
+          "external_ids": [
+            "CUSA07022_00",
+            "PPSA01922_00",
+            "PPSA01923_00",
+            "CUSA07669_00"
+          ]
+        }
+      }
+    },
+    "task_config_v2": {
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "type": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1402418703554842694"
+            }
+          ]
+        },
+        "PLAY_ON_XBOX": {
+          "type": "PLAY_ON_XBOX",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1402418703554842694"
+            }
+          ],
+          "external_ids": [
+            "267695549"
+          ]
+        },
+        "PLAY_ON_PLAYSTATION": {
+          "type": "PLAY_ON_PLAYSTATION",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1402418703554842694"
+            }
+          ],
+          "external_ids": [
+            "CUSA07022_00",
+            "PPSA01922_00",
+            "PPSA01923_00",
+            "CUSA07669_00"
+          ]
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 3,
+          "sku_id": "1442570030935048263",
+          "asset": "quests/1441429327043493990/1442570125315411998.mp4",
+          "asset_video": null,
+          "messages": {
+            "name": "Rift Device Avatar Decoration",
+            "name_with_article": "a Rift Device Avatar Decoration",
+            "redemption_instructions_by_platform": {
+              "0": "Default"
+            }
+          },
+          "expires_at": "2026-01-29T00:00:00+00:00",
+          "expires_at_premium": null,
+          "expiration_mode": 1
+        }
+      ],
+      "rewards_expire_at": "2025-12-29T19:30:32+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://www.fortnite.com/"
     }
   }
 }
