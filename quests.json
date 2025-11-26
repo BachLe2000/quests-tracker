@@ -12818,7 +12818,7 @@
     "id": "1438642430571315290",
     "config_version": 2,
     "starts_at": "2025-11-18T18:00:24+00:00",
-    "expires_at": "2025-11-30T01:00:24+00:00",
+    "expires_at": "2025-12-03T01:00:24+00:00",
     "features": [
       3,
       9,
@@ -12848,7 +12848,7 @@
       "logotype_dark": "quests/1438642430571315290/1438683113696919652.png"
     },
     "colors": {
-      "primary": "#FFFFFF",
+      "primary": "#4752C4",
       "secondary": "#000000"
     },
     "messages": {
@@ -12876,11 +12876,11 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA06517_00",
-            "CUSA16209_00",
-            "CUSA16153_00",
-            "PPSA06518_00",
             "CUSA16169_00",
+            "CUSA16209_00",
+            "PPSA06518_00",
+            "CUSA16153_00",
+            "PPSA06517_00",
             "PPSA06516_00"
           ]
         }
@@ -12918,11 +12918,11 @@
             }
           ],
           "external_ids": [
-            "PPSA06517_00",
-            "CUSA16209_00",
-            "CUSA16153_00",
-            "PPSA06518_00",
             "CUSA16169_00",
+            "CUSA16209_00",
+            "PPSA06518_00",
+            "CUSA16153_00",
+            "PPSA06517_00",
             "PPSA06516_00"
           ]
         }
@@ -12949,7 +12949,7 @@
           "expiration_mode": 3
         }
       ],
-      "rewards_expire_at": "2025-12-30T01:00:24+00:00",
+      "rewards_expire_at": "2026-01-02T01:00:24+00:00",
       "platforms": [
         0
       ]
