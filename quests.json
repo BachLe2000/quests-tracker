@@ -11946,8 +11946,8 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA21668_00",
             "CUSA55048_00",
+            "PPSA21668_00",
             "PPSA21669_00"
           ]
         }
@@ -11985,8 +11985,8 @@
             }
           ],
           "external_ids": [
-            "PPSA21668_00",
             "CUSA55048_00",
+            "PPSA21668_00",
             "PPSA21669_00"
           ]
         }
@@ -12075,8 +12075,8 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA23355_00",
-            "PPSA29394_00"
+            "PPSA29394_00",
+            "PPSA23355_00"
           ]
         }
       }
@@ -12101,8 +12101,8 @@
             }
           ],
           "external_ids": [
-            "PPSA23355_00",
-            "PPSA29394_00"
+            "PPSA29394_00",
+            "PPSA23355_00"
           ]
         }
       },
@@ -12877,10 +12877,10 @@
           "target": 900,
           "external_ids": [
             "PPSA06517_00",
+            "CUSA16169_00",
+            "CUSA16153_00",
             "CUSA16209_00",
             "PPSA06518_00",
-            "CUSA16153_00",
-            "CUSA16169_00",
             "PPSA06516_00"
           ]
         }
@@ -12919,10 +12919,10 @@
           ],
           "external_ids": [
             "PPSA06517_00",
+            "CUSA16169_00",
+            "CUSA16153_00",
             "CUSA16209_00",
             "PPSA06518_00",
-            "CUSA16153_00",
-            "CUSA16169_00",
             "PPSA06516_00"
           ]
         }
@@ -15305,8 +15305,8 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA23355_00",
-            "PPSA29394_00"
+            "PPSA29394_00",
+            "PPSA23355_00"
           ]
         }
       }
@@ -15331,8 +15331,8 @@
             }
           ],
           "external_ids": [
-            "PPSA23355_00",
-            "PPSA29394_00"
+            "PPSA29394_00",
+            "PPSA23355_00"
           ]
         }
       },
@@ -15428,9 +15428,9 @@
           "target": 900,
           "external_ids": [
             "PPSA01922_00",
-            "PPSA01923_00",
+            "CUSA07669_00",
             "CUSA07022_00",
-            "CUSA07669_00"
+            "PPSA01923_00"
           ]
         }
       }
@@ -15468,9 +15468,9 @@
           ],
           "external_ids": [
             "PPSA01922_00",
-            "PPSA01923_00",
+            "CUSA07669_00",
             "CUSA07022_00",
-            "CUSA07669_00"
+            "PPSA01923_00"
           ]
         }
       },
