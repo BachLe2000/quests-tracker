@@ -11946,9 +11946,9 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "CUSA55048_00",
             "PPSA21668_00",
-            "PPSA21669_00"
+            "PPSA21669_00",
+            "CUSA55048_00"
           ]
         }
       }
@@ -11985,9 +11985,9 @@
             }
           ],
           "external_ids": [
-            "CUSA55048_00",
             "PPSA21668_00",
-            "PPSA21669_00"
+            "PPSA21669_00",
+            "CUSA55048_00"
           ]
         }
       },
@@ -12075,8 +12075,8 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA29394_00",
-            "PPSA23355_00"
+            "PPSA23355_00",
+            "PPSA29394_00"
           ]
         }
       }
@@ -12101,8 +12101,8 @@
             }
           ],
           "external_ids": [
-            "PPSA29394_00",
-            "PPSA23355_00"
+            "PPSA23355_00",
+            "PPSA29394_00"
           ]
         }
       },
@@ -12876,12 +12876,12 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
+            "CUSA16153_00",
             "PPSA06517_00",
             "PPSA06518_00",
-            "CUSA16153_00",
-            "CUSA16169_00",
+            "PPSA06516_00",
             "CUSA16209_00",
-            "PPSA06516_00"
+            "CUSA16169_00"
           ]
         }
       }
@@ -12918,12 +12918,12 @@
             }
           ],
           "external_ids": [
+            "CUSA16153_00",
             "PPSA06517_00",
             "PPSA06518_00",
-            "CUSA16153_00",
-            "CUSA16169_00",
+            "PPSA06516_00",
             "CUSA16209_00",
-            "PPSA06516_00"
+            "CUSA16169_00"
           ]
         }
       },
@@ -15305,8 +15305,8 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA29394_00",
-            "PPSA23355_00"
+            "PPSA23355_00",
+            "PPSA29394_00"
           ]
         }
       }
@@ -15331,8 +15331,8 @@
             }
           ],
           "external_ids": [
-            "PPSA29394_00",
-            "PPSA23355_00"
+            "PPSA23355_00",
+            "PPSA29394_00"
           ]
         }
       },
@@ -15427,10 +15427,10 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "CUSA07022_00",
-            "CUSA07669_00",
             "PPSA01923_00",
-            "PPSA01922_00"
+            "CUSA07022_00",
+            "PPSA01922_00",
+            "CUSA07669_00"
           ]
         }
       }
@@ -15467,10 +15467,10 @@
             }
           ],
           "external_ids": [
-            "CUSA07022_00",
-            "CUSA07669_00",
             "PPSA01923_00",
-            "PPSA01922_00"
+            "CUSA07022_00",
+            "PPSA01922_00",
+            "CUSA07669_00"
           ]
         }
       },
@@ -15925,6 +15925,155 @@
       "link": "https://fallout.bethesda.net/en/article/7H7bDc4y2k9IAcK8wRlXsk/fallout-76-burning-springs-play-now?utm_source=10047385&utm_medium=433589465&utm_campaign=34509046&utm_creative=245468998",
       "button_label": "Play Game",
       "subtitle": "Play Burning Springs now"
+    }
+  },
+  "1443003934422597682": {
+    "id": "1443003934422597682",
+    "config_version": 2,
+    "starts_at": "2025-12-02T18:00:27+00:00",
+    "expires_at": "2025-12-15T00:00:27+00:00",
+    "features": [
+      3,
+      9,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19,
+      23
+    ],
+    "application": {
+      "link": "https://www.destinythegame.com/en/YearOfProphecy",
+      "id": "372438022647578634",
+      "name": "Destiny 2"
+    },
+    "assets": {
+      "hero": "quests/1443003934422597682/1443004538830454845.jpg",
+      "hero_video": null,
+      "quest_bar_hero": "quests/1443003934422597682/1443004506823463013.jpg",
+      "quest_bar_hero_video": null,
+      "game_tile": "1443004646179344477.png",
+      "logotype": "1443004645286084759.png",
+      "game_tile_light": "quests/1443003934422597682/1443004600490791026.png",
+      "game_tile_dark": "quests/1443003934422597682/1443004600490791026.png",
+      "logotype_light": "quests/1443003934422597682/1443004572384886987.png",
+      "logotype_dark": "quests/1443003934422597682/1443004572384886987.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Destiny 2: Renegades",
+      "game_title": "Destiny 2",
+      "game_publisher": "Bungie"
+    },
+    "task_config": {
+      "type": 1,
+      "join_operator": "or",
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "event_name": "PLAY_ON_DESKTOP",
+          "target": 1800,
+          "external_ids": []
+        },
+        "PLAY_ON_XBOX": {
+          "event_name": "PLAY_ON_XBOX",
+          "target": 1800,
+          "external_ids": [
+            "245548143",
+            "144389848"
+          ]
+        },
+        "PLAY_ON_PLAYSTATION": {
+          "event_name": "PLAY_ON_PLAYSTATION",
+          "target": 1800,
+          "external_ids": [
+            "PPSA02409_00",
+            "CUSA08415_00",
+            "CUSA05042_00",
+            "CUSA06172_00",
+            "PPSA02410_00",
+            "PPSA02411_00",
+            "CUSA05963_00"
+          ]
+        }
+      }
+    },
+    "task_config_v2": {
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "type": "PLAY_ON_DESKTOP",
+          "target": 1800,
+          "applications": [
+            {
+              "id": "372438022647578634"
+            }
+          ]
+        },
+        "PLAY_ON_XBOX": {
+          "type": "PLAY_ON_XBOX",
+          "target": 1800,
+          "applications": [
+            {
+              "id": "372438022647578634"
+            }
+          ],
+          "external_ids": [
+            "245548143",
+            "144389848"
+          ]
+        },
+        "PLAY_ON_PLAYSTATION": {
+          "type": "PLAY_ON_PLAYSTATION",
+          "target": 1800,
+          "applications": [
+            {
+              "id": "372438022647578634"
+            }
+          ],
+          "external_ids": [
+            "PPSA02409_00",
+            "CUSA08415_00",
+            "CUSA05042_00",
+            "CUSA06172_00",
+            "PPSA02410_00",
+            "PPSA02411_00",
+            "CUSA05963_00"
+          ]
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 1,
+          "sku_id": "1443003934422597683",
+          "asset": "quests/1443003934422597682/1443005268903333888.jpg",
+          "asset_video": null,
+          "messages": {
+            "name": "Inkdrawn Shader",
+            "name_with_article": "an Inkdrawn Shader",
+            "redemption_instructions_by_platform": {
+              "0": "Users should log into Bungie.net with their preferred platform and access this page to input the code: https://www.bungie.net/7/en/codes/redeem\nOnce redeemed on their account, they can obtain it in-game via the Special Deliveries Kiosk in the Tower, or in Collections under the “Flair” section."
+            }
+          },
+          "approximate_count": null,
+          "redemption_link": null
+        }
+      ],
+      "rewards_expire_at": "2026-01-14T00:00:27+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://www.destinythegame.com/en/YearOfProphecy",
+      "button_label": "Get Game"
     }
   }
 }
