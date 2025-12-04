@@ -11946,9 +11946,9 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA21668_00",
+            "PPSA21669_00",
             "CUSA55048_00",
-            "PPSA21669_00"
+            "PPSA21668_00"
           ]
         }
       }
@@ -11985,9 +11985,9 @@
             }
           ],
           "external_ids": [
-            "PPSA21668_00",
+            "PPSA21669_00",
             "CUSA55048_00",
-            "PPSA21669_00"
+            "PPSA21668_00"
           ]
         }
       },
@@ -12075,8 +12075,8 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA23355_00",
-            "PPSA29394_00"
+            "PPSA29394_00",
+            "PPSA23355_00"
           ]
         }
       }
@@ -12101,8 +12101,8 @@
             }
           ],
           "external_ids": [
-            "PPSA23355_00",
-            "PPSA29394_00"
+            "PPSA29394_00",
+            "PPSA23355_00"
           ]
         }
       },
@@ -12876,12 +12876,12 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
+            "PPSA06516_00",
             "CUSA16209_00",
-            "CUSA16169_00",
             "CUSA16153_00",
-            "PPSA06518_00",
             "PPSA06517_00",
-            "PPSA06516_00"
+            "CUSA16169_00",
+            "PPSA06518_00"
           ]
         }
       }
@@ -12918,12 +12918,12 @@
             }
           ],
           "external_ids": [
+            "PPSA06516_00",
             "CUSA16209_00",
-            "CUSA16169_00",
             "CUSA16153_00",
-            "PPSA06518_00",
             "PPSA06517_00",
-            "PPSA06516_00"
+            "CUSA16169_00",
+            "PPSA06518_00"
           ]
         }
       },
@@ -15305,8 +15305,8 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA23355_00",
-            "PPSA29394_00"
+            "PPSA29394_00",
+            "PPSA23355_00"
           ]
         }
       }
@@ -15331,8 +15331,8 @@
             }
           ],
           "external_ids": [
-            "PPSA23355_00",
-            "PPSA29394_00"
+            "PPSA29394_00",
+            "PPSA23355_00"
           ]
         }
       },
@@ -15428,8 +15428,8 @@
           "target": 900,
           "external_ids": [
             "PPSA01922_00",
-            "PPSA01923_00",
             "CUSA07022_00",
+            "PPSA01923_00",
             "CUSA07669_00"
           ]
         }
@@ -15468,8 +15468,8 @@
           ],
           "external_ids": [
             "PPSA01922_00",
-            "PPSA01923_00",
             "CUSA07022_00",
+            "PPSA01923_00",
             "CUSA07669_00"
           ]
         }
@@ -15982,21 +15982,21 @@
           "event_name": "PLAY_ON_XBOX",
           "target": 1800,
           "external_ids": [
-            "144389848",
-            "245548143"
+            "245548143",
+            "144389848"
           ]
         },
         "PLAY_ON_PLAYSTATION": {
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 1800,
           "external_ids": [
-            "PPSA02411_00",
+            "CUSA06172_00",
             "PPSA02409_00",
+            "CUSA08415_00",
+            "PPSA02411_00",
             "PPSA02410_00",
             "CUSA05963_00",
-            "CUSA08415_00",
-            "CUSA05042_00",
-            "CUSA06172_00"
+            "CUSA05042_00"
           ]
         }
       }
@@ -16021,8 +16021,8 @@
             }
           ],
           "external_ids": [
-            "144389848",
-            "245548143"
+            "245548143",
+            "144389848"
           ]
         },
         "PLAY_ON_PLAYSTATION": {
@@ -16034,13 +16034,13 @@
             }
           ],
           "external_ids": [
-            "PPSA02411_00",
+            "CUSA06172_00",
             "PPSA02409_00",
+            "CUSA08415_00",
+            "PPSA02411_00",
             "PPSA02410_00",
             "CUSA05963_00",
-            "CUSA08415_00",
-            "CUSA05042_00",
-            "CUSA06172_00"
+            "CUSA05042_00"
           ]
         }
       },
@@ -16138,10 +16138,10 @@
           "event_name": "PLAY_ON_PLAYSTATION",
           "target": 900,
           "external_ids": [
-            "PPSA27363_00",
-            "CUSA14085_00",
+            "CUSA14081_00",
             "PPSA27367_00",
-            "CUSA14081_00"
+            "CUSA14085_00",
+            "PPSA27363_00"
           ]
         }
       }
@@ -16178,10 +16178,10 @@
             }
           ],
           "external_ids": [
-            "PPSA27363_00",
-            "CUSA14085_00",
+            "CUSA14081_00",
             "PPSA27367_00",
-            "CUSA14081_00"
+            "CUSA14085_00",
+            "PPSA27363_00"
           ]
         }
       },
