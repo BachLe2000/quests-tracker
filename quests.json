@@ -16335,5 +16335,143 @@
       "link": "https://store.steampowered.com/app/3564740/480?utm_source=DiscordOrbs",
       "button_label": "Get Game"
     }
+  },
+  "1448427433370849530": {
+    "config_version": 2,
+    "starts_at": "2025-11-24T18:00:26+00:00",
+    "expires_at": "2025-12-08T00:00:26+00:00",
+    "features": [
+      3,
+      9,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19,
+      23
+    ],
+    "application": {
+      "link": "https://www.universalpictures.es/micro/five-nights-2#iframe1",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "quests/1441138638703300698/1446278253739376702.jpg",
+      "hero_video": "quests/1441138638703300698/1441140304018280569.mp4",
+      "quest_bar_hero": "quests/1441138638703300698/1441140208065052732.jpg",
+      "quest_bar_hero_video": "quests/1441138638703300698/1441140304018280569.mp4",
+      "game_tile": "1441140676321611957.png",
+      "logotype": "1441140675352723627.png",
+      "game_tile_light": "quests/1441138638703300698/1441140637599797248.png",
+      "game_tile_dark": "quests/1441138638703300698/1441140637599797248.png",
+      "logotype_light": "quests/1441138638703300698/1441140555806674954.png",
+      "logotype_dark": "quests/1441138638703300698/1441140555806674954.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Five Nights at Freddy's 2",
+      "game_title": "5 de Diciembre Solo en Cines",
+      "game_publisher": "Universal Pictures"
+    },
+    "task_config": {
+      "type": 1,
+      "join_operator": "or",
+      "tasks": {
+        "WATCH_VIDEO": {
+          "event_name": "WATCH_VIDEO",
+          "target": 92,
+          "external_ids": []
+        }
+      }
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 92,
+          "assets": {
+            "video": {
+              "url": "quests/1441138638703300698/1441140825924042882_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1441138638703300698/1446278346567716864.jpg",
+              "caption": "quests/1441138638703300698/1441529654354641000.vtt",
+              "transcript": "quests/1441138638703300698/1441529684960612562.txt"
+            },
+            "video_low_res": {
+              "url": "quests/1441138638703300698/1441140825924042882_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1441138638703300698/1446278346567716864.jpg",
+              "caption": "quests/1441138638703300698/1441529654354641000.vtt",
+              "transcript": "quests/1441138638703300698/1441529684960612562.txt"
+            },
+            "video_hls": {
+              "url": "quests/1441138638703300698/1441140825924042882.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1441138638703300698/1446278346567716864.jpg",
+              "caption": "quests/1441138638703300698/1441529654354641000.vtt",
+              "transcript": "quests/1441138638703300698/1441529684960612562.txt"
+            }
+          },
+          "messages": {
+            "video_title": "Five Nights at Freddy's 2 Trailer",
+            "video_end_cta_subtitle": "5 de Diciembre Solo en Cines",
+            "video_end_cta_button_label": "Learn More"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "700 Orbs",
+            "name_with_article": "700 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "Default"
+            }
+          },
+          "orb_quantity": 700
+        }
+      ],
+      "rewards_expire_at": "2026-01-07T00:00:26+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "video_metadata": {
+      "messages": {
+        "video_title": "Five Nights at Freddy's 2 Trailer",
+        "video_end_cta_subtitle": "5 de Diciembre Solo en Cines",
+        "video_end_cta_button_label": "Get Tickets"
+      },
+      "assets": {
+        "video_player_video_hls": "quests/1441138638703300698/1441140825924042882.m3u8",
+        "video_player_video": "quests/1441138638703300698/1441140825924042882_1080.mp4",
+        "video_player_thumbnail": "quests/1441138638703300698/1446278346567716864.jpg",
+        "video_player_video_low_res": "quests/1441138638703300698/1441140825924042882_720.mp4",
+        "video_player_caption": "quests/1441138638703300698/1441529654354641000.vtt",
+        "video_player_transcript": "quests/1441138638703300698/1441529684960612562.txt",
+        "quest_bar_preview_video": null,
+        "quest_bar_preview_thumbnail": null,
+        "quest_home_video": null
+      }
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://www.universalpictures.es/micro/five-nights-2#iframe1",
+      "button_label": "Get Tickets",
+      "subtitle": "5 de Diciembre Solo en Cines"
+    }
   }
 }
