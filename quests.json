@@ -61526,9 +61526,10 @@
     }
   },
   "1521223322346455134": {
+    "id": "1521223322346455134",
     "config_version": 2,
     "starts_at": "2026-07-01T17:00:00+00:00",
-    "expires_at": "2026-08-06T00:00:00+00:00",
+    "expires_at": "2026-08-11T00:00:00+00:00",
     "features": [
       15
     ],
@@ -61632,10 +61633,10 @@
             }
           },
           "orb_quantity": 200,
-          "premium_orb_quantity": null
+          "premium_orb_quantity": 240
         }
       ],
-      "rewards_expire_at": "2026-09-05T00:00:00+00:00",
+      "rewards_expire_at": "2026-09-10T00:00:00+00:00",
       "platforms": [
         0
       ]
