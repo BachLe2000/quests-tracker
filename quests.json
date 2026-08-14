@@ -68485,10 +68485,11 @@
       "name": "Discord"
     },
     "assets": {
-      "hero": "quests/1527791132938080326/1527793175417061466.jpg",
-      "quest_bar_hero_blurhash": "YtgFGojCt6iAYpWYaISABgk=",
-      "quest_bar_hero": "quests/1527791132938080326/1527793175417061466.jpg",
-      "quest_bar_hero_video": "quests/1527791132938080326/1527793102667120820_720.mp4",
+      "hero": "quests/1527791132938080326/1537958986349805598.jpg",
+      "hero_video": "quests/1527791132938080326/1537959007795290122_720.mp4",
+      "quest_bar_hero_blurhash": "X1gKSp6vZ5d3iIeHYHcId4g=",
+      "quest_bar_hero": "quests/1527791132938080326/1537958986349805598.jpg",
+      "quest_bar_hero_video": "quests/1527791132938080326/1537959007795290122_720.mp4",
       "game_tile": "PLACEHOLDER",
       "logotype": "PLACEHOLDER",
       "game_tile_light": "quests/1527791132938080326/1527793006290407484.png",
@@ -68512,22 +68513,22 @@
           "target": 39,
           "assets": {
             "video": {
-              "url": "quests/1527791132938080326/1527793006235619398_1080.mp4",
+              "url": "quests/1527791132938080326/1537956046134579200_1080.mp4",
               "width": 1080,
               "height": 1920,
-              "thumbnail": "quests/1527791132938080326/1527801348622520330.png"
+              "thumbnail": "quests/1527791132938080326/1537956007785922570.png"
             },
             "video_low_res": {
-              "url": "quests/1527791132938080326/1527793006235619398_720.mp4",
+              "url": "quests/1527791132938080326/1537956046134579200_720.mp4",
               "width": 1080,
               "height": 1920,
-              "thumbnail": "quests/1527791132938080326/1527801348622520330.png"
+              "thumbnail": "quests/1527791132938080326/1537956007785922570.png"
             },
             "video_hls": {
-              "url": "quests/1527791132938080326/1527793006235619398.m3u8",
+              "url": "quests/1527791132938080326/1537956046134579200.m3u8",
               "width": 1080,
               "height": 1920,
-              "thumbnail": "quests/1527791132938080326/1527801348622520330.png"
+              "thumbnail": "quests/1527791132938080326/1537956007785922570.png"
             }
           },
           "messages": {
@@ -68685,10 +68686,11 @@
       "name": "Discord"
     },
     "assets": {
-      "hero": "quests/1527781624270295223/1527784740587831408.jpg",
-      "quest_bar_hero_blurhash": "YtgFGojCt6iAYpWYaISABgk=",
-      "quest_bar_hero": "quests/1527781624270295223/1527784740587831408.jpg",
-      "quest_bar_hero_video": "quests/1527781624270295223/1527784667191967764_720.mp4",
+      "hero": "quests/1527781624270295223/1537956840963440710.jpg",
+      "hero_video": "quests/1527781624270295223/1537956866322202624_720.mp4",
+      "quest_bar_hero_blurhash": "X1gKSp6vZ5d3iIeHYHcId4g=",
+      "quest_bar_hero": "quests/1527781624270295223/1537956840963440710.jpg",
+      "quest_bar_hero_video": "quests/1527781624270295223/1537956866322202624_720.mp4",
       "game_tile": "PLACEHOLDER",
       "logotype": "PLACEHOLDER",
       "game_tile_light": "quests/1527781624270295223/1527784607976788140.png",
