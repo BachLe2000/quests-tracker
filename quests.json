@@ -73045,7 +73045,7 @@
     },
     "messages": {
       "quest_name": "The End of Oak Street",
-      "game_title": "Tickets Now on Sale!",
+      "game_title": "Now Playing",
       "game_publisher": "Warner Bros. Pictures"
     },
     "task_config_v2": {
@@ -73093,7 +73093,7 @@
     "cta_config": {
       "link": "https://www.endofoakstreet.com/",
       "button_label": "Get Tickets",
-      "subtitle": "Tickets Now on Sale!"
+      "subtitle": "Now Playing"
     }
   },
   "1532150126540361938": {
