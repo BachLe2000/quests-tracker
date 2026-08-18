@@ -74853,7 +74853,7 @@
       15
     ],
     "application": {
-      "link": " https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/search?cid=formula1&OCID=AIDcmmkln6z48t_OLA_%ebuy!_%epid!_%ecid!&siteID=%esid!",
+      "link": "https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/search?cid=formula1&OCID=AIDcmmkln6z48t_OLA_%ebuy!_%epid!_%ecid!&siteID=%esid!",
       "id": "545364944258990091",
       "name": "Discord"
     },
@@ -74968,7 +74968,7 @@
     },
     "share_policy": "shareable_everywhere",
     "cta_config": {
-      "link": " https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/search?cid=formula1&OCID=AIDcmmkln6z48t_OLA_%ebuy!_%epid!_%ecid!&siteID=%esid!",
+      "link": "https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/search?cid=formula1&OCID=AIDcmmkln6z48t_OLA_%ebuy!_%epid!_%ecid!&siteID=%esid!",
       "button_label": "Learn More",
       "subtitle": "Build greatness with Azure"
     }
