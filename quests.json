@@ -75558,7 +75558,7 @@
     },
     "messages": {
       "quest_name": "Insidious: Out Of The Further",
-      "game_title": "INSIDIOUS: Out Of The Further in cinemas August 21st",
+      "game_title": "Now Playing Exclusively in Theatres",
       "game_publisher": "Sony Pictures Entertainment"
     },
     "task_config_v2": {
@@ -75568,22 +75568,22 @@
           "target": 29,
           "assets": {
             "video": {
-              "url": "quests/1535343840557539408/1537929362681372722_1080.mp4",
+              "url": "quests/1535343840557539408/1537929352426160259_1080.mp4",
               "width": 1920,
               "height": 1080,
-              "thumbnail": "quests/1535343840557539408/1536613375562227732.jpg"
+              "thumbnail": "quests/1535343840557539408/1536613388614901850.jpg"
             },
             "video_low_res": {
-              "url": "quests/1535343840557539408/1537929362681372722_720.mp4",
+              "url": "quests/1535343840557539408/1537929352426160259_720.mp4",
               "width": 1920,
               "height": 1080,
-              "thumbnail": "quests/1535343840557539408/1536613375562227732.jpg"
+              "thumbnail": "quests/1535343840557539408/1536613388614901850.jpg"
             },
             "video_hls": {
-              "url": "quests/1535343840557539408/1537929362681372722.m3u8",
+              "url": "quests/1535343840557539408/1537929352426160259.m3u8",
               "width": 1920,
               "height": 1080,
-              "thumbnail": "quests/1535343840557539408/1536613375562227732.jpg"
+              "thumbnail": "quests/1535343840557539408/1536613388614901850.jpg"
             }
           },
           "messages": {
@@ -75595,22 +75595,22 @@
           "target": 24,
           "assets": {
             "video": {
-              "url": "quests/1535343840557539408/1538731494892376104_1080.mp4",
+              "url": "quests/1535343840557539408/1538731494640455822_1080.mp4",
               "width": 1080,
               "height": 1920,
-              "thumbnail": "quests/1535343840557539408/1536613375562227732.jpg"
+              "thumbnail": "quests/1535343840557539408/1536613388614901850.jpg"
             },
             "video_low_res": {
-              "url": "quests/1535343840557539408/1538731494892376104_720.mp4",
+              "url": "quests/1535343840557539408/1538731494640455822_720.mp4",
               "width": 1080,
               "height": 1920,
-              "thumbnail": "quests/1535343840557539408/1536613375562227732.jpg"
+              "thumbnail": "quests/1535343840557539408/1536613388614901850.jpg"
             },
             "video_hls": {
-              "url": "quests/1535343840557539408/1538731494892376104.m3u8",
+              "url": "quests/1535343840557539408/1538731494640455822.m3u8",
               "width": 1080,
               "height": 1920,
-              "thumbnail": "quests/1535343840557539408/1536613375562227732.jpg"
+              "thumbnail": "quests/1535343840557539408/1536613388614901850.jpg"
             }
           },
           "messages": {
@@ -75646,7 +75646,7 @@
     "cta_config": {
       "link": "https://insidious.movie?utm_source=discord&utm_medium=core",
       "button_label": "Get Tickets",
-      "subtitle": "INSIDIOUS: Out Of The Further in cinemas August 21st"
+      "subtitle": "Now Playing Exclusively in Theatres"
     }
   },
   "1532794643526193372": {
@@ -76422,7 +76422,7 @@
     },
     "messages": {
       "quest_name": "Insidious: Out Of The Further",
-      "game_title": "INSIDIOUS: Out Of The Further - In theatres Thursday",
+      "game_title": "INSIDIOUS: Out Of The Further - Now playing in theatres.",
       "game_publisher": "Sony Pictures Entertainment"
     },
     "task_config_v2": {
@@ -76432,22 +76432,22 @@
           "target": 14,
           "assets": {
             "video": {
-              "url": "quests/1535352137792487624/1539001551161663530_1080.mp4",
+              "url": "quests/1535352137792487624/1539001550947623103_1080.mp4",
               "width": 1920,
               "height": 1080,
-              "thumbnail": "quests/1535352137792487624/1538948240416710767.jpg"
+              "thumbnail": "quests/1535352137792487624/1538948240425099304.jpg"
             },
             "video_low_res": {
-              "url": "quests/1535352137792487624/1539001551161663530_720.mp4",
+              "url": "quests/1535352137792487624/1539001550947623103_720.mp4",
               "width": 1920,
               "height": 1080,
-              "thumbnail": "quests/1535352137792487624/1538948240416710767.jpg"
+              "thumbnail": "quests/1535352137792487624/1538948240425099304.jpg"
             },
             "video_hls": {
-              "url": "quests/1535352137792487624/1539001551161663530.m3u8",
+              "url": "quests/1535352137792487624/1539001550947623103.m3u8",
               "width": 1920,
               "height": 1080,
-              "thumbnail": "quests/1535352137792487624/1538948240416710767.jpg"
+              "thumbnail": "quests/1535352137792487624/1538948240425099304.jpg"
             }
           },
           "messages": {
@@ -76459,22 +76459,22 @@
           "target": 14,
           "assets": {
             "video": {
-              "url": "quests/1535352137792487624/1539001551132041276_1080.mp4",
+              "url": "quests/1535352137792487624/1539001550960197702_1080.mp4",
               "width": 1080,
               "height": 1920,
-              "thumbnail": "quests/1535352137792487624/1538948240416710767.jpg"
+              "thumbnail": "quests/1535352137792487624/1538948240425099304.jpg"
             },
             "video_low_res": {
-              "url": "quests/1535352137792487624/1539001551132041276_720.mp4",
+              "url": "quests/1535352137792487624/1539001550960197702_720.mp4",
               "width": 1080,
               "height": 1920,
-              "thumbnail": "quests/1535352137792487624/1538948240416710767.jpg"
+              "thumbnail": "quests/1535352137792487624/1538948240425099304.jpg"
             },
             "video_hls": {
-              "url": "quests/1535352137792487624/1539001551132041276.m3u8",
+              "url": "quests/1535352137792487624/1539001550960197702.m3u8",
               "width": 1080,
               "height": 1920,
-              "thumbnail": "quests/1535352137792487624/1538948240416710767.jpg"
+              "thumbnail": "quests/1535352137792487624/1538948240425099304.jpg"
             }
           },
           "messages": {
@@ -76510,7 +76510,7 @@
     "cta_config": {
       "link": "https://insidious-out-of-the-further-tix.ca?utm_source=discord&utm_medium=core_tickets",
       "button_label": "Get Tickets",
-      "subtitle": "INSIDIOUS: Out Of The Further - In theatres Thursday"
+      "subtitle": "INSIDIOUS: Out Of The Further - Now playing in theatres."
     }
   },
   "1539100692541743216": {
