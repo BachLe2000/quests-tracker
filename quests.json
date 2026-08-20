@@ -75184,7 +75184,7 @@
   "1537517701982064721": {
     "config_version": 2,
     "starts_at": "2026-08-14T18:00:00+00:00",
-    "expires_at": "2026-08-21T00:00:00+00:00",
+    "expires_at": "2026-08-28T00:00:00+00:00",
     "features": [
       44,
       15
@@ -75264,7 +75264,7 @@
           "premium_orb_quantity": null
         }
       ],
-      "rewards_expire_at": "2026-09-20T00:00:00+00:00",
+      "rewards_expire_at": "2026-09-27T00:00:00+00:00",
       "platforms": [
         0
       ]
