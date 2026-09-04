@@ -77217,19 +77217,19 @@
           "target": 40,
           "assets": {
             "video": {
-              "url": "quests/1527464720183984268/1535064816564174878_1080.mp4",
+              "url": "quests/1527464720183984268/1527475602129686698_1080.mp4",
               "width": 1080,
               "height": 1920,
               "thumbnail": "quests/1527464720183984268/1527475602062311535.png"
             },
             "video_low_res": {
-              "url": "quests/1527464720183984268/1535064816564174878_720.mp4",
+              "url": "quests/1527464720183984268/1527475602129686698_720.mp4",
               "width": 1080,
               "height": 1920,
               "thumbnail": "quests/1527464720183984268/1527475602062311535.png"
             },
             "video_hls": {
-              "url": "quests/1527464720183984268/1535064816564174878.m3u8",
+              "url": "quests/1527464720183984268/1527475602129686698.m3u8",
               "width": 1080,
               "height": 1920,
               "thumbnail": "quests/1527464720183984268/1527475602062311535.png"
@@ -80239,22 +80239,22 @@
           "target": 72,
           "assets": {
             "video": {
-              "url": "quests/1539783833002577981/1542570156537159690_1080.mp4",
+              "url": "quests/1539783833002577981/1545212589816942592_1080.mp4",
               "width": 1920,
               "height": 1080,
-              "thumbnail": "quests/1539783833002577981/1542570432513839155.png"
+              "thumbnail": "quests/1539783833002577981/1545212589473140776.png"
             },
             "video_low_res": {
-              "url": "quests/1539783833002577981/1542570156537159690_720.mp4",
+              "url": "quests/1539783833002577981/1545212589816942592_720.mp4",
               "width": 1920,
               "height": 1080,
-              "thumbnail": "quests/1539783833002577981/1542570432513839155.png"
+              "thumbnail": "quests/1539783833002577981/1545212589473140776.png"
             },
             "video_hls": {
-              "url": "quests/1539783833002577981/1542570156537159690.m3u8",
+              "url": "quests/1539783833002577981/1545212589816942592.m3u8",
               "width": 1920,
               "height": 1080,
-              "thumbnail": "quests/1539783833002577981/1542570432513839155.png"
+              "thumbnail": "quests/1539783833002577981/1545212589473140776.png"
             }
           },
           "messages": {
@@ -80266,22 +80266,22 @@
           "target": 72,
           "assets": {
             "video": {
-              "url": "quests/1539783833002577981/1542570156537159690_1080.mp4",
+              "url": "quests/1539783833002577981/1545212589816942592_1080.mp4",
               "width": 1920,
               "height": 1080,
-              "thumbnail": "quests/1539783833002577981/1542570432513839155.png"
+              "thumbnail": "quests/1539783833002577981/1545212589473140776.png"
             },
             "video_low_res": {
-              "url": "quests/1539783833002577981/1542570156537159690_720.mp4",
+              "url": "quests/1539783833002577981/1545212589816942592_720.mp4",
               "width": 1920,
               "height": 1080,
-              "thumbnail": "quests/1539783833002577981/1542570432513839155.png"
+              "thumbnail": "quests/1539783833002577981/1545212589473140776.png"
             },
             "video_hls": {
-              "url": "quests/1539783833002577981/1542570156537159690.m3u8",
+              "url": "quests/1539783833002577981/1545212589816942592.m3u8",
               "width": 1920,
               "height": 1080,
-              "thumbnail": "quests/1539783833002577981/1542570432513839155.png"
+              "thumbnail": "quests/1539783833002577981/1545212589473140776.png"
             }
           },
           "messages": {
@@ -80316,8 +80316,8 @@
     "share_policy": "shareable_everywhere",
     "cta_config": {
       "link": "https://2kgam.es/3RuZ5v9",
-      "button_label": "Pre-Order Now",
-      "subtitle": "Get the Deluxe or Ultra Edition to play NBA 2K27 Early Access NOW "
+      "button_label": "Buy Now",
+      "subtitle": "Ball Over Everything! NBA 2K27 Available NOW"
     }
   },
   "1542287027578478654": {
@@ -82308,6 +82308,90 @@
       "link": "https://tv.apple.com/us/movie/mayday/umc.cmc.shin43vzfoz3h4ggx41z8rf?itscg=MC_50000&itsct=atvp_brand_omd&mttn3pid=Discord&mttnagencyid=a5e&mttncc=US&mttnsiteid=143238&mttnsubad=07263137",
       "button_label": "Watch Now",
       "subtitle": "Mayday. New Movie on Apple TV"
+    }
+  },
+  "1536465227946926190": {
+    "config_version": 2,
+    "starts_at": "2026-09-04T16:00:00+00:00",
+    "expires_at": "2026-09-14T06:59:00+00:00",
+    "features": [
+      27,
+      36,
+      15
+    ],
+    "application": {
+      "link": "https://theuprising.movie",
+      "id": "1534944074153463858",
+      "name": "Revolt"
+    },
+    "assets": {
+      "hero": "quests/1536465227946926190/1545104910583079073.jpg",
+      "hero_video": "quests/1536465227946926190/1544751089776201788_720.mp4",
+      "quest_bar_hero_blurhash": "0vcJAoAwhnZrd3d4r4P4h5Y=",
+      "quest_bar_hero": "quests/1536465227946926190/1545104910583079073.jpg",
+      "quest_bar_hero_video": "quests/1536465227946926190/1544751089776201788_720.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1536465227946926190/1544749823838781470.png",
+      "game_tile_dark": "quests/1536465227946926190/1544749823838781470.png",
+      "logotype_light": "quests/1536465227946926190/1544749952280821790.png",
+      "logotype_dark": "quests/1536465227946926190/1544753521864474724.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "The Uprising",
+      "game_title": "The Uprising | Only In Theaters September 10",
+      "game_publisher": "Focus Features"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "ACHIEVEMENT_IN_ACTIVITY": {
+          "type": "ACHIEVEMENT_IN_ACTIVITY",
+          "target": 5,
+          "applications": [
+            {
+              "id": "1534944074153463858"
+            }
+          ],
+          "event_name": "progress",
+          "messages": {
+            "task_title": "The Uprising",
+            "task_description": "Lead The Uprising by making it to London Bridge and earn 700 Orbs!"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "700 Orbs",
+            "name_with_article": "700 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 700,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2026-10-14T06:59:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://theuprising.movie",
+      "button_label": "Get Tickets",
+      "subtitle": "The Uprising | Only In Theaters September 10"
     }
   }
 }
